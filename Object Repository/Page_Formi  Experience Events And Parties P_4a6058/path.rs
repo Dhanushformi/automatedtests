@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>fa035ee1-92c3-4a49-89e2-2f648e76b7af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>fbc654e1-4caf-422f-a1d5-3d1992e1bb4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M17 7l-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z</value>
+      <webElementGuid>e7a9bb7e-03ef-49bf-a4ad-0193af747be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/div[@class=&quot;ant-row profile-dropdown_row__ZYBhm&quot;]/svg[@class=&quot;profile-dropdown_logout__2nAXg&quot;]/path[2]</value>
+      <webElementGuid>90b9be99-74cc-4bc1-a3f8-b71a1e313cf0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

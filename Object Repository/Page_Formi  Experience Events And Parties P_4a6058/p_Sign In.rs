@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sign In</name>
+   <tag></tag>
+   <elementGuidId>49b81284-aee7-4a83-b080-d916765d42a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div/a/button/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ded73592-e94e-4c63-a5af-69f7746a37f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>0a11568a-5f25-4064-9c2d-d9c6b62be896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>4960a14d-e450-4374-8116-92228cf281aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div/a/button/p</value>
+      <webElementGuid>49239be0-0069-490c-9090-ff59addb19a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THINK'])[1]/preceding::p[1]</value>
+      <webElementGuid>22c336fa-87eb-458b-a881-e51a4246b601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FUN'])[1]/preceding::p[1]</value>
+      <webElementGuid>aab2ff06-073b-4f55-a9ba-87c477867c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>3741be13-50a2-4823-a570-e36d041cffc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>658ec2e0-47c7-43c1-bf8e-e8123aeb1659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>edbaa2b9-b490-4466-9ce0-747e5fb2d6df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
