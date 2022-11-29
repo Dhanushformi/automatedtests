@@ -6,16 +6,376 @@
    <elementGuidId>ec665614-ffec-47fa-913f-5a46ffabac06</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div/div[2]/div[3]/span[2]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.auth_signin__JqwQG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div[3]/span[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>212223bc-684e-4b0e-a8ae-63f8792e37aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>badef2af-da50-4adf-84e0-d12c3c625149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>5b4f82c9-8b2d-4984-aab8-b08b47df2b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>d3e0f168-58e5-43a2-abce-f947d1a8bf0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>242c2491-c304-4e67-af4b-ad54747b6670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b8f74ab8-686f-4d26-802d-fac2b980c46e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>e1b77afb-a5fe-4f3a-a1f2-b93dd873a37b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>d67cdfe7-96fb-486e-a3f0-c93a5db2db27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>2aa8c2c3-5bb3-4b4f-9abb-c4a15d6cafd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>4eb52654-6222-4740-b2b5-4bf6f5965c46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ae5325bd-d5f7-48f3-a143-757d2ba714f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>d76b2001-b80c-4b12-adaa-657bfcac01cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>e3a70b1f-94b0-4ca3-9909-a5e9ef9f517c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>b11ae91e-8415-4fb2-bf42-2525a04f94bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>e136e855-2af5-4c47-b3b3-63f1770dfd2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3da74336-cd24-4502-a875-e5932a1edb4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>9429aaef-bd80-47df-b09b-93ccba1e4574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>988a306c-444c-439e-87c7-7309a2f570c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>265505d6-93d7-4bea-9bf9-7f99075bc0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>b85ca06e-8d7a-462b-a101-775039fc0805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e07ecfd-ab00-4581-8c07-684d25dd73b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>7e66e071-50ad-477a-b004-b555c7028a83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>728453ed-b2c9-44ee-af58-6379994f641f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>8069a5d0-3eb8-4d9b-9ed5-1c6d6d6da0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>901dbf4c-0dc4-434e-8109-f3c0ad25e0fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>18c2663f-3593-405d-842a-20ca8364414b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>d4925198-8a07-4535-b48c-5a3d2225ecf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>e47629eb-67e9-4ea9-b307-070263dff7df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>be801f53-7dc2-49ff-9a6b-a3a36665d5b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>57324175-ddcc-4eae-aed8-cb406ddccd74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>62101989-fde7-45e7-954e-33c153b328db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>dc6d0359-8429-4766-af40-a42380b4bf5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>b2edcf09-a67a-4fe1-a792-8f88d21926d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>0dda507e-533d-4e70-bd7f-8433ba794452</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>b729c491-c4bc-45c0-ab19-ad26f2632ff0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d262a7ff-c5ab-4243-bf1b-6d5afaf1f5aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>e1993f08-26ab-4771-8e6a-1cdb140a689f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>94cc7e74-13ef-4276-ade5-665704c04ada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>ef9f9329-fd24-464f-a9a8-2c1db9a34b7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>85947aa1-b6ae-4e32-8ff2-1318c2c44409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c28b71fc-7b30-42cf-9c9e-2214f930ee09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>signinmainbutton</value>
+      <webElementGuid>2d7f9a63-87e0-464e-8c20-e9d92791ca83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth_signin__JqwQG</value>
+      <webElementGuid>7016500d-5287-46c3-8760-1987257d0844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>53d3fd15-d244-4924-bf49-01cae03aecfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;auth_parent__StwOh&quot;]/div[@class=&quot;auth_maincontainer__9gUqq&quot;]/div[@class=&quot;auth_leftside__m7fUv&quot;]/div[@class=&quot;auth_content__gR1Ij&quot;]/div[@class=&quot;auth_alreadyuser__Wl8r8&quot;]/span[@class=&quot;auth_signin__JqwQG&quot;]</value>
+      <webElementGuid>83d00f57-ec34-46a6-a281-131587e54564</webElementGuid>
+   </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
@@ -41,7 +401,7 @@
       <webElementGuid>94198fe8-4753-46c6-b5f9-dd2fef41afbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +422,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[2]/div[3]/span[2]</value>
-      <webElementGuid>dffb6106-ad08-4efb-a2c4-7a7fcf10c1a7</webElementGuid>
+      <webElementGuid>63280211-cd49-44be-98d8-867cdd81cb59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +430,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Already a user?'])[1]/following::span[1]</value>
-      <webElementGuid>1469707e-8044-4212-aee1-76bfe476a436</webElementGuid>
+      <webElementGuid>7000721f-6317-4877-9026-a3977208e4bc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +438,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::span[2]</value>
-      <webElementGuid>6ab8aef4-0746-4ac7-b755-0c4e79d0b0b6</webElementGuid>
+      <webElementGuid>d2e3f24c-08a9-4ade-9fbd-6359d3043bca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +446,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Magazine'])[1]/preceding::span[1]</value>
-      <webElementGuid>1017c8b8-1e18-4688-b251-dc617248155f</webElementGuid>
+      <webElementGuid>266696dd-ad2a-4ed9-84f9-f879f934a426</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +454,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='List Event'])[1]/preceding::span[1]</value>
-      <webElementGuid>bbc233f2-20c2-4731-909c-ae9d0ff4e6cb</webElementGuid>
+      <webElementGuid>3a55fce6-83b4-47bd-a908-73accef975a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +462,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>1df98698-194d-4414-85af-48f7c26d91c2</webElementGuid>
+      <webElementGuid>2df99cd4-6696-4645-8040-80430ff0f564</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +470,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]</value>
-      <webElementGuid>461506b0-5561-4641-8df6-72dc37bddadf</webElementGuid>
+      <webElementGuid>d4e83404-41ed-4049-93d0-b772c8c57008</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +478,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>0b73c27c-8fb5-46cc-93dc-dff101d29ccb</webElementGuid>
+      <webElementGuid>e5248a7b-8891-4230-b34b-16d66529fa1f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

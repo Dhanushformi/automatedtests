@@ -6,12 +6,12 @@
    <elementGuidId>49b81284-aee7-4a83-b080-d916765d42a0</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div[3]/div/a/button/p</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div/a/button/p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,10 +22,754 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>ded73592-e94e-4c63-a5af-69f7746a37f7</webElementGuid>
+      <webElementGuid>1f4f0c0f-4d3b-4995-a0ad-f1a063f9dfb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>d96418bf-3301-4404-a180-2e59c4765a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>94103a8b-e693-4f9d-bc71-24721c5a49b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ee8ab186-0605-445a-99d2-f725cb68b4cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>2dc4fc1a-0f36-47b9-9f0e-192b03eaa125</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>98bef370-eb69-411f-be9e-8f565c76298c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f330d8dd-b169-43ab-8b01-133e9f588aa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>29e949a7-2cea-4ac1-afac-9b6571fd1e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>9d4bb7b0-e790-4fbd-a342-53e0b3bf08a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1c366b2a-a8e9-4abd-9752-c75728efd611</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>a897c7a9-a27d-40b4-8998-75a6574e4b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>8a1ce6e2-e88b-4977-b823-4ccf4b7e4710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>347cc902-299b-48ec-91f8-74f7199d3bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>cf7cc743-3d2e-4df8-8d55-1c9d7ac98768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>0c3ec853-1a91-4f0c-9e63-c65ce6e9ca41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>eed05b4e-2c37-4177-b8df-901c0ddb4887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>27d5f03b-1c78-4cc8-b35b-c469910f737a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>8c0490a4-d79b-4352-8956-79133f54a8a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fcd96938-aa11-4ce4-9eca-dea814852544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>affeaebd-5feb-4719-8c37-bc3d8c04aeea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>edce5f93-b47c-44fc-a0c6-8cadc5e5ae70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>0e5d1a76-c9e5-4ba7-9df1-ce5fda3340c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>3bd8cae2-123f-4bae-a8ef-f8b8fc25d929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>4bb21afb-7b1d-4f78-af9a-a0c43daf8c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2b393fa9-e0c0-4861-9933-89ce66d512e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>fb55647d-699d-48b6-aa6f-4f06a3b7723d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>c72a1d61-fc27-4118-a586-36eecdd57770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2ed32cf1-9684-4099-888e-72925735ee0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>bb9e5e78-ae0b-4274-a4a5-06392bbdfc8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>4f88d9c5-2b76-4bcf-a5d4-b6dbfbbda401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>591ff4f5-2b90-44c9-960a-59882580f956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>0db8436b-ac22-4c30-bffc-ddc5772bfc01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>cecd1e95-85b8-4c00-8488-3085042c576c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2a939b32-d7ff-4591-8796-e7821b59c636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>7db2d74c-8f95-4e42-b882-05e814d5e2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>fb67f0b4-ac88-44d8-b775-47ac96b30cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ef4e2d26-52a6-4c3b-9062-89aa5602cd9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>436c01c7-b97c-42ca-b2b0-42beb7db4db6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>34d45eb1-e468-49f3-b789-d1ec81a47a41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>df2c9b4a-bf7a-4305-b96f-0814ff14d7f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>f672841f-e618-4a24-b467-eba7de0c840a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>575604e9-7946-49ef-8d0d-b2cb97e83443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7876c6ea-8686-4ab8-8891-9d3b77be0a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>26e7e8b4-2e37-4655-943c-b04077b648af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>6ceebd8e-7b16-4de2-ab55-6482220443ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cbc0c1f8-0aad-4bc9-b7b5-f7e0303774b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>6bc4ba8f-55c7-4839-8246-70754c25db7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>9069ce75-4cf7-452f-aa56-df0ad60aa7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c94a777c-44f5-4cfe-8e1c-10249dfada51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>ce4db855-cc57-45cd-9160-4314df4ad3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>405be0c3-8613-44d5-a5a4-c06267bee113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>28b3e93d-a322-4d7b-99a0-2392cc218bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>9ce9c087-b71a-4516-9fa7-87ae45880488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>48e8b921-c36f-4543-b8fa-bea562f74a87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ada48e3e-8cb3-44c0-b4c3-24b706524473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>ed081bdd-ad62-45ff-8503-9f2cbbf94b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>292a6805-feb5-4249-b1ba-ce8397fc347f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dcebb044-d89c-4624-9672-35945661f2d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>d8f5ee08-941b-47b3-94f4-935c7e534c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>8cfb7da1-89a8-40f2-b981-1aabdf36f5d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>23e92bee-d216-43d5-abc0-b32ac2c746f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>2ae2e090-5498-4ddd-8b78-81a32b8c3996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>3a992b5a-4e73-4a72-af59-2a6180199fb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6beb7df6-9692-47a3-9de7-710ae76e9a60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>6dca0728-0f61-4ed9-9d8b-f1c0404c96a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>dd66dfe5-fc8a-4aea-a79a-b7fca8a4c7af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>aa2718e8-5bc4-4d65-af10-a830616655d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>b5fc59d7-ba05-4dd9-886a-ae006efea89d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>5d78fdf3-44df-4db8-b8ee-f4775cc5a3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>292b2c34-4e52-4436-bd8f-0ba967e89dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>e67c7508-ffec-4941-a4c2-343e3cfbb106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>e6260e75-6be1-43d0-9ab5-501dea9b0ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>eaff60f0-0eb5-4d0f-ae09-27fd88052427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>842713bb-d8ab-4d15-bac5-e17c75b37f2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>5763e693-4582-46c1-a90d-dfbbd04f8ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>05463a5b-ae64-4d42-a8df-8a3b51750abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>ff7f9025-b03f-4989-8931-246ffc6fc82d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>b5efea1d-67b3-4994-be83-0963c0f98ffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6cef8295-1b3d-4872-932a-454a35c98a16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>54c1e101-2486-4893-ba5d-f2b542eac9a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>b7805774-e048-45f4-bb51-d0ecf773e87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a8c73892-34f7-4391-ba7c-3914d60117a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>a60d8a2c-cff8-46fa-b4b7-aed09f3799b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>c9ee19d8-963e-4a30-9be5-27128f5a4bcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>52ba3295-3695-48ae-b772-248c46226db9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>39d7dd9f-a915-4fa5-949d-621122f95b10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>76797552-f212-4501-8113-524c6b3f4eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e21531dd-e152-445b-ac34-5ed98e484d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>83e0b676-8ce2-4b0a-9283-b92e08216843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>672a83aa-f5ae-457e-96b1-f3715031532d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c52db9f4-eb08-46fe-bfd1-73fff623d6f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>33c6dd16-27d2-4b7f-9db9-0e5daef49f17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default user-top-navbar_button__lEmPL&quot;]/p[1]</value>
+      <webElementGuid>0fca14f2-8795-406b-a9c2-73b938f31583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ded73592-e94e-4c63-a5af-69f7746a37f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -46,7 +790,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div[3]/div/a/button/p</value>
-      <webElementGuid>49239be0-0069-490c-9090-ff59addb19a8</webElementGuid>
+      <webElementGuid>b6f50f86-ab93-4c57-af1c-9a0d67371dbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +798,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='THINK'])[1]/preceding::p[1]</value>
-      <webElementGuid>22c336fa-87eb-458b-a881-e51a4246b601</webElementGuid>
+      <webElementGuid>d69492f1-1dcb-4e36-abf2-0271feb91931</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +806,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='FUN'])[1]/preceding::p[1]</value>
-      <webElementGuid>aab2ff06-073b-4f55-a9ba-87c477867c62</webElementGuid>
+      <webElementGuid>460e3e91-2832-491d-b3ea-6679cfdac7ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +814,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
-      <webElementGuid>3741be13-50a2-4823-a570-e36d041cffc2</webElementGuid>
+      <webElementGuid>c4ad63b2-4adf-4399-800e-42005cde005a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +822,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>658ec2e0-47c7-43c1-bf8e-e8123aeb1659</webElementGuid>
+      <webElementGuid>c1f9eb8e-4ad4-494c-a131-c14821c4d5e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +830,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>edbaa2b9-b490-4466-9ce0-747e5fb2d6df</webElementGuid>
+      <webElementGuid>f1370295-4767-4e71-b0e3-71989357e9a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

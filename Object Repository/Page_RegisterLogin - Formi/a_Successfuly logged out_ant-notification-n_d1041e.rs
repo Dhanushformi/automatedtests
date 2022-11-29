@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Successfuly logged out_ant-notification-n_d1041e</name>
+   <tag></tag>
+   <elementGuidId>ed99c0d9-6464-4498-b61d-01ac7c431034</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Successfuly logged out'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ant-notification-notice-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>81c01c54-06ed-445d-880a-52c6cbaa26a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>68345f84-576e-4911-ad24-29fcae3e5ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-notification-notice-close</value>
+      <webElementGuid>2bfa42f5-c66e-4c09-9cfc-bae4bd1773ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-notification ant-notification-topRight&quot;]/div[1]/div[@class=&quot;ant-notification-notice messageStylingSuccess ant-notification-notice-success ant-notification-notice-closable&quot;]/a[@class=&quot;ant-notification-notice-close&quot;]</value>
+      <webElementGuid>7ebb396a-950c-456f-ab70-22b3a780acc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e475b79a-b7c6-4b45-a720-437af8887b15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>564ac52b-598d-45cb-8195-0d1b0691eb7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-notification-notice-close</value>
+      <webElementGuid>aa8064f0-7e2b-4cf3-8a86-a99d342798ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-notification ant-notification-topRight&quot;]/div[1]/div[@class=&quot;ant-notification-notice messageStylingSuccess ant-notification-notice-success ant-notification-notice-closable&quot;]/a[@class=&quot;ant-notification-notice-close&quot;]</value>
+      <webElementGuid>46d191e0-d4e0-4150-b170-0607709398da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Successfuly logged out'])[1]/following::a[1]</value>
+      <webElementGuid>468dbfcf-8342-4915-a359-b6a1f5982a39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin@formi.co.in'])[1]/following::a[2]</value>
+      <webElementGuid>9e4e9ad1-36a7-4263-b420-fd347fda169d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a</value>
+      <webElementGuid>20dadf5b-7011-4ef0-adc8-a04a8a65ea15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

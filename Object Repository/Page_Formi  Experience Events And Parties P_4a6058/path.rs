@@ -22,6 +22,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
+      <webElementGuid>73b2f1cd-b1a3-4ec3-a6eb-a8881b66ea26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M17 7l-1.41 1.41L18.17 11H8v2h10.17l-2.58 2.58L17 17l5-5zM4 5h8V3H4c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h8v-2H4V5z</value>
+      <webElementGuid>46750944-f841-4bc0-b6a4-b0fe7564fb11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;landing_landing__fjvQt&quot;]/div[@class=&quot;user-top-navbar_navbar__PoQTO&quot;]/div[@class=&quot;ant-row user-top-navbar_first__BIdS4&quot;]/div[@class=&quot;user-top-navbar_buttonsection__ArcfF&quot;]/div[@class=&quot;ant-row profile-dropdown_row__ZYBhm&quot;]/svg[@class=&quot;profile-dropdown_logout__2nAXg&quot;]/path[2]</value>
+      <webElementGuid>b2407dad-5cb9-4bc0-9e06-31978011074c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
       <webElementGuid>fbc654e1-4caf-422f-a1d5-3d1992e1bb4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +57,7 @@
       <webElementGuid>e7a9bb7e-03ef-49bf-a4ad-0193af747be8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
