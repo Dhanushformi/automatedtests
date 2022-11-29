@@ -22,10 +22,330 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>726ed212-2c76-42e3-b431-308b4ca3f40a</webElementGuid>
+      <webElementGuid>639e2307-0bf8-499d-b463-20ac97ed1907</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>3e8f16d2-9d90-4bca-8500-a777f89331e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default newauth_registerbutton__dvbIp</value>
+      <webElementGuid>27a433c4-b8a9-464f-bc29-7367a9a96c5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>4cffa749-1474-4cef-8f13-6f1ed240aa09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal newauth_maincontainer__uGko6&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal newauth_form__5ZS24&quot;]/div[@class=&quot;newauth_buttoncontainer__oydJU&quot;]/button[@class=&quot;ant-btn ant-btn-default newauth_registerbutton__dvbIp&quot;]</value>
+      <webElementGuid>d14a3269-e2a2-45bc-b2b1-f184495bc1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dd2e27d4-8593-4664-8327-112e1a19f10b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>80fde9d5-a53d-497d-ad9f-10e0bbd372d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default newauth_registerbutton__dvbIp</value>
+      <webElementGuid>f24bf1c9-2086-4125-a853-a41ea8588ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>0a724f43-f54b-4fe3-97da-a84763a9ea0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal newauth_maincontainer__uGko6&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal newauth_form__5ZS24&quot;]/div[@class=&quot;newauth_buttoncontainer__oydJU&quot;]/button[@class=&quot;ant-btn ant-btn-default newauth_registerbutton__dvbIp&quot;]</value>
+      <webElementGuid>96b7a291-2dbd-46de-ae57-16b1d86c7823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4ab284af-a533-470c-a97b-28a64bcf5e14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>d6492625-893b-4d85-bdab-97ba6d9001c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default newauth_registerbutton__dvbIp</value>
+      <webElementGuid>375e7864-c5e6-4139-826e-bea211b5a238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>b21e2da9-d244-4cb0-aeb0-97f19bfe731c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal newauth_maincontainer__uGko6&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal newauth_form__5ZS24&quot;]/div[@class=&quot;newauth_buttoncontainer__oydJU&quot;]/button[@class=&quot;ant-btn ant-btn-default newauth_registerbutton__dvbIp&quot;]</value>
+      <webElementGuid>5da7fb54-8204-4dbb-960b-9045ee4a91c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1c6c068a-f3da-47d2-9b18-284f426bbc54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>d37709cf-a536-4d92-8d33-4bec4aa3d83a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default newauth_registerbutton__dvbIp</value>
+      <webElementGuid>fadd87eb-26dc-4ee7-b88f-3accb004104b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>32f0de2a-e281-48aa-b13f-c75c1cdfba97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal newauth_maincontainer__uGko6&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal newauth_form__5ZS24&quot;]/div[@class=&quot;newauth_buttoncontainer__oydJU&quot;]/button[@class=&quot;ant-btn ant-btn-default newauth_registerbutton__dvbIp&quot;]</value>
+      <webElementGuid>703bfc93-41cb-4177-b0c0-7216b5dc2407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7a63b791-be26-46d5-a168-ca1d9bddc21f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>dd623ccd-260d-48a1-ab4a-992220d1f5e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default newauth_registerbutton__dvbIp</value>
+      <webElementGuid>ab6e8221-8b8c-4114-bdb3-2027add59751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>ef102e61-3499-40d7-9a9a-47089a840376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal newauth_maincontainer__uGko6&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal newauth_form__5ZS24&quot;]/div[@class=&quot;newauth_buttoncontainer__oydJU&quot;]/button[@class=&quot;ant-btn ant-btn-default newauth_registerbutton__dvbIp&quot;]</value>
+      <webElementGuid>6efe5bb0-36f4-4ac5-befa-5d10652942b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c5c015a0-e9f5-4e62-9341-7d05d70b5366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>4b037470-2b29-4297-b92f-15bb4c112093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default newauth_registerbutton__dvbIp</value>
+      <webElementGuid>cdb48f80-2836-496f-991f-90a7daa47cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>fa24b21f-1bbc-463f-955f-a18836cb4ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal newauth_maincontainer__uGko6&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal newauth_form__5ZS24&quot;]/div[@class=&quot;newauth_buttoncontainer__oydJU&quot;]/button[@class=&quot;ant-btn ant-btn-default newauth_registerbutton__dvbIp&quot;]</value>
+      <webElementGuid>b367d631-c260-4380-af17-d72fe132f043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4e5bd8a0-7c3c-4e3f-b12e-ab267f7068f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>541b8da3-044a-49fe-bcd8-6ed6b2ccf774</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default newauth_registerbutton__dvbIp</value>
+      <webElementGuid>b2248df3-43a8-4e42-a779-ab07a38a9537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>cbf3acd6-8b10-4b0f-9428-222c18ffb63e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal newauth_maincontainer__uGko6&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal newauth_form__5ZS24&quot;]/div[@class=&quot;newauth_buttoncontainer__oydJU&quot;]/button[@class=&quot;ant-btn ant-btn-default newauth_registerbutton__dvbIp&quot;]</value>
+      <webElementGuid>9ba05cb4-0a53-4925-ab1e-7e919787ac1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>15cc9f8a-bcd4-4b7e-9de0-f65351bed861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>41baa806-4e1e-4fe6-b04f-06530904f7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default newauth_registerbutton__dvbIp</value>
+      <webElementGuid>b02ec51e-a960-467c-9815-80f10bcee8f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>8b96c6f3-084c-407f-9835-d5d576d71ae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal newauth_maincontainer__uGko6&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/form[@class=&quot;ant-form ant-form-horizontal newauth_form__5ZS24&quot;]/div[@class=&quot;newauth_buttoncontainer__oydJU&quot;]/button[@class=&quot;ant-btn ant-btn-default newauth_registerbutton__dvbIp&quot;]</value>
+      <webElementGuid>8e74b59b-fc56-4cf7-bd48-30e155863bfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>726ed212-2c76-42e3-b431-308b4ca3f40a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +361,7 @@
       <webElementGuid>cb29436f-ec27-4f40-836b-f707fadf8dda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +382,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>a451197e-efdb-4d23-8043-6f1e77803aab</webElementGuid>
+      <webElementGuid>f02b0f6c-2d6b-4460-9f5e-da376082e3dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +390,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>ba4d3c0b-3641-4978-9b34-3875fe99369a</webElementGuid>
+      <webElementGuid>df085436-0033-4a68-96bf-ad5f26016187</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +398,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
-      <webElementGuid>894bbd64-1a52-4882-8ebf-bb0d8934e6cd</webElementGuid>
+      <webElementGuid>f759eff4-40fd-4d5c-94b2-ae4e7cdc869b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +406,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password ?'])[1]/preceding::button[1]</value>
-      <webElementGuid>9b18d216-b379-401e-a09a-5bdd7662665c</webElementGuid>
+      <webElementGuid>7236d524-f994-458e-b61a-bc837baa5887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +414,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button</value>
-      <webElementGuid>4eeeed48-e76f-4bb2-a1fa-b2105b9477a0</webElementGuid>
+      <webElementGuid>156a98ba-fe1a-4d8f-8698-1df7240389a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +422,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>746bf7f1-0eed-4cfb-9e1e-82d3f90a8c69</webElementGuid>
+      <webElementGuid>78b94180-3719-494b-9810-27f139e486cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

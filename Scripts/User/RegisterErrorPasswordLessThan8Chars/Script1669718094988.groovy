@@ -23,15 +23,22 @@ WebUI.navigateToUrl('https://formi.co.in/')
 
 WebUI.click(findTestObject('Object Repository/Page_Formi  Experience Events And Parties P_4a6058/p_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_RegisterLogin - Formi/span_Sign In'))
+WebUI.click(findTestObject('Object Repository/Page_RegisterLogin - Formi/button_Register'))
 
-WebUI.setText(findTestObject('Object Repository/Page_RegisterLogin - Formi/input_Email_email'), 'dhanush@formi.co.in')
+WebUI.setText(findTestObject('Object Repository/Page_RegisterLogin - Formi/input_Full Name_name'), 'Harshitha Reddy')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_RegisterLogin - Formi/input_Password_password'), 'cvW8qx4B2o3F4VwP/kNsqA==')
+WebUI.setText(findTestObject('Object Repository/Page_RegisterLogin - Formi/input_Email_email'), 'sharshitha2009@gmail.com')
 
-WebUI.click(findTestObject('Object Repository/Page_RegisterLogin - Formi/button_Sign In'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_RegisterLogin - Formi/input_Password_password'), 'zD3CPosmrdg=')
 
-WebUI.click(findTestObject('Object Repository/Page_Formi  Experience Events And Parties P_4a6058/path'))
+//Compare the two texts for password less than 8 chars
+String passwordLessThan8CharTextObject = WebUI.getText(findTestObject('Object Repository/Page_RegisterLogin - Formi/div_Password must be at least 8 characters long'))
+
+String passwordLessThan8CharCompareText = 'Password must be at least 8 characters long!'
+
+if (passwordLessThan8CharTextObject != passwordLessThan8CharCompareText) {
+    KeywordUtil.markFailed(((passwordLessThan8CharTextObject + ' and ') + passwordLessThan8CharCompareText) + ' do not match')
+}
 
 WebUI.closeBrowser()
 
