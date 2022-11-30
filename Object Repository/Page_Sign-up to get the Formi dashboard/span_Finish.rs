@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Finish</name>
+   <tag></tag>
+   <elementGuidId>04128ab0-04b9-4e9f-9e20-fa470d1c8693</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.button_lightpink_shadow__O2z19.register_pinksubmitbutton__IA16P.undefined > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div[2]/div/div/div[2]/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a131793-4be0-4a02-86d3-b66b30844783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Finish</value>
+      <webElementGuid>5a005b68-e281-4357-b9aa-8c28a73e15f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;register_maincontainer__W6PYh&quot;]/div[@class=&quot;register_parent__t4evr&quot;]/div[@class=&quot;register_main_wrapper__MM_VK&quot;]/div[@class=&quot;register_bottom__Rwvw1&quot;]/div[2]/button[@class=&quot;ant-btn ant-btn-default button_lightpink_shadow__O2z19 register_pinksubmitbutton__IA16P undefined&quot;]/span[1]</value>
+      <webElementGuid>c79e8392-6e70-42d0-a8b7-448ab95209cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div[2]/div/div/div[2]/div[2]/button/span</value>
+      <webElementGuid>328b2764-4e84-478f-97c1-4512044c078a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image &amp; Posters fair usage policy.'])[1]/following::span[3]</value>
+      <webElementGuid>9cd8ea9c-41ab-481a-a929-3d054ca3083b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please check your email.'])[1]/preceding::span[1]</value>
+      <webElementGuid>0bab967c-a996-452d-9205-c0d54adaad72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Finish']/parent::*</value>
+      <webElementGuid>13fa9739-b739-4ce8-829d-65270f48a2fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>deb11ce7-4ddc-4a74-b6bd-86ae2b9285a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Finish' or . = 'Finish')]</value>
+      <webElementGuid>f8a31f45-5ab0-44c2-997a-8ea64d13574b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
