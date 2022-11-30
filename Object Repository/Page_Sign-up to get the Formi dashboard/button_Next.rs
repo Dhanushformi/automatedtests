@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>489fc06a-4e1e-42d6-a590-c9a6a130d739</webElementGuid>
+      <webElementGuid>41ab91e5-3559-4aee-94d0-617b2e057d33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>7c31ad1a-a315-4f87-bb99-c05595054a9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default button_lightpink_shadow__O2z19 register_pinksubmitbutton__IA16P undefined</value>
+      <webElementGuid>3ccf9d4a-4a36-4f3f-91dd-71a770a990b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>c4f0968d-96cb-4ab2-a523-5895b45114ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;register_maincontainer__W6PYh&quot;]/div[@class=&quot;register_parent__t4evr&quot;]/div[@class=&quot;register_main_wrapper__MM_VK&quot;]/div[@class=&quot;register_bottom__Rwvw1&quot;]/div[2]/button[@class=&quot;ant-btn ant-btn-default button_lightpink_shadow__O2z19 register_pinksubmitbutton__IA16P undefined&quot;]</value>
+      <webElementGuid>2807ecf5-83dc-4ca1-afe1-6c8d8111f914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>489fc06a-4e1e-42d6-a590-c9a6a130d739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>d68432cf-85b7-40e9-b9f5-ec7d837b0b88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -342,7 +382,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>0ab3d8b5-2fcb-4420-a6d0-ae22c6c82261</webElementGuid>
+      <webElementGuid>7245de30-7176-45bc-b854-f859e90ffc04</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -350,7 +390,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/form/div[2]/div/div/div[2]/div[2]/button</value>
-      <webElementGuid>fe9a73b4-1f55-41b7-b7de-8acbe71b1b2a</webElementGuid>
+      <webElementGuid>df3d47d0-49fd-46f5-844e-1166fd545d1e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -358,7 +398,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::button[1]</value>
-      <webElementGuid>30d57cb8-31b2-4d96-98f3-2452b85c19c2</webElementGuid>
+      <webElementGuid>5be67dfe-114f-4431-8ee4-9a4d8f989479</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -366,7 +406,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Password'])[1]/following::button[1]</value>
-      <webElementGuid>e0568faf-6f16-4572-b0c1-defbc73936e4</webElementGuid>
+      <webElementGuid>446d89e1-c6cc-47e0-a6f0-9479e262d206</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -374,7 +414,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/button</value>
-      <webElementGuid>1395dcc8-d65d-481a-8beb-a49d50a4bd20</webElementGuid>
+      <webElementGuid>527b2ec6-f4e0-4eda-9a13-bdd3dccd6c27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -382,6 +422,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Next' or . = 'Next')]</value>
-      <webElementGuid>c0725d2d-e79c-48cb-96ce-bb741f8cd0da</webElementGuid>
+      <webElementGuid>eb64a18d-0242-438e-9ada-2f127dc93de6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
