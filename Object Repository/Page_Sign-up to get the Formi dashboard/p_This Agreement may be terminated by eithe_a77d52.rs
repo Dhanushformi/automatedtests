@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_This Agreement may be terminated by eithe_a77d52</name>
+   <tag></tag>
+   <elementGuidId>a2a32922-3852-43df-8c31-63456646da0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div[2]/div/div/div/div[3]/div[19]/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>31bc64c5-2973-428f-9b5c-1846f7abdabf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>register_content2__N9UD1</value>
+      <webElementGuid>b503ab50-108b-4d2a-9fcd-dfd7403c5fa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>This Agreement may be terminated by either the User or Formi through a written notice to the other. Formi shall not be liable to the User or any third party for termination of any Service. Should the User object to any terms and conditions of this Agreement, any TOS or become dissatisfied with the Service in any way, the User's only recourse is to immediately: (a) discontinue use of the Website/Service; and (b) notify Formi of such discontinuance.</value>
+      <webElementGuid>f418d22c-214c-4f1d-9a26-aa2f79be7631</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;register_maincontainer__W6PYh&quot;]/div[@class=&quot;register_parent__t4evr&quot;]/div[@class=&quot;register_main_wrapper__MM_VK&quot;]/div[@class=&quot;register_step2__kjUHD&quot;]/div[@class=&quot;register_text_wrapper__NXSiJ&quot;]/div[@class=&quot;ant-col&quot;]/p[@class=&quot;register_content2__N9UD1&quot;]</value>
+      <webElementGuid>12b331e8-507f-4c87-8dc7-db1d71539356</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div[2]/div/div/div/div[3]/div[19]/p[2]</value>
+      <webElementGuid>f4a4529e-c378-47d1-8eac-a85c01c584e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termination of agreement and services'])[1]/following::p[2]</value>
+      <webElementGuid>c0e8c65c-4348-4b7e-a72e-40f9af1854e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Severability'])[1]/following::p[3]</value>
+      <webElementGuid>fda379de-88e2-4203-a5a6-d39b4bd500d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Governing law'])[1]/preceding::p[2]</value>
+      <webElementGuid>26e6bff0-345c-4e81-a08e-b1c9100d55ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment Methods'])[1]/preceding::p[3]</value>
+      <webElementGuid>93e836ef-e411-4ee0-8242-f9f26bd8775a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/p[2]</value>
+      <webElementGuid>4caddf6b-7c0a-4e25-921f-bf458f37fc6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;This Agreement may be terminated by either the User or Formi through a written notice to the other. Formi shall not be liable to the User or any third party for termination of any Service. Should the User object to any terms and conditions of this Agreement, any TOS or become dissatisfied with the Service in any way, the User&quot; , &quot;'&quot; , &quot;s only recourse is to immediately: (a) discontinue use of the Website/Service; and (b) notify Formi of such discontinuance.&quot;) or . = concat(&quot;This Agreement may be terminated by either the User or Formi through a written notice to the other. Formi shall not be liable to the User or any third party for termination of any Service. Should the User object to any terms and conditions of this Agreement, any TOS or become dissatisfied with the Service in any way, the User&quot; , &quot;'&quot; , &quot;s only recourse is to immediately: (a) discontinue use of the Website/Service; and (b) notify Formi of such discontinuance.&quot;))]</value>
+      <webElementGuid>c463e022-02c1-4779-939b-ee7060dcac72</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

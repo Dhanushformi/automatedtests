@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_tixrnflzsqjlykkarenkey.com</name>
+   <tag></tag>
+   <elementGuidId>5c78e4a5-fcc2-40d1-9d95-bd348fd39fa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;accounts-list&quot;)/div[@class=&quot;shadow-xs dark:bg-gray-800 bg-white rounded-md dark:shadow-none&quot;]/div[@class=&quot;px-4 py-3&quot;]/p[@class=&quot;dark:text-gray-300 text-gray-900 text-sm font-medium leading-5 cursor-pointer select-all truncate&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accounts-list']/div/div/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b5b912cd-1c3d-42a0-81c4-9500f1280a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark:text-gray-300 text-gray-900 text-sm font-medium leading-5 cursor-pointer select-all truncate</value>
+      <webElementGuid>c1cbd3b3-2741-4ebd-a6b5-0ef6d4c84efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              tixrnflzsqjlyk@karenkey.com
+            </value>
+      <webElementGuid>4c3fd592-e289-4211-a971-c02094b23caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accounts-list&quot;)/div[@class=&quot;shadow-xs dark:bg-gray-800 bg-white rounded-md dark:shadow-none&quot;]/div[@class=&quot;px-4 py-3&quot;]/p[@class=&quot;dark:text-gray-300 text-gray-900 text-sm font-medium leading-5 cursor-pointer select-all truncate&quot;]</value>
+      <webElementGuid>97f65b84-ac85-4245-bcf8-32e1bc259d18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accounts-list']/div/div/p[2]</value>
+      <webElementGuid>e8d04ecd-fcb6-442a-a5e4-c685c9b96e62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語'])[1]/following::p[2]</value>
+      <webElementGuid>3d675e82-c5a2-40e6-b6f5-e7e87ab7576d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='中文'])[1]/following::p[2]</value>
+      <webElementGuid>5f9f54be-7b3d-43fb-beeb-6616daae536d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='=@CMoNEY'])[1]/preceding::p[1]</value>
+      <webElementGuid>1f3b27a9-b8b9-45ae-993f-0f66c9aff5cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temp Mail'])[1]/preceding::p[2]</value>
+      <webElementGuid>4181468a-f198-4c99-9214-a884dacc40ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='tixrnflzsqjlyk@karenkey.com']/parent::*</value>
+      <webElementGuid>7c313175-fcaf-49a3-a08f-d3d8570a0d73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>201ad43c-4621-4103-af5c-6a917483014f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+              tixrnflzsqjlyk@karenkey.com
+            ' or . = '
+              tixrnflzsqjlyk@karenkey.com
+            ')]</value>
+      <webElementGuid>478a3ff1-daae-4459-961a-df5c642ec1f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

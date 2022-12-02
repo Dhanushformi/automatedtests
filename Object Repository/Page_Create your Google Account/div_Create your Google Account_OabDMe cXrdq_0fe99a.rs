@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Create your Google Account_OabDMe cXrdq_0fe99a</name>
+   <tag></tag>
+   <elementGuidId>80311bd1-f489-43bd-845d-c0d5a8fb1469</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/div[2]/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>01059bd4-6e19-495c-9f8f-f776cc8b306b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>XmnwAc</value>
+      <webElementGuid>6d6dc8bc-dc67-442c-8811-f06d72c93071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>OabDMe cXrdqd Y2Zypf</value>
+      <webElementGuid>eb5d5f22-ecd3-4e48-b903-de2bae0497ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_container&quot;)/div[@class=&quot;zWl5kd&quot;]/div[@class=&quot;DRS7Fe bxPAYd k6Zj8d&quot;]/div[@class=&quot;pwWryf bxPAYd&quot;]/div[@class=&quot;Wxwduf Us7fWe JhUD8d&quot;]/div[@class=&quot;WEQkZc&quot;]/div[@class=&quot;bCAAsb&quot;]/form[1]/span[1]/section[@class=&quot;aTzEhb&quot;]/div[@class=&quot;CxRgyd&quot;]/div[1]/div[@class=&quot;SdBahf DbQnIe ia6RDd&quot;]/div[@class=&quot;eEgeR&quot;]/div[@class=&quot;hDp5Db&quot;]/div[@class=&quot;rFrNMe ze9ebf OcVpRe zKHdkd sdJrJc&quot;]/div[@class=&quot;aCsJod oJeWuf&quot;]/div[@class=&quot;aXBtI Wic03c&quot;]/div[@class=&quot;OabDMe cXrdqd Y2Zypf&quot;]</value>
+      <webElementGuid>cc751996-ec0d-4b39-90b6-10a13851f965</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view_container']/div/div/div[2]/div/div/div/form/span/section/div/div/div/div/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>69d81fd6-cfd3-4671-8942-4fde63b7cadb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]</value>
+      <webElementGuid>11e85319-3417-400f-a097-1a97678a55ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Copy Link</name>
+   <tag></tag>
+   <elementGuidId>e0e0740b-8953-44f0-9c8a-0b664594be2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.button_pink__Yhdb2.button_xs__11cYZ.invite-modal_button__Q7h2h.shadow-wrapper_xs__OySnx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>da474eaa-7760-4bd0-b95f-c53240669bf9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>439547fd-9d7f-427e-b33c-7e90593c4bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ invite-modal_button__Q7h2h shadow-wrapper_xs__OySnx</value>
+      <webElementGuid>2c33cde7-34c5-43be-889e-7076d80a938f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy Link</value>
+      <webElementGuid>03cf0948-b8db-4cf1-ae7a-e11ded9289ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal white-modal_modalcontainer__rk6Ls&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;invite-modal_maincontainer__M7vMj&quot;]/div[@class=&quot;invite-modal_inputrow__paKAp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ invite-modal_button__Q7h2h shadow-wrapper_xs__OySnx&quot;]</value>
+      <webElementGuid>213517a0-9c46-46eb-b72e-1fc7c1f7b92d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[6]</value>
+      <webElementGuid>c3ff551e-5f71-4156-9d08-40b418e2b3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='When promoters join, you will able to easily track and manage them.'])[1]/following::button[1]</value>
+      <webElementGuid>ae1ea517-2028-4b5b-8bfc-577c47aa6695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite Member'])[2]/following::button[1]</value>
+      <webElementGuid>a8742ec7-e4ac-4ffc-aac9-ac5b1724cb2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::button[1]</value>
+      <webElementGuid>1a9eb4ee-9955-4b32-ba61-0ebf36ee9b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>197e3542-8ab6-430e-b34f-7ece39330d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Copy Link' or . = 'Copy Link')]</value>
+      <webElementGuid>2dd43288-70af-4cdc-ad60-5640420f2bac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

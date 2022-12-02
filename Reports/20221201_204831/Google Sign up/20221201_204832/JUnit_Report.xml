@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Google Sign up" time="140.87" tests="10" failures="0" errors="0">
+   <testsuite name="Google Sign up" tests="10" failures="0" errors="0" time="140.87" skipped="0" timestamp="2022-12-01 20:48:38" hostname="gauth - DIANA" id="Test Suites/Google Sign up">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\Formi\\Automated Testing\\Sample - Web API Tests\\Reports\\20221201_204831\\Google Sign up\\20221201_204832"/>
+         <property name="logFiles" value="F:\\Formi\\Automated Testing\\Sample - Web API Tests\\Reports\\20221201_204831\\Google Sign up\\20221201_204832\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="gauth - DIANA"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.192"/>
+         <property name="sessionId" value="f0b1865a1729007878b2c7bd1eb4c6b1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/GSU/Confirm Password" time="10.788" classname="Test Cases/GSU/Confirm Password" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:48:38 - [TEST_CASE][PASSED] - Test Cases/GSU/Confirm Password: Test Cases/GSU/Confirm Password
+
+2022-12-01 20:48:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:48:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:48:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:48:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:48:40 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:48:41 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:48:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Login (2)")): Object: 'Object Repository/Page_Weve got your back/span_Login (2)' is clicked on
+
+2022-12-01 20:48:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Login (2)' is clicked on
+
+2022-12-01 20:48:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (1)")): Object: 'Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (1)' is clicked on
+
+2022-12-01 20:48:44 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_679380_984526']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:48:44 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_679380_984526'. Try using Self-healing.
+
+2022-12-01 20:48:45 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_679380_984526' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:48:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (1)' is clicked on
+
+2022-12-01 20:48:45 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:48:45 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:48:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (2)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (2)' is clicked on
+
+2022-12-01 20:48:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (2)' is clicked on
+
+2022-12-01 20:48:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use (2)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (2)' is clicked on
+
+2022-12-01 20:48:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (2)' is clicked on
+
+2022-12-01 20:48:47 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e'
+
+2022-12-01 20:48:48 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e'
+
+2022-12-01 20:48:48 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e")): Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e' is visible
+
+2022-12-01 20:48:49 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e' is visible
+
+2022-12-01 20:48:49 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e")): Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e' is clickable
+
+2022-12-01 20:48:49 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e' is clickable]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/Create Account" time="9.692" classname="Test Cases/GSU/Create Account" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:48:49 - [TEST_CASE][PASSED] - Test Cases/GSU/Create Account: Test Cases/GSU/Create Account
+
+2022-12-01 20:48:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:48:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:48:50 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:48:50 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:48:51 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:48:51 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:48:51 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:48:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/button_Login")): Object: 'Object Repository/Page_Weve got your back/button_Login' is clicked on
+
+2022-12-01 20:48:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/button_Login' is clicked on
+
+2022-12-01 20:48:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google")): Object: 'Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google' is clicked on
+
+2022-12-01 20:48:55 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_56225_173478']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:48:55 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_56225_173478'. Try using Self-healing.
+
+2022-12-01 20:48:55 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_56225_173478' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:48:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google' is clicked on
+
+2022-12-01 20:48:55 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:48:55 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:48:55 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (1)"), 0): Object 'Object Repository/Page_Sign in - Google Accounts/span_Create account (1)' is present
+
+2022-12-01 20:48:55 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1'
+
+2022-12-01 20:48:56 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Sign in - Google Accounts/span_Create account (1)' is present
+
+2022-12-01 20:48:56 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (1)")): Object 'Object Repository/Page_Sign in - Google Accounts/span_Create account (1)' is visible
+
+2022-12-01 20:48:57 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Sign in - Google Accounts/span_Create account (1)' is visible
+
+2022-12-01 20:48:57 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (1)")): Object 'Object Repository/Page_Sign in - Google Accounts/span_Create account (1)' is clickable
+
+2022-12-01 20:48:57 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Sign in - Google Accounts/span_Create account (1)' is clickable
+
+2022-12-01 20:48:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (1)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (1)' is clicked on
+
+2022-12-01 20:48:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (1)' is clicked on
+
+2022-12-01 20:48:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use (1)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (1)' is clicked on
+
+2022-12-01 20:48:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (1)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/First Name" time="10.877" classname="Test Cases/GSU/First Name" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:48:59 - [TEST_CASE][PASSED] - Test Cases/GSU/First Name: Test Cases/GSU/First Name
+
+2022-12-01 20:48:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:48:59 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:49:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:49:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:49:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:49:01 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:49:01 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:49:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Login (2)")): Object: 'Object Repository/Page_Weve got your back/span_Login (2)' is clicked on
+
+2022-12-01 20:49:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Login (2)' is clicked on
+
+2022-12-01 20:49:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (1)")): Object: 'Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (1)' is clicked on
+
+2022-12-01 20:49:04 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_679380_984526']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:49:04 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_679380_984526'. Try using Self-healing.
+
+2022-12-01 20:49:05 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_679380_984526' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:49:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (1)' is clicked on
+
+2022-12-01 20:49:05 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:49:05 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:49:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (2)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (2)' is clicked on
+
+2022-12-01 20:49:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (2)' is clicked on
+
+2022-12-01 20:49:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use (2)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (2)' is clicked on
+
+2022-12-01 20:49:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (2)' is clicked on
+
+2022-12-01 20:49:07 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName"), 0): Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName' is present
+
+2022-12-01 20:49:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1'
+
+2022-12-01 20:49:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName' is present
+
+2022-12-01 20:49:08 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName")): Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName' is visible
+
+2022-12-01 20:49:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName' is visible
+
+2022-12-01 20:49:08 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName")): Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName' is clickable
+
+2022-12-01 20:49:09 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName' is clickable
+
+2022-12-01 20:49:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName"), "Gmsnssd"): Text 'Gmsnssd' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName'
+
+2022-12-01 20:49:09 - [MESSAGE][PASSED] - Text 'Gmsnssd' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/Last Name" time="10.756" classname="Test Cases/GSU/Last Name" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:49:09 - [TEST_CASE][PASSED] - Test Cases/GSU/Last Name: Test Cases/GSU/Last Name
+
+2022-12-01 20:49:10 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:49:10 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:49:10 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:49:10 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:49:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:49:12 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:49:12 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:49:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Login (4)")): Object: 'Object Repository/Page_Weve got your back/span_Login (4)' is clicked on
+
+2022-12-01 20:49:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Login (4)' is clicked on
+
+2022-12-01 20:49:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Sign in with Google (1)")): Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (1)' is clicked on
+
+2022-12-01 20:49:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_921655_789516']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:49:15 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_921655_789516'. Try using Self-healing.
+
+2022-12-01 20:49:15 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_921655_789516' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:49:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (1)' is clicked on
+
+2022-12-01 20:49:16 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:49:16 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:49:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (4)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (4)' is clicked on
+
+2022-12-01 20:49:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (4)' is clicked on
+
+2022-12-01 20:49:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use (4)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (4)' is clicked on
+
+2022-12-01 20:49:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (4)' is clicked on
+
+2022-12-01 20:49:18 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)"), 0): Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)' is present
+
+2022-12-01 20:49:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1'
+
+2022-12-01 20:49:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)' is present
+
+2022-12-01 20:49:19 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)")): Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)' is visible
+
+2022-12-01 20:49:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)' is visible
+
+2022-12-01 20:49:19 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)")): Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)' is clickable
+
+2022-12-01 20:49:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)' is clickable
+
+2022-12-01 20:49:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)"), "testname"): Text 'testname' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)'
+
+2022-12-01 20:49:20 - [MESSAGE][PASSED] - Text 'testname' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/Next Button" time="11.72" classname="Test Cases/GSU/Next Button" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:49:20 - [TEST_CASE][PASSED] - Test Cases/GSU/Next Button: Test Cases/GSU/Next Button
+
+2022-12-01 20:49:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:49:20 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:49:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:49:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:49:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:49:22 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:49:23 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:49:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Login (10)")): Object: 'Object Repository/Page_Weve got your back/span_Login (10)' is clicked on
+
+2022-12-01 20:49:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Login (10)' is clicked on
+
+2022-12-01 20:49:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (5)")): Object: 'Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (5)' is clicked on
+
+2022-12-01 20:49:26 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_248851_520945']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:49:26 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_248851_520945'. Try using Self-healing.
+
+2022-12-01 20:49:26 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_248851_520945' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:49:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (5)' is clicked on
+
+2022-12-01 20:49:26 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:49:26 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:49:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (8)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (8)' is clicked on
+
+2022-12-01 20:49:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (8)' is clicked on
+
+2022-12-01 20:49:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use (9)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (9)' is clicked on
+
+2022-12-01 20:49:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (9)' is clicked on
+
+2022-12-01 20:49:29 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb")): Object 'Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb' is visible
+
+2022-12-01 20:49:29 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb' is visible
+
+2022-12-01 20:49:29 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/span_Next")): Object 'Object Repository/Page_Create your Google Account/span_Next' is clickable
+
+2022-12-01 20:49:32 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("accountDetailsNext")/div[@class="VfPpkd-dgl2Hf-ppHlrf-sM5MNb"]/button[@class="VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d"]/span[@class="VfPpkd-vQzf8d"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:49:32 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Create your Google Account/span_Next'. Try using Self-healing.
+
+2022-12-01 20:49:32 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Create your Google Account/span_Next' was broken. Propose an alternative one: '//div[@id='accountDetailsNext']/div/button/span'.
+
+2022-12-01 20:49:32 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/span_Next' is clickable]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/Password" time="10.485" classname="Test Cases/GSU/Password" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:49:32 - [TEST_CASE][PASSED] - Test Cases/GSU/Password: Test Cases/GSU/Password
+
+2022-12-01 20:49:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:49:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:49:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:49:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:49:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:49:34 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:49:34 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:49:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Login (6)")): Object: 'Object Repository/Page_Weve got your back/span_Login (6)' is clicked on
+
+2022-12-01 20:49:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Login (6)' is clicked on
+
+2022-12-01 20:49:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Sign in with Google (2)")): Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (2)' is clicked on
+
+2022-12-01 20:49:38 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_116753_578430']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:49:38 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_116753_578430'. Try using Self-healing.
+
+2022-12-01 20:49:38 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_116753_578430' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:49:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (2)' is clicked on
+
+2022-12-01 20:49:38 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:49:38 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:49:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (6)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (6)' is clicked on
+
+2022-12-01 20:49:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (6)' is clicked on
+
+2022-12-01 20:49:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use (5)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (5)' is clicked on
+
+2022-12-01 20:49:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (5)' is clicked on
+
+2022-12-01 20:49:40 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd"), 0): Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd' is present
+
+2022-12-01 20:49:40 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1'
+
+2022-12-01 20:49:41 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd' is present
+
+2022-12-01 20:49:41 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd")): Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd' is visible
+
+2022-12-01 20:49:42 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd' is visible
+
+2022-12-01 20:49:42 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd")): Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd' is clickable
+
+2022-12-01 20:49:42 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd' is clickable
+
+2022-12-01 20:49:42 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd"), "BWgEo7IagHzWhi9YvsMrEQ=="): Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd'
+
+2022-12-01 20:49:42 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/Phone Number" time="36.141" classname="Test Cases/GSU/Phone Number" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:49:42 - [TEST_CASE][PASSED] - Test Cases/GSU/Phone Number: Test Cases/GSU/Phone Number
+
+2022-12-01 20:49:43 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:49:43 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:49:43 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:49:43 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:49:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:49:45 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer-testing.formi.co.in/"): Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-01 20:49:45 - [MESSAGE][PASSED] - Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-01 20:49:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Register")): Object: 'Object Repository/Page_Weve got your back/span_Register' is clicked on
+
+2022-12-01 20:49:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Register' is clicked on
+
+2022-12-01 20:49:46 - [TEST_STEP][PASSED] - switchToWindowTitle("Sign-up to get the Formi dashboard!"): Switched to window with title: 'Sign-up to get the Formi dashboard!'
+
+2022-12-01 20:49:46 - [MESSAGE][PASSED] - Switched to window with title: 'Sign-up to get the Formi dashboard!'
+
+2022-12-01 20:49:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/span_Sign in with Google")): Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/span_Sign in with Google' is clicked on
+
+2022-12-01 20:49:48 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_525416_956319']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:49:48 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/iframe_OR_gsi_525416_956319'. Try using Self-healing.
+
+2022-12-01 20:49:49 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/iframe_OR_gsi_525416_956319' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:49:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/span_Sign in with Google' is clicked on
+
+2022-12-01 20:49:49 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:49:49 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:49:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account' is clicked on
+
+2022-12-01 20:49:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account' is clicked on
+
+2022-12-01 20:49:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use' is clicked on
+
+2022-12-01 20:49:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use' is clicked on
+
+2022-12-01 20:49:51 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName"), "Testing"): Text 'Testing' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName'
+
+2022-12-01 20:49:52 - [MESSAGE][PASSED] - Text 'Testing' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName'
+
+2022-12-01 20:49:52 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName"), "NAme"): Text 'NAme' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName'
+
+2022-12-01 20:49:53 - [MESSAGE][PASSED] - Text 'NAme' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName'
+
+2022-12-01 20:49:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_Username"), "test.34243143"): Text 'test.34243143' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_Username'
+
+2022-12-01 20:49:54 - [MESSAGE][PASSED] - Text 'test.34243143' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_Username'
+
+2022-12-01 20:49:54 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd'
+
+2022-12-01 20:49:55 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd'
+
+2022-12-01 20:49:55 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e'
+
+2022-12-01 20:49:55 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e'
+
+2022-12-01 20:49:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb")): Object 'Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb' is visible
+
+2022-12-01 20:49:56 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb' is visible
+
+2022-12-01 20:49:56 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb")): Object 'Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb' is clickable
+
+2022-12-01 20:49:56 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb' is clickable
+
+2022-12-01 20:49:56 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb"), 3): Scroll to object 'Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb' successfully
+
+2022-12-01 20:49:57 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb' successfully
+
+2022-12-01 20:49:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create your Google Account/span_Next")): Object: 'Object Repository/Page_Create your Google Account/span_Next' is clicked on
+
+2022-12-01 20:49:59 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("accountDetailsNext")/div[@class="VfPpkd-dgl2Hf-ppHlrf-sM5MNb"]/button[@class="VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d"]/span[@class="VfPpkd-vQzf8d"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:49:59 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Create your Google Account/span_Next'. Try using Self-healing.
+
+2022-12-01 20:49:59 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Create your Google Account/span_Next' was broken. Propose an alternative one: '//div[@id='accountDetailsNext']/div/button/span'.
+
+2022-12-01 20:49:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create your Google Account/span_Next' is clicked on
+
+2022-12-01 20:49:59 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Create your Google Account/div_91India (91)"), 0): Object 'Object Repository/Page_Create your Google Account/div_91India (91)' is present
+
+2022-12-01 20:49:59 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1'
+
+2022-12-01 20:50:01 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_91India (91)' is present
+
+2022-12-01 20:50:01 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/div_91India (91)")): Object 'Object Repository/Page_Create your Google Account/div_91India (91)' is clickable
+
+2022-12-01 20:50:02 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_91India (91)' is clickable
+
+2022-12-01 20:50:02 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId")): Object 'Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId' is visible
+
+2022-12-01 20:50:02 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId' is visible
+
+2022-12-01 20:50:02 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId")): Object 'Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId' is clickable
+
+2022-12-01 20:50:02 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId' is clickable
+
+2022-12-01 20:50:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId"), "9847451458"): Text '9847451458' is set on object 'Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId'
+
+2022-12-01 20:50:03 - [MESSAGE][PASSED] - Text '9847451458' is set on object 'Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId'
+
+2022-12-01 20:50:03 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb")): Object 'Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb' is visible
+
+2022-12-01 20:50:03 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb' is visible
+
+2022-12-01 20:50:03 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb")): Object 'Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb' is clickable
+
+2022-12-01 20:50:04 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb' is clickable
+
+2022-12-01 20:50:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create your Google Account/span_Next")): Object: 'Object Repository/Page_Create your Google Account/span_Next' is clicked on
+
+2022-12-01 20:50:06 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("accountDetailsNext")/div[@class="VfPpkd-dgl2Hf-ppHlrf-sM5MNb"]/button[@class="VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d"]/span[@class="VfPpkd-vQzf8d"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:06 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Create your Google Account/span_Next'. Try using Self-healing.
+
+2022-12-01 20:50:07 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='accountDetailsNext']/div/button/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:07 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Create your Google Account/span_Next' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='One account. All of Google working for you.'])[1]/preceding::span[2]'.
+
+2022-12-01 20:50:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create your Google Account/span_Next' is clicked on
+
+2022-12-01 20:50:07 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/input_G-_code")): Object 'Object Repository/Page_Create your Google Account/input_G-_code' is visible
+
+2022-12-01 20:50:10 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_G-_code' is visible
+
+2022-12-01 20:50:10 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/input_G-_code")): Object 'Object Repository/Page_Create your Google Account/input_G-_code' is clickable
+
+2022-12-01 20:50:10 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_G-_code' is clickable
+
+2022-12-01 20:50:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create your Google Account/input_G-_code"), "020000"): Text '020000' is set on object 'Object Repository/Page_Create your Google Account/input_G-_code'
+
+2022-12-01 20:50:11 - [MESSAGE][PASSED] - Text '020000' is set on object 'Object Repository/Page_Create your Google Account/input_G-_code'
+
+2022-12-01 20:50:11 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb"), 0): Object 'Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb' is present
+
+2022-12-01 20:50:11 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1'
+
+2022-12-01 20:50:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb' is present
+
+2022-12-01 20:50:12 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb")): Object 'Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb' is clickable
+
+2022-12-01 20:50:12 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb' is clickable
+
+2022-12-01 20:50:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create your Google Account/span_Next")): Object: 'Object Repository/Page_Create your Google Account/span_Next' is clicked on
+
+2022-12-01 20:50:14 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("accountDetailsNext")/div[@class="VfPpkd-dgl2Hf-ppHlrf-sM5MNb"]/button[@class="VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d"]/span[@class="VfPpkd-vQzf8d"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:14 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Create your Google Account/span_Next'. Try using Self-healing.
+
+2022-12-01 20:50:15 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='accountDetailsNext']/div/button/span'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:15 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Create your Google Account/span_Next' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='One account. All of Google working for you.'])[1]/preceding::span[2]'.
+
+2022-12-01 20:50:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create your Google Account/span_Next' is clicked on
+
+2022-12-01 20:50:15 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/span_Back")): Object 'Object Repository/Page_Create your Google Account/span_Back' is visible
+
+2022-12-01 20:50:16 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/span_Back' is visible
+
+2022-12-01 20:50:16 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/span_Back")): Object 'Object Repository/Page_Create your Google Account/span_Back' is clickable
+
+2022-12-01 20:50:17 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/span_Back' is clickable
+
+2022-12-01 20:50:17 - [TEST_STEP][PASSED] - rightClick(findTestObject("Object Repository/Page_Create your Google Account/span_Back")): Object: 'Object Repository/Page_Create your Google Account/span_Back' is right clicked on
+
+2022-12-01 20:50:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create your Google Account/span_Back' is right clicked on
+
+2022-12-01 20:50:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create your Google Account/span_Back")): Object: 'Object Repository/Page_Create your Google Account/span_Back' is clicked on
+
+2022-12-01 20:50:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create your Google Account/span_Back' is clicked on
+
+2022-12-01 20:50:17 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/span_Back")): Object 'Object Repository/Page_Create your Google Account/span_Back' is visible
+
+2022-12-01 20:50:18 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/span_Back' is visible
+
+2022-12-01 20:50:18 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/span_Back")): Object 'Object Repository/Page_Create your Google Account/span_Back' is clickable
+
+2022-12-01 20:50:18 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/span_Back' is clickable
+
+2022-12-01 20:50:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create your Google Account/span_Back")): Object: 'Object Repository/Page_Create your Google Account/span_Back' is clicked on
+
+2022-12-01 20:50:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create your Google Account/span_Back' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/Sign In Instead" time="9.652" classname="Test Cases/GSU/Sign In Instead" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:50:19 - [TEST_CASE][PASSED] - Test Cases/GSU/Sign In Instead: Test Cases/GSU/Sign In Instead
+
+2022-12-01 20:50:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:50:19 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:50:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:50:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:50:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:50:20 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:50:21 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:50:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Login (9)")): Object: 'Object Repository/Page_Weve got your back/span_Login (9)' is clicked on
+
+2022-12-01 20:50:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Login (9)' is clicked on
+
+2022-12-01 20:50:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Sign in with Google (3)")): Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (3)' is clicked on
+
+2022-12-01 20:50:24 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_133534_797251']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:24 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_133534_797251'. Try using Self-healing.
+
+2022-12-01 20:50:24 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_133534_797251' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:50:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (3)' is clicked on
+
+2022-12-01 20:50:25 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:50:25 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:50:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (7)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (7)' is clicked on
+
+2022-12-01 20:50:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (7)' is clicked on
+
+2022-12-01 20:50:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use (8)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (8)' is clicked on
+
+2022-12-01 20:50:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use (8)' is clicked on
+
+2022-12-01 20:50:27 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Create your Google Account/span_Sign in instead"), 0): Object 'Object Repository/Page_Create your Google Account/span_Sign in instead' is present
+
+2022-12-01 20:50:27 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '1'
+
+2022-12-01 20:50:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/span_Sign in instead' is present
+
+2022-12-01 20:50:28 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/span_Sign in instead")): Object 'Object Repository/Page_Create your Google Account/span_Sign in instead' is clickable
+
+2022-12-01 20:50:28 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/span_Sign in instead' is clickable]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/User name" time="10.489" classname="Test Cases/GSU/User name" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:50:28 - [TEST_CASE][PASSED] - Test Cases/GSU/User name: Test Cases/GSU/User name
+
+2022-12-01 20:50:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:50:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:50:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:50:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:50:30 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:50:30 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:50:31 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:50:31 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Login (9)")): Object: 'Object Repository/Page_Weve got your back/span_Login (9)' is clicked on
+
+2022-12-01 20:50:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Login (9)' is clicked on
+
+2022-12-01 20:50:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Sign in with Google (3)")): Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (3)' is clicked on
+
+2022-12-01 20:50:34 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_133534_797251']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:34 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_133534_797251'. Try using Self-healing.
+
+2022-12-01 20:50:34 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_133534_797251' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:50:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (3)' is clicked on
+
+2022-12-01 20:50:34 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:50:34 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:50:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account (5)")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (5)' is clicked on
+
+2022-12-01 20:50:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account (5)' is clicked on
+
+2022-12-01 20:50:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/li_For my personal use")): Object: 'Object Repository/Page_Sign in - Google Accounts/li_For my personal use' is clicked on
+
+2022-12-01 20:50:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/li_For my personal use' is clicked on
+
+2022-12-01 20:50:37 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_Username")): Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_Username' is visible
+
+2022-12-01 20:50:38 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_Username' is visible
+
+2022-12-01 20:50:38 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_Username")): Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_Username' is clickable
+
+2022-12-01 20:50:38 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_Username' is clickable
+
+2022-12-01 20:50:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Create your Google Account/input_Create your Google Account_Username"), "asaiai"): Text 'asaiai' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_Username'
+
+2022-12-01 20:50:39 - [MESSAGE][PASSED] - Text 'asaiai' is set on object 'Object Repository/Page_Create your Google Account/input_Create your Google Account_Username']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/GSU/View Password" time="20.032" classname="Test Cases/GSU/View Password" status="PASSED">
+         <system-out><![CDATA[2022-12-01 20:50:39 - [TEST_CASE][PASSED] - Test Cases/GSU/View Password: Test Cases/GSU/View Password
+
+2022-12-01 20:50:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-01 20:50:39 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-01 20:50:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-01 20:50:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-01 20:50:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-01 20:50:41 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer.formi.co.in/"): Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:50:42 - [MESSAGE][PASSED] - Navigate to 'https://organizer.formi.co.in/' successfully
+
+2022-12-01 20:50:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Login (9)")): Object: 'Object Repository/Page_Weve got your back/span_Login (9)' is clicked on
+
+2022-12-01 20:50:43 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Login (9)' is clicked on
+
+2022-12-01 20:50:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/span_Sign in with Google (3)")): Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (3)' is clicked on
+
+2022-12-01 20:50:45 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //iframe[@id='gsi_133534_797251']'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:45 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/iframe_OR_gsi_133534_797251'. Try using Self-healing.
+
+2022-12-01 20:50:46 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/iframe_OR_gsi_133534_797251' was broken. Propose an alternative one: '//div[@id='signindiv']/div/iframe'.
+
+2022-12-01 20:50:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/span_Sign in with Google (3)' is clicked on
+
+2022-12-01 20:50:46 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-01 20:50:46 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-01 20:50:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_Create account")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account' is clicked on
+
+2022-12-01 20:50:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_Create account' is clicked on
+
+2022-12-01 20:50:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in - Google Accounts/span_For my personal use")): Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use' is clicked on
+
+2022-12-01 20:50:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in - Google Accounts/span_For my personal use' is clicked on
+
+2022-12-01 20:50:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd'
+
+2022-12-01 20:50:49 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd'
+
+2022-12-01 20:50:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e'
+
+2022-12-01 20:50:50 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e'
+
+2022-12-01 20:50:50 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c"), 3): Scroll to object 'Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c' successfully
+
+2022-12-01 20:50:52 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("view_container")/div[@class="zWl5kd"]/div[@class="DRS7Fe bxPAYd k6Zj8d"]/div[@class="pwWryf bxPAYd"]/div[@class="Wxwduf Us7fWe JhUD8d"]/div[@class="WEQkZc"]/div[@class="bCAAsb"]/form[1]/span[1]/section[@class="aTzEhb"]/div[@class="CxRgyd"]/div[1]/div[@class="SdBahf Fjk18 OcVpRe DbQnIe ia6RDd"]/div[@class="EcjFDf"]/div[@class="IhH7Wd"]/div[@class="ci67pc"]/div[@class="BudEQ rBUW7e"]/div[@class="sSzDje NEk0Ve"]/div[@class="enBDyd"]/div[@class="VfPpkd-MPu53c VfPpkd-MPu53c-OWXEXe-dgl2Hf Ne8lhe swXlm az2ine y5MMGc sD2Hod VfPpkd-MPu53c-OWXEXe-mWPk3d VfPpkd-ksKsZd-mWPk3d VfPpkd-ksKsZd-mWPk3d-OWXEXe-ZNMTqd"]/input[@class="VfPpkd-muHVFf-bMcfAe"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:52 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c'. Try using Self-healing.
+
+2022-12-01 20:50:52 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c' was broken. Propose an alternative one: '//input[@type='checkbox']'.
+
+2022-12-01 20:50:52 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c' successfully
+
+2022-12-01 20:50:52 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-12-01 20:50:55 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-12-01 20:50:55 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_Create your Google Account/div_Show password")): Object 'Object Repository/Page_Create your Google Account/div_Show password' is visible
+
+2022-12-01 20:50:56 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Show password' is visible
+
+2022-12-01 20:50:56 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/Page_Create your Google Account/div_Show password")): Object 'Object Repository/Page_Create your Google Account/div_Show password' is clickable
+
+2022-12-01 20:50:56 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Create your Google Account/div_Show password' is clickable
+
+2022-12-01 20:50:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c")): Object: 'Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c' is clicked on
+
+2022-12-01 20:50:58 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("view_container")/div[@class="zWl5kd"]/div[@class="DRS7Fe bxPAYd k6Zj8d"]/div[@class="pwWryf bxPAYd"]/div[@class="Wxwduf Us7fWe JhUD8d"]/div[@class="WEQkZc"]/div[@class="bCAAsb"]/form[1]/span[1]/section[@class="aTzEhb"]/div[@class="CxRgyd"]/div[1]/div[@class="SdBahf Fjk18 OcVpRe DbQnIe ia6RDd"]/div[@class="EcjFDf"]/div[@class="IhH7Wd"]/div[@class="ci67pc"]/div[@class="BudEQ rBUW7e"]/div[@class="sSzDje NEk0Ve"]/div[@class="enBDyd"]/div[@class="VfPpkd-MPu53c VfPpkd-MPu53c-OWXEXe-dgl2Hf Ne8lhe swXlm az2ine y5MMGc sD2Hod VfPpkd-MPu53c-OWXEXe-mWPk3d VfPpkd-ksKsZd-mWPk3d VfPpkd-ksKsZd-mWPk3d-OWXEXe-ZNMTqd"]/input[@class="VfPpkd-muHVFf-bMcfAe"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-01 20:50:58 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c'. Try using Self-healing.
+
+2022-12-01 20:50:59 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c' was broken. Propose an alternative one: '//input[@type='checkbox']'.
+
+2022-12-01 20:50:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-01 20:48:38 - [TEST_SUITE][PASSED] - Google Sign up: Test Cases/GSU/View Password]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

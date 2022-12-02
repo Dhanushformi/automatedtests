@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_svsbdaupzkarenkey.com</name>
+   <tag></tag>
+   <elementGuidId>5e52d886-12a8-4a25-9a86-ef98d7031843</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accounts-list']/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>7380743f-f070-4724-9c2b-8551aace45ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark:text-gray-300 text-gray-900 text-sm font-medium leading-5 cursor-pointer select-all truncate</value>
+      <webElementGuid>ce6bf634-bcaa-4a00-a57a-c9d47b76722e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              svsbdaupz@karenkey.com
+            </value>
+      <webElementGuid>299d58f5-2dd1-4d96-8b5d-80c0f44c364e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accounts-list&quot;)/div[@class=&quot;shadow-xs dark:bg-gray-800 bg-white rounded-md dark:shadow-none&quot;]/div[@class=&quot;px-4 py-3&quot;]/p[@class=&quot;dark:text-gray-300 text-gray-900 text-sm font-medium leading-5 cursor-pointer select-all truncate&quot;]</value>
+      <webElementGuid>67c2b02e-1063-4481-9465-6285ed0c19fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accounts-list']/div/div/p[2]</value>
+      <webElementGuid>b1d512c0-0604-4386-a6b1-a1a74092bf9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='日本語'])[1]/following::p[2]</value>
+      <webElementGuid>5cac4948-cda8-449f-be4e-012dbb47c8e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='中文'])[1]/following::p[2]</value>
+      <webElementGuid>2ac0170c-0d39-4598-88dc-08f8d4217dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='}7GP!65I'])[1]/preceding::p[1]</value>
+      <webElementGuid>38a06fa6-1d3b-4b9f-b497-0aa4427ac5e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Temp Mail'])[1]/preceding::p[2]</value>
+      <webElementGuid>24c02c0b-5c34-46e3-ac76-ed2bed8c1a0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='svsbdaupz@karenkey.com']/parent::*</value>
+      <webElementGuid>3b40c259-c47b-4a7f-995f-de7ffb66869c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>c2796053-be17-4451-9e85-a3c5471de787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+              svsbdaupz@karenkey.com
+            ' or . = '
+              svsbdaupz@karenkey.com
+            ')]</value>
+      <webElementGuid>323e00fa-57a3-415d-8266-0a48f15ceaf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

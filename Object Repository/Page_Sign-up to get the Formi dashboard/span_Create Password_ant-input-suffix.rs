@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Create Password_ant-input-suffix</name>
+   <tag></tag>
+   <elementGuidId>2b25e898-c307-4b36-8280-da19326e07c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ant-input-suffix</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div[2]/div/div/div/div[3]/div/div[4]/div/div/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>346b9ba8-f68f-4db9-ba66-d278351560fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input-suffix</value>
+      <webElementGuid>ac0c8acd-eb69-46d3-969f-6f2841d768fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;register_maincontainer__W6PYh&quot;]/div[@class=&quot;register_parent__t4evr&quot;]/div[@class=&quot;register_main_wrapper__MM_VK&quot;]/div[@class=&quot;register_step1__V4kmE&quot;]/div[@class=&quot;register_signup_form__8aip5&quot;]/div[1]/div[@class=&quot;ant-form-item register_item__eHY5o ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-password ant-input-affix-wrapper-status-success&quot;]/span[@class=&quot;ant-input-suffix&quot;]</value>
+      <webElementGuid>94dbd3a1-7048-42bc-a2fb-e1aeda69f14a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div[2]/div/div/div/div[3]/div/div[4]/div/div/div/div/span/span</value>
+      <webElementGuid>062fe4a7-6d7b-452d-aea1-c167e7eb9709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Password'])[1]/following::span[2]</value>
+      <webElementGuid>ef4c63d6-9e60-4b66-a8c8-fc6042f4eabd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::span[2]</value>
+      <webElementGuid>6e06006b-9819-4d3b-8af3-14c7d0dae81a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/preceding::span[2]</value>
+      <webElementGuid>a10b2f60-5038-42d0-93d7-6a4e71cae8f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::span[2]</value>
+      <webElementGuid>a316f5cd-ee98-41b6-99bf-1fb5c0c950d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/span/span</value>
+      <webElementGuid>cfad5afd-1e1d-418f-bbb7-3d7dd34b27e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

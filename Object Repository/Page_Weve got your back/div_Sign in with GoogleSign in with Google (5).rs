@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sign in with GoogleSign in with Google (5)</name>
+   <tag></tag>
+   <elementGuidId>1ef61c08-a6b3-4209-b555-225a63d007a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a230e9b2-ee9f-4c43-a4ee-74832eb0cb16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb </value>
+      <webElementGuid>7b72c061-8358-4618-8227-c853375001f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign in with GoogleSign in with Google</value>
+      <webElementGuid>6537e984-6e9b-42fc-9ab7-bc606e70c971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;nsm7Bb-HzV7m-LgbsSe  hJDwNd-SxQuSe i5vt6e-Ia7Qfc uaxL4e-RbRzK&quot;]/div[@class=&quot;nsm7Bb-HzV7m-LgbsSe-bN97Pc-sM5MNb&quot;]</value>
+      <webElementGuid>a3c6ad89-503e-4350-a08d-29ac913007b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Weve got your back/iframe_OR_gsi_248851_520945</value>
+      <webElementGuid>262c55d3-f353-4e16-b16f-1317b6f23c25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[2]</value>
+      <webElementGuid>5c28bb63-c609-4be5-b03d-42dc09e55f34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]</value>
+      <webElementGuid>3f1dffd7-8ef3-4a5e-9f5a-2e59ca273e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sign in with GoogleSign in with Google' or . = 'Sign in with GoogleSign in with Google')]</value>
+      <webElementGuid>ef121dac-1657-479f-9f84-923ef06518c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

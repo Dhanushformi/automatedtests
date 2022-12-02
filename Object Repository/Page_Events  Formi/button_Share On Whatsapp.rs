@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Share On Whatsapp</name>
+   <tag></tag>
+   <elementGuidId>aa5ff85a-591e-4490-b06d-6b34d8714fef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.button_pink__Yhdb2.button_m__0eMVJ.invite-modal_whatsappbutton__Ll0Jm.shadow-wrapper_xs__OySnx</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c95a2690-b453-4e86-86cc-35d38b17e47e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d2b1573f-ebf6-4d74-bbe0-dbdde92c5f8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ invite-modal_whatsappbutton__Ll0Jm shadow-wrapper_xs__OySnx</value>
+      <webElementGuid>b88564ad-34fa-4bf6-93de-f9c5318a473a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Share On Whatsapp</value>
+      <webElementGuid>0d1a8c1d-3bba-4ad9-9dfd-ca1c8f5c7b84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal white-modal_modalcontainer__rk6Ls&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;invite-modal_maincontainer__M7vMj&quot;]/div[@class=&quot;invite-modal_button__Q7h2h&quot;]/button[@class=&quot;react-share__ShareButton&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ invite-modal_whatsappbutton__Ll0Jm shadow-wrapper_xs__OySnx&quot;]</value>
+      <webElementGuid>0678a269-6da3-44c1-bed9-e52f7f32f9ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>bc154a9b-5d73-4be1-bdef-27c55b7d89df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::button[2]</value>
+      <webElementGuid>e24b1724-4c04-4d4d-b2f6-7bdb02dde08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Link'])[6]/following::button[2]</value>
+      <webElementGuid>6c4cbe87-0c33-45bb-a540-941000940419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How To Invite'])[1]/preceding::button[1]</value>
+      <webElementGuid>c75ed2a3-56ec-409b-a735-b667bb2274d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/button</value>
+      <webElementGuid>e3430450-e6e0-4137-9ac0-210139b1340e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Share On Whatsapp' or . = ' Share On Whatsapp')]</value>
+      <webElementGuid>a10f414c-c3a1-4149-83d1-8ced37a2ad49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

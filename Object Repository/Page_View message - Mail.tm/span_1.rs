@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>2b018495-0f40-4696-88bd-257b35e10991</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.column.column-5 > table.heading_block.block-2 > tbody > tr > td.pad > h1 > span.tinyMce-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d307ee15-3766-4df2-8f00-fa23a5d8805e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tinyMce-placeholder</value>
+      <webElementGuid>36c9ba42-8415-4de2-b72e-99b126b434da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>d62f1f37-b25d-4703-afb7-b60cadcf89d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[@class=&quot;nl-container&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row row-2&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row-content&quot;]/tbody[1]/tr[1]/td[@class=&quot;column column-5&quot;]/table[@class=&quot;heading_block block-2&quot;]/tbody[1]/tr[1]/td[@class=&quot;pad&quot;]/h1[1]/span[@class=&quot;tinyMce-placeholder&quot;]</value>
+      <webElementGuid>0e801bf6-f59b-4d6d-9687-91cccc4047c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_View message - Mail.tm/iframe_lukpzwkarenkey.com_iFrameResizer0</value>
+      <webElementGuid>cb150ac7-318d-4b2d-b816-89759d5d0d44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>250e70b4-7cf2-491c-b574-18046aa9f972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/table/tbody/tr/td/h1/span</value>
+      <webElementGuid>4264b87a-63e7-4674-9d4c-ce1d410616ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>9958bdda-6328-4285-94f1-44e865613f0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
