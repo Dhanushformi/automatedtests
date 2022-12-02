@@ -41,7 +41,7 @@ WebUI.switchToWindowIndex(0)
 
 WebUI.click(findTestObject('Object Repository/Page_Weve got your back/span_Register'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email'), username )
+//WebUI.setText(findTestObject('Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email'), username )
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password'), 
     'cvW8qx4B2o3F4VwP/kNsqA==')
