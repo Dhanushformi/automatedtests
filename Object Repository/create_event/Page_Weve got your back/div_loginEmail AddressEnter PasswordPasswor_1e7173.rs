@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_loginEmail AddressEnter PasswordPasswor_1e7173</name>
+   <tag></tag>
+   <elementGuidId>68e9c90d-e505-4a8f-8e36-a7a47c3e7111</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login_modal__lNFbn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31a2055b-43cc-41e7-97e5-1c4df26bf996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_modal__lNFbn</value>
+      <webElementGuid>7cf9993e-ccf8-45bd-b4ad-3601d7b872c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>loginEmail AddressEnter PasswordPassword must be at least 8 characters long!Password must contain at least one uppercase letter, one lowercase letter, and one number!ORSubmit</value>
+      <webElementGuid>4920b0e9-a2b3-4827-9e6b-e04016d1d4a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;login_wrapper__GYPsU&quot;]/div[@class=&quot;login_modal__lNFbn&quot;]</value>
+      <webElementGuid>b3298416-25bd-42cf-baba-f7d9531c3ee6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div/div[3]/div</value>
+      <webElementGuid>c090c7cb-c467-4a29-8373-376e1149924e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::div[3]</value>
+      <webElementGuid>6f63847c-9dff-45cc-9f4a-3ba92bd68db7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[3]</value>
+      <webElementGuid>51e0e910-02e6-4f94-99d1-2bd594ee124c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>6cd6f4c1-c454-4d1d-9e4d-fa8a84a2163c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'loginEmail AddressEnter PasswordPassword must be at least 8 characters long!Password must contain at least one uppercase letter, one lowercase letter, and one number!ORSubmit' or . = 'loginEmail AddressEnter PasswordPassword must be at least 8 characters long!Password must contain at least one uppercase letter, one lowercase letter, and one number!ORSubmit')]</value>
+      <webElementGuid>3048943e-614a-4cb4-9f90-ad0bfefee143</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
