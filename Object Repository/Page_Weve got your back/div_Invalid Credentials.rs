@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invalid Credentials</name>
+   <tag></tag>
+   <elementGuidId>df31b524-8c91-4aeb-925b-c2d1077bb2d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::div[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-notification-notice-with-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b323775-7008-4505-8bf4-d39c15d5dc46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-notification-notice-with-icon</value>
+      <webElementGuid>514ca3d9-8c03-420b-ba79-8a08c130fbe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>6d7f014c-da52-4f28-8b77-a5b2efdd47a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid Credentials</value>
+      <webElementGuid>5490bf35-2905-4939-a66c-5ffb5fd502e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-notification ant-notification-bottomLeft&quot;]/div[1]/div[@class=&quot;ant-notification-notice notification ant-notification-notice-error ant-notification-notice-closable&quot;]/div[@class=&quot;ant-notification-notice-content&quot;]/div[@class=&quot;ant-notification-notice-with-icon&quot;]</value>
+      <webElementGuid>413a53de-e97c-4a80-aa3f-e69d56b0665e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ca2bf63-5b26-435b-8702-8c5a5e9aa370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-notification-notice-with-icon</value>
+      <webElementGuid>b5f4f94a-5f6b-4e97-b6f7-72d9de97c6e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>54f19608-24d5-4629-8862-f0ef2205bbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid Credentials</value>
+      <webElementGuid>0980009a-8dad-4040-805c-93512d428025</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-notification ant-notification-bottomLeft&quot;]/div[1]/div[@class=&quot;ant-notification-notice notification ant-notification-notice-error ant-notification-notice-closable&quot;]/div[@class=&quot;ant-notification-notice-content&quot;]/div[@class=&quot;ant-notification-notice-with-icon&quot;]</value>
+      <webElementGuid>b3e328df-b6e8-4ec9-9ecf-6d66a04ce8fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f11d9a0-1834-431d-b128-cb48540f4e72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-notification-notice notification ant-notification-notice-error ant-notification-notice-closable</value>
+      <webElementGuid>eb947a66-a794-4e33-9ff8-ff4ddc91f750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid Credentials</value>
+      <webElementGuid>19bc636c-221a-4411-8dda-f112f2754e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[3]/div[@class=&quot;ant-notification ant-notification-bottomLeft&quot;]/div[1]/div[@class=&quot;ant-notification-notice notification ant-notification-notice-error ant-notification-notice-closable&quot;]</value>
+      <webElementGuid>f0713ac4-287e-4a32-abb0-a2631cdf7719</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::div[8]</value>
+      <webElementGuid>8ee51794-7815-4ccc-927c-7fe8e77a27bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::div[16]</value>
+      <webElementGuid>5c89d647-1ecf-4576-adec-c19acf236712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div</value>
+      <webElementGuid>fe4314c6-43f4-42ea-b0a4-860bf6cc837c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invalid Credentials' or . = 'Invalid Credentials')]</value>
+      <webElementGuid>576ee17d-6d24-433b-9eec-9f2281822622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::div[6]</value>
+      <webElementGuid>e9f49c51-693d-4e17-805f-b70d7c0a96fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::div[14]</value>
+      <webElementGuid>c9411fa4-ed89-4468-8324-feb62503bf3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>7de5328d-9b14-484a-999e-347cbcc44a3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

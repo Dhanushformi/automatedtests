@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PSYCHEDELIC  TRANCE</name>
+   <tag></tag>
+   <elementGuidId>a8d49a3d-95c2-4462-b926-7fce5b86a564</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[4]/div[3]/div[8]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>51158fa6-95e8-454e-9ac8-72b28dd6b050</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-event_text__63ZOS</value>
+      <webElementGuid>74d91bcf-67d7-4d43-9ab8-df60d064e45b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PSYCHEDELIC &amp; TRANCE</value>
+      <webElementGuid>f2fca6d9-4977-4897-ad03-07884a7a8e36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;list-event_wrapper__mMi0A&quot;]/form[@class=&quot;ant-form ant-form-vertical list-event_form__WCfad&quot;]/div[@class=&quot;list-event_section__Oxtsr&quot;]/div[@class=&quot;ant-row ant-row-center&quot;]/div[@class=&quot;list-event_card__aQxzZ&quot;]/div[1]/div[@class=&quot;list-event_text__63ZOS&quot;]</value>
+      <webElementGuid>70f9e8fc-fd42-43dc-afaf-c1de7a07a187</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[4]/div[3]/div[8]/div/div</value>
+      <webElementGuid>e90363cf-c10f-4d68-8462-c5ed89757ecd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TECHNO &amp; HOUSE'])[1]/following::div[4]</value>
+      <webElementGuid>408575af-853d-455f-94f4-e503c52d1bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIP-HOP/POP'])[1]/following::div[8]</value>
+      <webElementGuid>50088839-b4a6-45a7-a2a2-21c31d3632cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RAP'])[1]/preceding::div[2]</value>
+      <webElementGuid>bb0a13d6-8164-449a-b3e2-f6bcc221bbca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tags'])[1]/preceding::div[6]</value>
+      <webElementGuid>4f9116b3-a76f-4f3f-9f37-203fce78be87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PSYCHEDELIC &amp; TRANCE']/parent::*</value>
+      <webElementGuid>30933786-e349-46d1-ad85-a8bfa2dbcb07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[8]/div/div</value>
+      <webElementGuid>3303e846-d569-4093-8cc2-562d424f4cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'PSYCHEDELIC &amp; TRANCE' or . = 'PSYCHEDELIC &amp; TRANCE')]</value>
+      <webElementGuid>71acc784-a1c8-471d-882d-e1ca2fd1391c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>f9228b1e-2374-4ef5-a434-3550acef9da0</webElementGuid>
+      <webElementGuid>7ed34487-afd3-401b-b7a8-837e9539698d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,10 +30,330 @@
       <name>href</name>
       <type>Main</type>
       <value>/register</value>
-      <webElementGuid>46ac0051-f31b-40f8-a771-caf44989c581</webElementGuid>
+      <webElementGuid>fc2b36c3-b02a-4596-abb9-0f95bf154475</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>5799a260-9e69-46b8-9098-7848c91bd61d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>fe7a2eb8-29a2-4c82-b5b6-9172ab6406a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>352596be-3ce9-4e4c-9165-b7f24273479a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>ce0de307-1476-4233-85d8-e4f63205140b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>8f0d17f1-7185-4d54-bac9-14ad57117113</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>af3c3455-f3bf-4c04-b425-5331a7a415f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>83893818-075c-4c56-98da-a800d9bb5bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>5d343dd9-a8ba-432d-8378-c86c8d6dcce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>c4258d2e-1b01-4bf4-80da-f21cd82c085b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>b2fad381-8252-43b9-81b7-3bede02096fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5d309ee7-5ee3-438b-bda4-f184a11b0493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>615db56f-b6cc-49cf-99c9-3e12713d933c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>83361a33-981f-460c-9cc3-0bf090463776</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>e59c7613-c601-4798-96a2-fb3c7921d7df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e7ef2d57-3bbd-4152-b9d4-dd4e378f2c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>5395be10-a293-43c4-9898-207d71efaa81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>ea621e9d-4ccf-4903-a957-a06b134f1192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>26095f13-ad6c-4136-8d20-a3e0161c83f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>adb89608-749f-4c9f-b089-7651ce08fde3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>fd81055a-edc8-4e22-8685-e37732cca2ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>322d449c-13b3-4913-a55f-c4f7e64dc86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>aa0b0f2e-2b47-437a-82e6-cd1b30ab5290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f0ff64d3-4cac-4c27-951f-40063fa4b1ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>9f938b58-17d2-4d5a-89ec-544c6a8ee846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>15512a7d-6a91-4f80-a44b-1ef6c5d54723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>9b0feec6-ca42-453d-b231-252e52ddbb3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>169bf226-5c0c-47e2-8366-5aad28913f06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>2d2ef847-92db-4c32-bb2b-982966e9239e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>2ff3c6f6-a80e-4b48-96a9-d4d24e16447a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>6e4886a6-fab9-499f-8e0e-40a0e67660d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6fc691e1-5029-456d-b7de-a3d4d9d6b6ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>bc01fb56-cde7-4ac3-a2a7-c6580dd2a87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>64d81ba7-7261-475e-9477-ead3cd163ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>f824a9a0-bf04-49dc-a37a-b06f9a00e1dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e0ff255a-b90c-461f-9a7a-6a4f995704ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>ad5b3b0d-61aa-4489-96a4-037a95f5b9da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Yourself</value>
+      <webElementGuid>2fb8ead0-cad3-4eb8-95b7-23e28efd146a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/section[@class=&quot;home-page_topSection__ka_iR&quot;]/div[@class=&quot;ant-row home-page_main__E29EG&quot;]/div[@class=&quot;ant-col ant-col-16 home-page_text__xeDln&quot;]/div[@class=&quot;home-page_registerBtn__w7Jlp&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>aec9ac41-95b3-480d-a9a6-254bd82e692a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f9228b1e-2374-4ef5-a434-3550acef9da0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/register</value>
+      <webElementGuid>46ac0051-f31b-40f8-a771-caf44989c581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -278,7 +598,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/section/div[2]/div/div/button/a</value>
-      <webElementGuid>47eebd46-d30b-4fd7-b36b-f320cc889ae9</webElementGuid>
+      <webElementGuid>948155b6-5513-4195-9fa2-28e6e27ab1d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -286,7 +606,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Register Yourself')]</value>
-      <webElementGuid>e43aa298-34cc-4c73-b511-d0f5cdc70641</webElementGuid>
+      <webElementGuid>604cdb7f-b54a-4243-9885-a2d47dd77a72</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -294,7 +614,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales infrastructure for all your events'])[1]/following::a[1]</value>
-      <webElementGuid>2fcbe827-abd8-46b3-8d9c-96f0f7680a52</webElementGuid>
+      <webElementGuid>df302e44-d4d7-498d-a671-7232d39c62d8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -302,7 +622,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
-      <webElementGuid>d1629905-4683-46e0-b4e2-cfd09c3bcb9c</webElementGuid>
+      <webElementGuid>e9b7d56d-574d-4430-a989-5055e8af8ca2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -310,7 +630,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Unified platform'])[1]/preceding::a[1]</value>
-      <webElementGuid>41d62abd-07c6-4984-bfd8-7b0106ce165e</webElementGuid>
+      <webElementGuid>d120dcf7-2c47-477a-a643-64edf3ca60b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -318,7 +638,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='A fully integrated suite of products that will increase your ticket sales'])[1]/preceding::a[1]</value>
-      <webElementGuid>a9ac40a7-f4e9-498c-b98e-1106f6ae9f87</webElementGuid>
+      <webElementGuid>0a0e383a-af23-4ae1-8c4e-f9a2bf13ba94</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -326,7 +646,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Register Yourself']/parent::*</value>
-      <webElementGuid>76482f70-929d-4dcb-a4fd-b4bd136b03c5</webElementGuid>
+      <webElementGuid>2327db50-eb66-4575-a0ee-6c383fb8f253</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -334,7 +654,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/register')])[2]</value>
-      <webElementGuid>12ecb253-4ec6-47d8-8db3-9827ef0d3838</webElementGuid>
+      <webElementGuid>97bbc547-7fc3-4ba4-abf1-a6360cc34ade</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -342,7 +662,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/a</value>
-      <webElementGuid>cbda80bd-5b10-4879-9302-b7d629afac7a</webElementGuid>
+      <webElementGuid>53e2bf21-5bdd-4826-864a-5dc0800cd527</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -350,6 +670,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/register' and (text() = 'Register Yourself' or . = 'Register Yourself')]</value>
-      <webElementGuid>f8f8d75c-eba5-4f5c-84fb-401939894f51</webElementGuid>
+      <webElementGuid>cd4c7128-dfef-44f9-b514-f6adbe931b7b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

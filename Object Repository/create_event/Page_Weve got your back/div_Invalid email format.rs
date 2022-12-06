@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Invalid email format</name>
+   <tag></tag>
+   <elementGuidId>7ee258d4-ddd2-4b94-9aaf-67548c6127ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-form-item-explain-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div/div[3]/div/div/div/div[3]/div/div[2]/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f0f27ff-6937-4036-ac9e-4c0e317d49bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>7e28287b-e480-4cb3-8708-504fcf92ac52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-form-item-explain-error</value>
+      <webElementGuid>fb3e992c-a0b5-4423-be7d-5c8df4819457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invalid email format!</value>
+      <webElementGuid>46a62217-a295-41b4-9b9a-830e70a056e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;login_wrapper__GYPsU&quot;]/div[@class=&quot;login_modal__lNFbn&quot;]/div[@class=&quot;login_main_wrapper__6oBhw&quot;]/div[@class=&quot;login_step1__wZL6p&quot;]/div[@class=&quot;login_signup_form__ulZTr&quot;]/div[1]/div[@class=&quot;ant-form-item ant-form-item-with-help login_item__ZYHBG ant-form-item-has-error&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[2]/div[@class=&quot;ant-form-item-explain ant-form-item-explain-connected&quot;]/div[@class=&quot;ant-form-item-explain-error&quot;]</value>
+      <webElementGuid>bbb8b84f-a986-44ca-8262-ff6d7a54e236</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div/div[3]/div/div/div/div[3]/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>1788b3c4-2afc-478b-bc40-4c7c5ca32e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::div[8]</value>
+      <webElementGuid>aa2165e0-6735-4f0d-a460-003db8badc20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='login'])[1]/following::div[11]</value>
+      <webElementGuid>73fe1eaa-9b5e-4054-aa1a-e7fffe5c058b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Password'])[1]/preceding::div[3]</value>
+      <webElementGuid>c0f5b69d-6cee-4ea8-91ff-d023ba25ebdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/preceding::div[10]</value>
+      <webElementGuid>f2e70036-2759-4332-bfa3-78871e34415b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Invalid email format!']/parent::*</value>
+      <webElementGuid>1d51634a-21c1-4b86-9fd6-3e2d90ba889e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>6ef7ec83-42eb-4d1f-a7db-e0a9fce0ce3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Invalid email format!' or . = 'Invalid email format!')]</value>
+      <webElementGuid>1ee24163-cf7f-404b-a23e-2e5ae8a6aa3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

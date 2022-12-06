@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_loginEmail AddressEnter PasswordOR</name>
+   <tag></tag>
+   <elementGuidId>c232ceb2-543e-47d7-9b22-f2c64408c0ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.login_step1__wZL6p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div/div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>27203cb9-0b03-40f9-b942-886303097799</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_step1__wZL6p</value>
+      <webElementGuid>318a6a01-56df-4cd1-be15-cb3894fcbfdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>loginEmail AddressEnter PasswordOR</value>
+      <webElementGuid>5fa3d119-bc0c-46fc-b336-aecd0df12628</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;login_wrapper__GYPsU&quot;]/div[@class=&quot;login_modal__lNFbn&quot;]/div[@class=&quot;login_main_wrapper__6oBhw&quot;]/div[@class=&quot;login_step1__wZL6p&quot;]</value>
+      <webElementGuid>b44afa33-6694-4683-8c9d-54880c04831e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ef70845-2fe6-46a2-bb72-562a47a451cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_step1__wZL6p</value>
+      <webElementGuid>976730b4-9f60-47be-b254-9f66ef560cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>loginEmail AddressEnter PasswordOR</value>
+      <webElementGuid>88df94a7-47d8-4813-a46f-f450679d6623</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;login_wrapper__GYPsU&quot;]/div[@class=&quot;login_modal__lNFbn&quot;]/div[@class=&quot;login_main_wrapper__6oBhw&quot;]/div[@class=&quot;login_step1__wZL6p&quot;]</value>
+      <webElementGuid>9ed77e3d-c241-471f-817c-3ef521f7edac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div/div[3]/div/div/div</value>
+      <webElementGuid>d6b8f0dc-d337-4683-9871-e02b07a38b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::div[5]</value>
+      <webElementGuid>dea221d1-c781-434a-80e8-85cec108c689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[5]</value>
+      <webElementGuid>0c0f0343-a7c7-4ebb-a4ca-c645098b6768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>e6dda39f-c4d6-4a12-9e80-36cc6b0b6bc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'loginEmail AddressEnter PasswordOR' or . = 'loginEmail AddressEnter PasswordOR')]</value>
+      <webElementGuid>cd56b2a8-f7a4-482a-98e1-383fa6a70f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

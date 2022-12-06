@@ -3,7 +3,7 @@
    <description></description>
    <name>div_LoginRegister</name>
    <tag></tag>
-   <elementGuidId>c080fefa-58f2-4ad9-aa32-683b7f32f213</elementGuidId>
+   <elementGuidId>435aa4b6-04ea-4980-bd98-ff8ee34df07d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>364a51db-c191-4e13-b7da-a2d867fd6982</webElementGuid>
+      <webElementGuid>db183170-3e44-4a62-ae00-0fd71a822041</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-row public-navbar_navbar__eJzUB</value>
-      <webElementGuid>2d0b21f3-1169-4118-b68a-805b3709cfd1</webElementGuid>
+      <webElementGuid>2539444a-3643-405f-8177-adb9b1f88b2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>LoginRegister</value>
-      <webElementGuid>4aa6cc60-feb3-4ab8-a856-9205779168e7</webElementGuid>
+      <webElementGuid>9d2128b2-f01c-4b54-ba4e-eaa2270d05ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/div[@class=&quot;ant-row public-navbar_navbar__eJzUB&quot;]</value>
-      <webElementGuid>cd120964-8cb8-4f01-aae7-0a8c8b117505</webElementGuid>
+      <webElementGuid>54c89130-3759-4a78-b9e5-c97cbd6e9836</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div</value>
-      <webElementGuid>5522d01c-11ae-4d3c-b2f0-8be3571698ca</webElementGuid>
+      <webElementGuid>ce9192cf-cb57-41a8-b80a-ba1a72d51e96</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div</value>
-      <webElementGuid>b113219c-1448-453b-bf85-5220ffe33edc</webElementGuid>
+      <webElementGuid>fd6d3380-9d73-440d-bf39-6e0c05482b21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'LoginRegister' or . = 'LoginRegister')]</value>
-      <webElementGuid>a336a385-6384-4066-9fb7-a005913903ae</webElementGuid>
+      <webElementGuid>96e2ee57-bb8e-4206-8cef-c2d444da8278</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

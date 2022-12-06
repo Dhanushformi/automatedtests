@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Click or drag file</name>
+   <tag></tag>
+   <elementGuidId>1d5e5725-9a5f-41f4-9cc3-d67d884957cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div/div[3]/div/div/div/div/span/div/span/div/p[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.list-event_pink__56k4G</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>76a56524-3c88-4b8d-b5b8-ab68ffad86e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-event_pink__56k4G</value>
+      <webElementGuid>9665f104-3b8b-49f1-b42b-e41995018ad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click or drag file</value>
+      <webElementGuid>7abefd2e-3ba2-414e-9119-7339a7a05a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;list-event_wrapper__mMi0A&quot;]/form[@class=&quot;ant-form ant-form-vertical list-event_form__WCfad&quot;]/div[@class=&quot;list-event_section__Oxtsr&quot;]/div[@class=&quot;ant-form-item list-event_item__1IcQa&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[1]/div[@class=&quot;ant-upload ant-upload-drag list-event_dragger__OEv9D&quot;]/span[@class=&quot;ant-upload ant-upload-btn&quot;]/div[@class=&quot;ant-upload-drag-container&quot;]/p[@class=&quot;list-event_firstsection__hv1HM&quot;]/span[@class=&quot;list-event_pink__56k4G&quot;]</value>
+      <webElementGuid>a0bffaad-828d-4e3a-84f3-f2ce7f930fee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div/div[3]/div/div/div/div/span/div/span/div/p[2]/span</value>
+      <webElementGuid>b090f631-fcf9-4d3d-ad35-ec39dc88fd7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This is the first image attendees will see at the top of your listing.'])[1]/following::span[3]</value>
+      <webElementGuid>a7cd434e-595d-4bd1-bdca-c97c09d4c074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Banner'])[1]/following::span[3]</value>
+      <webElementGuid>7a7d20c9-92e5-43b1-b807-599aaeda8489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Basic Info'])[2]/preceding::span[1]</value>
+      <webElementGuid>20438a45-b2d5-49a8-8f52-6f4415a436a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event Title'])[1]/preceding::span[1]</value>
+      <webElementGuid>72128233-4472-466e-87b8-e0f9dc3cf7b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Click or drag file']/parent::*</value>
+      <webElementGuid>aa956460-dfc0-46ce-9ab3-84d204963fed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/span</value>
+      <webElementGuid>c8c5137e-0002-4d10-8bb3-6c904dbc37f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Click or drag file' or . = 'Click or drag file')]</value>
+      <webElementGuid>30aed8b3-1401-4cd1-a3a9-5bb8bc755704</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
