@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_2</name>
+   <tag></tag>
+   <elementGuidId>690df5c8-79ac-40db-b019-565c186dc404</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.column.column-2 > table.heading_block.block-2 > tbody > tr > td.pad > h1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/table[@class=&quot;nl-container&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row row-2&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row-content&quot;]/tbody[1]/tr[1]/td[@class=&quot;column column-2&quot;]/table[@class=&quot;heading_block block-2&quot;]/tbody[1]/tr[1]/td[@class=&quot;pad&quot;]/h1[1][count(. | //*[@ref_element = 'Object Repository/Page_View message - Mail.tm/iframe_lukpzwkarenkey.com_iFrameResizer0']) = count(//*[@ref_element = 'Object Repository/Page_View message - Mail.tm/iframe_lukpzwkarenkey.com_iFrameResizer0'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[2]/table/tbody/tr/td/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>e09935e4-128a-44d0-8063-542044513f87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>5817b5a4-a357-434c-946e-859feeb4cc2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[@class=&quot;nl-container&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row row-2&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row-content&quot;]/tbody[1]/tr[1]/td[@class=&quot;column column-2&quot;]/table[@class=&quot;heading_block block-2&quot;]/tbody[1]/tr[1]/td[@class=&quot;pad&quot;]/h1[1]</value>
+      <webElementGuid>f1fb5e88-b476-4f41-a4f8-f02adf956167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_View message - Mail.tm/iframe_lukpzwkarenkey.com_iFrameResizer0</value>
+      <webElementGuid>3025745b-7d21-420c-908b-463754af4abc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/table/tbody/tr/td/h1</value>
+      <webElementGuid>443a6e30-cc81-4424-bb7c-ba64b1fb3172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '2' or . = '2')]</value>
+      <webElementGuid>e97fba21-c601-44da-8272-7296db0f4e41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,104 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Weve got your back/iframe_OR_gsi_679380_984526",
+      "brokenLocator": "//iframe[@id\u003d\u0027gsi_679380_984526\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027signindiv\u0027]/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Weve got your back/iframe_OR_gsi_679380_984526_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Weve got your back/iframe_OR_gsi_56225_173478",
+      "brokenLocator": "//iframe[@id\u003d\u0027gsi_56225_173478\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027signindiv\u0027]/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Weve got your back/iframe_OR_gsi_56225_173478_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Weve got your back/iframe_OR_gsi_921655_789516",
+      "brokenLocator": "//iframe[@id\u003d\u0027gsi_921655_789516\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027signindiv\u0027]/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Weve got your back/iframe_OR_gsi_921655_789516_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Weve got your back/iframe_OR_gsi_248851_520945",
+      "brokenLocator": "//iframe[@id\u003d\u0027gsi_248851_520945\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027signindiv\u0027]/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Weve got your back/iframe_OR_gsi_248851_520945_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create your Google Account/span_Next",
+      "brokenLocator": "id(\"accountDetailsNext\")/div[@class\u003d\"VfPpkd-dgl2Hf-ppHlrf-sM5MNb\"]/button[@class\u003d\"VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d\"]/span[@class\u003d\"VfPpkd-vQzf8d\"]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027accountDetailsNext\u0027]/div/button/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Create your Google Account/span_Next_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Weve got your back/iframe_OR_gsi_116753_578430",
+      "brokenLocator": "//iframe[@id\u003d\u0027gsi_116753_578430\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027signindiv\u0027]/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Weve got your back/iframe_OR_gsi_116753_578430_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sign-up to get the Formi dashboard/iframe_OR_gsi_525416_956319",
+      "brokenLocator": "//iframe[@id\u003d\u0027gsi_525416_956319\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027signindiv\u0027]/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Sign-up to get the Formi dashboard/iframe_OR_gsi_525416_956319_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create your Google Account/span_Next",
+      "brokenLocator": "id(\"accountDetailsNext\")/div[@class\u003d\"VfPpkd-dgl2Hf-ppHlrf-sM5MNb\"]/button[@class\u003d\"VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 qIypjc TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d-OWXEXe-AHe6Kc-XpnDCe VfPpkd-ksKsZd-mWPk3d\"]/span[@class\u003d\"VfPpkd-vQzf8d\"]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027One account. All of Google working for you.\u0027])[1]/preceding::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Create your Google Account/span_Next_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Weve got your back/iframe_OR_gsi_133534_797251",
+      "brokenLocator": "//iframe[@id\u003d\u0027gsi_133534_797251\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027signindiv\u0027]/div/iframe",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Weve got your back/iframe_OR_gsi_133534_797251_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c",
+      "brokenLocator": "id(\"view_container\")/div[@class\u003d\"zWl5kd\"]/div[@class\u003d\"DRS7Fe bxPAYd k6Zj8d\"]/div[@class\u003d\"pwWryf bxPAYd\"]/div[@class\u003d\"Wxwduf Us7fWe JhUD8d\"]/div[@class\u003d\"WEQkZc\"]/div[@class\u003d\"bCAAsb\"]/form[1]/span[1]/section[@class\u003d\"aTzEhb\"]/div[@class\u003d\"CxRgyd\"]/div[1]/div[@class\u003d\"SdBahf Fjk18 OcVpRe DbQnIe ia6RDd\"]/div[@class\u003d\"EcjFDf\"]/div[@class\u003d\"IhH7Wd\"]/div[@class\u003d\"ci67pc\"]/div[@class\u003d\"BudEQ rBUW7e\"]/div[@class\u003d\"sSzDje NEk0Ve\"]/div[@class\u003d\"enBDyd\"]/div[@class\u003d\"VfPpkd-MPu53c VfPpkd-MPu53c-OWXEXe-dgl2Hf Ne8lhe swXlm az2ine y5MMGc sD2Hod VfPpkd-MPu53c-OWXEXe-mWPk3d VfPpkd-ksKsZd-mWPk3d VfPpkd-ksKsZd-mWPk3d-OWXEXe-ZNMTqd\"]/input[@class\u003d\"VfPpkd-muHVFf-bMcfAe\"]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//input[@type\u003d\u0027checkbox\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221201_204831/Google Sign up/20221201_204832/Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c_XPATH.png"
+    }
+  ]
+}

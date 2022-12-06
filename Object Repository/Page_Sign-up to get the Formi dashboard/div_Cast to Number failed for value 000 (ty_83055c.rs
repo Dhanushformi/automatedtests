@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Cast to Number failed for value 000 (ty_83055c</name>
+   <tag></tag>
+   <elementGuidId>40d9aca1-cf23-46fa-b2f6-b7916b768de3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-notification-notice-description</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8b2816d8-4305-40df-b771-31a0209c0656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-notification-notice-description</value>
+      <webElementGuid>dead750f-26dd-4ed1-aac1-a4fc9371d09c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cast to Number failed for value &quot;*000&quot; (type string) at path &quot;verificationHash&quot; for model &quot;PromotionalCompany&quot;</value>
+      <webElementGuid>a42f8958-2b27-4668-9d6c-48bd7f170277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[3]/div[@class=&quot;ant-notification ant-notification-bottomLeft&quot;]/div[1]/div[@class=&quot;ant-notification-notice notification ant-notification-notice-error ant-notification-notice-closable&quot;]/div[@class=&quot;ant-notification-notice-content&quot;]/div[@class=&quot;ant-notification-notice-with-icon&quot;]/div[@class=&quot;ant-notification-notice-description&quot;]</value>
+      <webElementGuid>3b018ab3-8aec-4096-a3d7-eb3d2cd6c650</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[10]</value>
+      <webElementGuid>8071e3e1-0e60-4d93-bc71-0a421cb162b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::div[18]</value>
+      <webElementGuid>8263344e-5b20-4713-9271-9c1bb03dcd0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please check your email.'])[1]/preceding::div[4]</value>
+      <webElementGuid>cb21873e-c5b8-42b0-b9d6-db0fda2abc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cast to Number failed for value &quot;*000&quot; (type string) at path &quot;verificationHash&quot; for model &quot;PromotionalCompany&quot;']/parent::*</value>
+      <webElementGuid>c53e7cc4-c19d-4b38-a4ef-68982dd91cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>5ee51ccd-dd7a-40ec-ad50-542191c2e502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Cast to Number failed for value &quot;*000&quot; (type string) at path &quot;verificationHash&quot; for model &quot;PromotionalCompany&quot;' or . = 'Cast to Number failed for value &quot;*000&quot; (type string) at path &quot;verificationHash&quot; for model &quot;PromotionalCompany&quot;')]</value>
+      <webElementGuid>534f58d0-6265-412b-a975-d1b83de14001</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,170 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Google Sign up,Chrome 107.0.0.0,,,2022-12-01 20:48:38,2022-12-01 20:50:59,2m - 20.870s,PASSED
+,,,,,,,
+Test Cases/GSU/Confirm Password,Chrome 107.0.0.0,,,2022-12-01 20:48:38,2022-12-01 20:48:49,10.788s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:48:38,2022-12-01 20:48:40,1.778s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:48:40,2022-12-01 20:48:41,1.127s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Login (2)""))",Chrome 107.0.0.0,,,2022-12-01 20:48:41,2022-12-01 20:48:42,1.103s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (1)""))",Chrome 107.0.0.0,,,2022-12-01 20:48:42,2022-12-01 20:48:45,2.645s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:48:45,2022-12-01 20:48:45,0.031s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (2)""))",Chrome 107.0.0.0,,,2022-12-01 20:48:45,2022-12-01 20:48:46,1.398s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use (2)""))",Chrome 107.0.0.0,,,2022-12-01 20:48:46,2022-12-01 20:48:47,0.841s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 107.0.0.0,,,2022-12-01 20:48:47,2022-12-01 20:48:48,0.930s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e""))",Chrome 107.0.0.0,,,2022-12-01 20:48:48,2022-12-01 20:48:49,0.437s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e""))",Chrome 107.0.0.0,,,2022-12-01 20:48:49,2022-12-01 20:48:49,0.292s,PASSED
+,,,,,,,
+Test Cases/GSU/Create Account,Chrome 107.0.0.0,,,2022-12-01 20:48:49,2022-12-01 20:48:59,9.692s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:48:49,2022-12-01 20:48:51,1.922s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:48:51,2022-12-01 20:48:51,0.511s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/button_Login""))",Chrome 107.0.0.0,,,2022-12-01 20:48:51,2022-12-01 20:48:52,0.843s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google""))",Chrome 107.0.0.0,,,2022-12-01 20:48:52,2022-12-01 20:48:55,2.669s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:48:55,2022-12-01 20:48:55,0.017s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (1)""), 0)",Chrome 107.0.0.0,GSU-001,,2022-12-01 20:48:55,2022-12-01 20:48:56,1.502s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (1)""))",Chrome 107.0.0.0,"GSU-001
+",,2022-12-01 20:48:56,2022-12-01 20:48:57,0.419s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (1)""))",Chrome 107.0.0.0,GSU-002,,2022-12-01 20:48:57,2022-12-01 20:48:57,0.404s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (1)""))",Chrome 107.0.0.0,,,2022-12-01 20:48:57,2022-12-01 20:48:58,0.437s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use (1)""))",Chrome 107.0.0.0,,,2022-12-01 20:48:58,2022-12-01 20:48:59,0.820s,PASSED
+,,,,,,,
+Test Cases/GSU/First Name,Chrome 107.0.0.0,,,2022-12-01 20:48:59,2022-12-01 20:49:09,10.877s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:48:59,2022-12-01 20:49:01,1.898s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:49:01,2022-12-01 20:49:01,0.450s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Login (2)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:01,2022-12-01 20:49:02,0.851s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (1)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:02,2022-12-01 20:49:05,2.977s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:49:05,2022-12-01 20:49:05,0.017s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (2)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:05,2022-12-01 20:49:06,1.402s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use (2)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:06,2022-12-01 20:49:07,0.843s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName""), 0)",Chrome 107.0.0.0,"GSU-005
+",,2022-12-01 20:49:07,2022-12-01 20:49:08,0.824s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName""))",Chrome 107.0.0.0,"GSU-005
+",,2022-12-01 20:49:08,2022-12-01 20:49:08,0.309s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName""))",Chrome 107.0.0.0,"GSU-006
+",,2022-12-01 20:49:08,2022-12-01 20:49:09,0.406s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName""), ""Gmsnssd"")",Chrome 107.0.0.0,"GSU-006
+",,2022-12-01 20:49:09,2022-12-01 20:49:09,0.733s,PASSED
+,,,,,,,
+Test Cases/GSU/Last Name,Chrome 107.0.0.0,,,2022-12-01 20:49:09,2022-12-01 20:49:20,10.756s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:49:10,2022-12-01 20:49:12,1.922s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:49:12,2022-12-01 20:49:12,0.541s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Login (4)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:12,2022-12-01 20:49:13,0.739s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Sign in with Google (1)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:13,2022-12-01 20:49:16,2.718s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:49:16,2022-12-01 20:49:16,0.017s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (4)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:16,2022-12-01 20:49:17,1.448s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use (4)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:17,2022-12-01 20:49:18,0.909s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)""), 0)",Chrome 107.0.0.0,"GSU-007
+",,2022-12-01 20:49:18,2022-12-01 20:49:19,0.846s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)""))",Chrome 107.0.0.0,GSU-007,,2022-12-01 20:49:19,2022-12-01 20:49:19,0.421s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)""))",Chrome 107.0.0.0,GSU-008,,2022-12-01 20:49:19,2022-12-01 20:49:19,0.299s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName (1)""), ""testname"")",Chrome 107.0.0.0,GSU-008,,2022-12-01 20:49:19,2022-12-01 20:49:20,0.748s,PASSED
+,,,,,,,
+Test Cases/GSU/Next Button,Chrome 107.0.0.0,,,2022-12-01 20:49:20,2022-12-01 20:49:32,11.720s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:49:20,2022-12-01 20:49:22,1.837s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:49:22,2022-12-01 20:49:23,0.502s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Login (10)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:23,2022-12-01 20:49:24,0.856s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/div_Sign in with GoogleSign in with Google (5)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:24,2022-12-01 20:49:26,2.668s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:49:26,2022-12-01 20:49:26,0.015s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (8)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:26,2022-12-01 20:49:28,1.427s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use (9)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:28,2022-12-01 20:49:29,0.891s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb""))",Chrome 107.0.0.0,"GSU-021
+",,2022-12-01 20:49:29,2022-12-01 20:49:29,0.836s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/span_Next""))",Chrome 107.0.0.0,"GSU-022
+
+",,2022-12-01 20:49:29,2022-12-01 20:49:32,2.538s,PASSED
+,,,,,,,
+Test Cases/GSU/Password,Chrome 107.0.0.0,,,2022-12-01 20:49:32,2022-12-01 20:49:42,10.485s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:49:32,2022-12-01 20:49:34,1.848s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:49:34,2022-12-01 20:49:34,0.510s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Login (6)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:34,2022-12-01 20:49:35,0.873s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Sign in with Google (2)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:35,2022-12-01 20:49:38,2.773s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:49:38,2022-12-01 20:49:38,0.013s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (6)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:38,2022-12-01 20:49:40,1.406s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use (5)""))",Chrome 107.0.0.0,,,2022-12-01 20:49:40,2022-12-01 20:49:40,0.856s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd""), 0)",Chrome 107.0.0.0,GSU-011,,2022-12-01 20:49:40,2022-12-01 20:49:41,0.827s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd""))",Chrome 107.0.0.0,GSU-011,,2022-12-01 20:49:41,2022-12-01 20:49:42,0.411s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd""))",Chrome 107.0.0.0,"GSU-012
+",,2022-12-01 20:49:42,2022-12-01 20:49:42,0.407s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd""), ""BWgEo7IagHzWhi9YvsMrEQ=="")",Chrome 107.0.0.0,"GSU-012
+",,2022-12-01 20:49:42,2022-12-01 20:49:42,0.404s,PASSED
+,,,,,,,
+Test Cases/GSU/Phone Number,Chrome 107.0.0.0,,,2022-12-01 20:49:42,2022-12-01 20:50:19,36.141s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:49:43,2022-12-01 20:49:45,1.865s,PASSED
+"navigateToUrl(""https://organizer-testing.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:49:45,2022-12-01 20:49:45,0.497s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Register""))",Chrome 107.0.0.0,,,2022-12-01 20:49:45,2022-12-01 20:49:46,1.192s,PASSED
+"switchToWindowTitle(""Sign-up to get the Formi dashboard!"")",Chrome 107.0.0.0,,,2022-12-01 20:49:46,2022-12-01 20:49:46,0.032s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/span_Sign in with Google""))",Chrome 107.0.0.0,,,2022-12-01 20:49:46,2022-12-01 20:49:49,2.511s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:49:49,2022-12-01 20:49:49,0.027s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account""))",Chrome 107.0.0.0,,,2022-12-01 20:49:49,2022-12-01 20:49:50,1.545s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use""))",Chrome 107.0.0.0,,,2022-12-01 20:49:50,2022-12-01 20:49:51,0.835s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_firstName""), ""Testing"")",Chrome 107.0.0.0,,,2022-12-01 20:49:51,2022-12-01 20:49:52,1.173s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_lastName""), ""NAme"")",Chrome 107.0.0.0,,,2022-12-01 20:49:52,2022-12-01 20:49:53,0.958s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_Username""), ""test.34243143"")",Chrome 107.0.0.0,,,2022-12-01 20:49:53,2022-12-01 20:49:54,0.970s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 107.0.0.0,,,2022-12-01 20:49:54,2022-12-01 20:49:55,0.585s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 107.0.0.0,,,2022-12-01 20:49:55,2022-12-01 20:49:55,0.586s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb""))",Chrome 107.0.0.0,,,2022-12-01 20:49:55,2022-12-01 20:49:56,0.538s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb""))",Chrome 107.0.0.0,,,2022-12-01 20:49:56,2022-12-01 20:49:56,0.300s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Create your Google Account/div_Show password_VfPpkd-RLmnJb""), 3)",Chrome 107.0.0.0,,,2022-12-01 20:49:56,2022-12-01 20:49:57,0.417s,PASSED
+"click(findTestObject(""Object Repository/Page_Create your Google Account/span_Next""))",Chrome 107.0.0.0,,,2022-12-01 20:49:57,2022-12-01 20:49:59,2.548s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Create your Google Account/div_91India (91)""), 0)",Chrome 107.0.0.0,,,2022-12-01 20:49:59,2022-12-01 20:50:01,2.084s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/div_91India (91)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:01,2022-12-01 20:50:02,0.410s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId""))",Chrome 107.0.0.0,,,2022-12-01 20:50:02,2022-12-01 20:50:02,0.316s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId""))",Chrome 107.0.0.0,,,2022-12-01 20:50:02,2022-12-01 20:50:02,0.303s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create your Google Account/input_Phone number_phoneNumberId""), ""9847451458"")",Chrome 107.0.0.0,,,2022-12-01 20:50:02,2022-12-01 20:50:03,0.743s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb""))",Chrome 107.0.0.0,,,2022-12-01 20:50:03,2022-12-01 20:50:03,0.300s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb""))",Chrome 107.0.0.0,,,2022-12-01 20:50:03,2022-12-01 20:50:04,0.287s,PASSED
+"click(findTestObject(""Object Repository/Page_Create your Google Account/span_Next""))",Chrome 107.0.0.0,,,2022-12-01 20:50:04,2022-12-01 20:50:07,3.471s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/input_G-_code""))",Chrome 107.0.0.0,,,2022-12-01 20:50:07,2022-12-01 20:50:10,2.846s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/input_G-_code""))",Chrome 107.0.0.0,,,2022-12-01 20:50:10,2022-12-01 20:50:10,0.293s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create your Google Account/input_G-_code""), ""020000"")",Chrome 107.0.0.0,,,2022-12-01 20:50:10,2022-12-01 20:50:11,0.719s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb""), 0)",Chrome 107.0.0.0,,,2022-12-01 20:50:11,2022-12-01 20:50:12,0.513s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/div_Standard rates apply_VfPpkd-RLmnJb""))",Chrome 107.0.0.0,,,2022-12-01 20:50:12,2022-12-01 20:50:12,0.292s,PASSED
+"click(findTestObject(""Object Repository/Page_Create your Google Account/span_Next""))",Chrome 107.0.0.0,,,2022-12-01 20:50:12,2022-12-01 20:50:15,3.504s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/span_Back""))",Chrome 107.0.0.0,,,2022-12-01 20:50:15,2022-12-01 20:50:16,0.958s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/span_Back""))",Chrome 107.0.0.0,,,2022-12-01 20:50:16,2022-12-01 20:50:17,0.276s,PASSED
+"rightClick(findTestObject(""Object Repository/Page_Create your Google Account/span_Back""))",Chrome 107.0.0.0,,,2022-12-01 20:50:17,2022-12-01 20:50:17,0.421s,PASSED
+"click(findTestObject(""Object Repository/Page_Create your Google Account/span_Back""))",Chrome 107.0.0.0,,,2022-12-01 20:50:17,2022-12-01 20:50:17,0.387s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/span_Back""))",Chrome 107.0.0.0,,,2022-12-01 20:50:17,2022-12-01 20:50:18,0.533s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/span_Back""))",Chrome 107.0.0.0,,,2022-12-01 20:50:18,2022-12-01 20:50:18,0.288s,PASSED
+"click(findTestObject(""Object Repository/Page_Create your Google Account/span_Back""))",Chrome 107.0.0.0,,,2022-12-01 20:50:18,2022-12-01 20:50:19,0.324s,PASSED
+,,,,,,,
+Test Cases/GSU/Sign In Instead,Chrome 107.0.0.0,,,2022-12-01 20:50:19,2022-12-01 20:50:28,9.652s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:50:19,2022-12-01 20:50:20,1.671s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:50:20,2022-12-01 20:50:21,0.861s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Login (9)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:21,2022-12-01 20:50:22,0.550s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Sign in with Google (3)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:22,2022-12-01 20:50:25,2.736s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:50:25,2022-12-01 20:50:25,0.015s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (7)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:25,2022-12-01 20:50:26,1.419s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use (8)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:26,2022-12-01 20:50:27,0.980s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Create your Google Account/span_Sign in instead""), 0)",Chrome 107.0.0.0,"GSU-018
+",,2022-12-01 20:50:27,2022-12-01 20:50:28,0.846s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/span_Sign in instead""))",Chrome 107.0.0.0,"GSU-019
+
+",,2022-12-01 20:50:28,2022-12-01 20:50:28,0.410s,PASSED
+,,,,,,,
+Test Cases/GSU/User name,Chrome 107.0.0.0,,,2022-12-01 20:50:28,2022-12-01 20:50:39,10.489s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:50:28,2022-12-01 20:50:30,1.869s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:50:30,2022-12-01 20:50:31,0.314s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Login (9)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:31,2022-12-01 20:50:32,1.009s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Sign in with Google (3)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:32,2022-12-01 20:50:34,2.721s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:50:34,2022-12-01 20:50:34,0.015s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account (5)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:34,2022-12-01 20:50:36,1.523s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/li_For my personal use""))",Chrome 107.0.0.0,,,2022-12-01 20:50:36,2022-12-01 20:50:37,0.911s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_Username""))",Chrome 107.0.0.0,GSU-009,,2022-12-01 20:50:37,2022-12-01 20:50:38,0.856s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_Username""))",Chrome 107.0.0.0,GSU-009,,2022-12-01 20:50:38,2022-12-01 20:50:38,0.293s,PASSED
+"setText(findTestObject(""Object Repository/Page_Create your Google Account/input_Create your Google Account_Username""), ""asaiai"")",Chrome 107.0.0.0,"GSU-010
+",,2022-12-01 20:50:38,2022-12-01 20:50:39,0.842s,PASSED
+,,,,,,,
+Test Cases/GSU/View Password,Chrome 107.0.0.0,,,2022-12-01 20:50:39,2022-12-01 20:50:59,20.032s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-12-01 20:50:39,2022-12-01 20:50:41,1.829s,PASSED
+"navigateToUrl(""https://organizer.formi.co.in/"")",Chrome 107.0.0.0,,,2022-12-01 20:50:41,2022-12-01 20:50:42,1.144s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Login (9)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:42,2022-12-01 20:50:43,1.391s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/span_Sign in with Google (3)""))",Chrome 107.0.0.0,,,2022-12-01 20:50:43,2022-12-01 20:50:46,2.647s,PASSED
+switchToWindowIndex(1),Chrome 107.0.0.0,,,2022-12-01 20:50:46,2022-12-01 20:50:46,0.017s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_Create account""))",Chrome 107.0.0.0,,,2022-12-01 20:50:46,2022-12-01 20:50:47,1.408s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in - Google Accounts/span_For my personal use""))",Chrome 107.0.0.0,,,2022-12-01 20:50:47,2022-12-01 20:50:48,0.967s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead_Passwd""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 107.0.0.0,,,2022-12-01 20:50:48,2022-12-01 20:50:49,0.908s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Create your Google Account/input_Use my current email address instead__f01a3e""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 107.0.0.0,,,2022-12-01 20:50:49,2022-12-01 20:50:50,0.494s,PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c""), 3)",Chrome 107.0.0.0,,,2022-12-01 20:50:50,2022-12-01 20:50:52,2.533s,PASSED
+delay(3),Chrome 107.0.0.0,,,2022-12-01 20:50:52,2022-12-01 20:50:55,3.023s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/Page_Create your Google Account/div_Show password""))",Chrome 107.0.0.0,,,2022-12-01 20:50:55,2022-12-01 20:50:56,0.514s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/Page_Create your Google Account/div_Show password""))",Chrome 107.0.0.0,,,2022-12-01 20:50:56,2022-12-01 20:50:56,0.292s,PASSED
+"click(findTestObject(""Object Repository/Page_Create your Google Account/input_Use 8 or more characters with a mix o_b60f5c""))",Chrome 107.0.0.0,,,2022-12-01 20:50:56,2022-12-01 20:50:59,2.708s,PASSED

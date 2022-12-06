@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Invite Member (1)</name>
+   <tag></tag>
+   <elementGuidId>5c66ea08-27ea-45af-801e-f80f75af7495</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.button_pink__Yhdb2.button_xs__11cYZ.rowbutton.shadow-wrapper_xs__OySnx</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>64fffbb5-72bb-4d3a-a2bf-ef21c7609a1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dc77d68c-bfec-4b5b-940f-4952fe8ba6e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ rowbutton shadow-wrapper_xs__OySnx</value>
+      <webElementGuid>e5f7a362-f84a-4c6d-a4b4-33c054274230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Invite Member</value>
+      <webElementGuid>2ffdbe10-0dec-44ab-a54c-dc1f38937e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ rowbutton shadow-wrapper_xs__OySnx&quot;]</value>
+      <webElementGuid>a6e93fdc-2654-4a40-b21f-490d061906b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>f6860baa-d46e-48b3-8beb-9cd2fa4586a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div/div[2]/div/button[3]</value>
+      <webElementGuid>a1489465-034c-4ffb-87ff-639025c6d933</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify Code'])[1]/following::button[1]</value>
+      <webElementGuid>37f402fd-e8f3-4773-a78a-32f93308f619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Event'])[1]/following::button[2]</value>
+      <webElementGuid>1c0176c6-4cb7-4219-b9c6-c4ea401f2bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Educational content to boost your sales, coming soon.'])[1]/preceding::button[1]</value>
+      <webElementGuid>5701f868-3040-4407-a6ad-1a085fdcfb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>b1f78e8f-4a89-45fa-85f9-4dcb14259d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Invite Member' or . = 'Invite Member')]</value>
+      <webElementGuid>39da76e6-63cb-4e9a-a3ac-4647b7f5161b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
