@@ -3,18 +3,18 @@
    <description></description>
    <name>div_Select Venue_ant-switch-handle</name>
    <tag></tag>
-   <elementGuidId>af2a911f-a980-4bb1-b349-37a555970d24</elementGuidId>
+   <elementGuidId>dbfe3583-a9b9-4723-b353-069f3b06d91a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[7]/div[3]/div/div/div/div/div[2]/button/div</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>div.ant-switch-handle</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[7]/div[3]/div/div/div/div/div[2]/button/div</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>1d601ca5-72c8-4a54-869a-7595f3694d68</webElementGuid>
+      <webElementGuid>91f0206e-d651-4189-9c77-5cb118ad6a8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-switch-handle</value>
-      <webElementGuid>a2768ce9-c631-43b6-85b5-6f382abbbd71</webElementGuid>
+      <webElementGuid>f530d15e-90b0-40be-8ec4-6c72bd5cd4c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;list-event_wrapper__mMi0A&quot;]/form[@class=&quot;ant-form ant-form-vertical list-event_form__WCfad&quot;]/div[@class=&quot;list-event_section__Oxtsr&quot;]/div[@class=&quot;ant-form-item list-event_item__1IcQa&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-row list-event_toggle__BIYOD&quot;]/button[@class=&quot;ant-switch pink-toggle_toggle__xptsK ant-switch-checked&quot;]/div[@class=&quot;ant-switch-handle&quot;]</value>
-      <webElementGuid>e4c1ab28-ce8e-48dc-bc60-dd321ebdb28f</webElementGuid>
+      <webElementGuid>07d9ac1d-1f3d-4a2b-9263-aec74c3a3079</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[7]/div[3]/div/div/div/div/div[2]/button/div</value>
-      <webElementGuid>6945d0fd-9976-42f1-815f-2b519ed20042</webElementGuid>
+      <webElementGuid>5993b4bb-1a2c-4f01-ab5a-8a4a1ee40edb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/div</value>
-      <webElementGuid>e0d0bf83-16db-4c9a-bdda-05cd6a4333d1</webElementGuid>
+      <webElementGuid>d2ed6b8a-e755-43ae-b93d-30d164a90a7b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>svg</name>
    <tag></tag>
-   <elementGuidId>34db8eff-e57f-4aef-94f5-e8ca9c912e2f</elementGuidId>
+   <elementGuidId>3531cc55-45ac-4a37-903a-77e4ce5f7828</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='c'])[1]/following::*[name()='svg'][1]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='DJ Shaan'])[1]/following::*[name()='svg'][1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>10a69df2-38c2-4157-a088-faf3edee51b3</webElementGuid>
+      <webElementGuid>2c6c7034-646d-4abe-be48-66f37f97c0aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>64 64 896 896</value>
-      <webElementGuid>9e5e0f8f-122d-4b9d-a3e2-9bf160f42ce8</webElementGuid>
+      <webElementGuid>94cbf542-8d58-46be-bb7c-c0d4867ae022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>focusable</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1264c56a-8112-444d-9aaf-1638c1616260</webElementGuid>
+      <webElementGuid>4e718f7a-f87f-484d-ad80-fbf4ce3054c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-icon</name>
       <type>Main</type>
       <value>close</value>
-      <webElementGuid>368045ba-a57e-4379-bb44-185a1e7154e6</webElementGuid>
+      <webElementGuid>ae21e55d-3252-4640-8184-57597d65dd7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>width</name>
       <type>Main</type>
       <value>1em</value>
-      <webElementGuid>35d4c3c7-3a46-4428-9663-d0b8c1e1a74e</webElementGuid>
+      <webElementGuid>89509e2e-1a60-4548-98c1-6402c22476bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>height</name>
       <type>Main</type>
       <value>1em</value>
-      <webElementGuid>4b425d8d-ff03-481a-9a32-a6f1ce83d187</webElementGuid>
+      <webElementGuid>414b85ae-a362-46c7-9655-a729f528b368</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>bc5ac92f-f401-47de-a131-efc2cc6ee5b2</webElementGuid>
+      <webElementGuid>9df1430d-5cb9-43e5-afbe-f88a7c02b07d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>98c012ca-613e-4d18-96e0-538a0c019eee</webElementGuid>
+      <webElementGuid>74cb07d2-b2ea-4556-8488-48e3ce707fdb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,38 +86,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;list-event_wrapper__mMi0A&quot;]/form[@class=&quot;ant-form ant-form-vertical list-event_form__WCfad&quot;]/div[@class=&quot;list-event_section__Oxtsr&quot;]/div[@class=&quot;ant-form-item list-event_item__1IcQa ant-form-item-has-success&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item ant-select-status-success list-event_select__ANIdw ant-select-focused ant-select-multiple ant-select-open ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]/div[@class=&quot;ant-select-selection-overflow&quot;]/div[@class=&quot;ant-select-selection-overflow-item&quot;]/span[@class=&quot;ant-select-selection-item&quot;]/span[@class=&quot;ant-select-selection-item-remove&quot;]/span[@class=&quot;anticon anticon-close&quot;]/svg[1]</value>
-      <webElementGuid>c951dbaf-8368-4a56-8247-179f731fd4d9</webElementGuid>
+      <webElementGuid>901b6b36-7351-4947-ad09-4ea1c13523ef</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='c'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>f89c6f66-0329-4450-9756-4e4b308814e1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DJ Shaan'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>d80671dc-cfa0-4da2-8985-df11df50d2b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter to add a tag'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>3c70d0fa-65f0-4b1b-a556-a3ae6502692a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Artist'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>44000eb6-2a93-48a8-abd6-4c94c7ea7758</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDM'])[2]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>2074d5df-70cb-4f81-a852-75150b39dff9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A. Becker'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>feffddd3-602e-48c3-9aa6-c3837dccacc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='NIGHT'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>d63cf5f2-0d9a-4eee-8690-06017ec8d394</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A. Becker'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f302c3a0-d0bb-4723-a5ad-5278cc3e2a7d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

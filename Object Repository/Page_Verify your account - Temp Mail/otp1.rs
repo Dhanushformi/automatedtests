@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>otp1</name>
+   <tag></tag>
+   <elementGuidId>7b09c3ee-c5ee-4741-a873-81220f19cc06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.column.column-2 > table.heading_block.block-2 > tbody > tr > td.pad > h1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>8637b2f0-514d-4885-8274-1a3ffcf3bfd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>9624d2d9-8575-462b-8c1f-7b8df75926b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content active with-advert&quot;]/div[@class=&quot;scrollview __vuescroll hasVBar mouseEnter&quot;]/div[@class=&quot;__panel&quot;]/div[@class=&quot;__view&quot;]/div[@class=&quot;content__wrapper&quot;]/article[@class=&quot;message&quot;]/div[1]/div[@class=&quot;message__content&quot;]/span[1]/table[@class=&quot;nl-container&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row row-2&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row-content&quot;]/tbody[1]/tr[1]/td[@class=&quot;column column-2&quot;]/table[@class=&quot;heading_block block-2&quot;]/tbody[1]/tr[1]/td[@class=&quot;pad&quot;]/h1[1]</value>
+      <webElementGuid>e7b9b0e4-1089-4f2b-baf8-456b878406c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/h1</value>
+      <webElementGuid>24e679e4-d36b-4182-9af3-37c894dae350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mark as unread'])[1]/following::h1[2]</value>
+      <webElementGuid>f1c12b1f-5344-4549-8082-76df50dee5f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::h1[2]</value>
+      <webElementGuid>94f63bb5-87d4-4f9f-8707-5990e3604025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::h1[5]</value>
+      <webElementGuid>ff87ae32-298f-45e2-9acc-64e8a482f413</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose language'])[1]/preceding::h1[5]</value>
+      <webElementGuid>7e7a18ad-5bc5-45fe-83ba-930bfb6feb1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/table/tbody/tr/td/h1</value>
+      <webElementGuid>ad6e383a-6c88-4a09-b544-3cde7b668b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '8' or . = '8')]</value>
+      <webElementGuid>7b8b6ccb-a969-460f-9812-31d4be20e230</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

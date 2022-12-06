@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Click to Change</name>
+   <tag></tag>
+   <elementGuidId>266ad89d-9a12-45a5-823f-8f4e38e81350</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.button_white__x3VSa.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[28]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a147e49c-0431-436b-bce8-d3493016e13a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cad74be4-db43-4cf4-ac58-f79648adb27b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default button_white__x3VSa undefined</value>
+      <webElementGuid>ecf405dc-c2a1-4a90-9627-fc17ce10154f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Click to Change</value>
+      <webElementGuid>6c866bc3-f80f-4a44-8533-5a657d978966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[6]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal white-modal_modalcontainer__rk6Ls&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;modal-form_modal__66Zog&quot;]/form[@class=&quot;ant-form ant-form-vertical modal-form_form__C7Kyx&quot;]/div[@class=&quot;ant-form-item modal-form_item__RRQRD&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[1]/div[@class=&quot;ant-upload ant-upload-select ant-upload-select-text&quot;]/span[@class=&quot;ant-upload&quot;]/button[@class=&quot;ant-btn ant-btn-default button_white__x3VSa undefined&quot;]</value>
+      <webElementGuid>06863929-4e5a-43ff-9156-ee8e1de4b359</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[28]</value>
+      <webElementGuid>3f79ce7b-7d41-4697-9930-42a94bab97cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artist Picture'])[1]/following::button[1]</value>
+      <webElementGuid>e8423867-ddd1-48f6-9165-75434c3dbf8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artist Name'])[1]/following::button[1]</value>
+      <webElementGuid>e2aaa2a7-54f0-4fa0-a7c5-1fcc95b5073d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[1]</value>
+      <webElementGuid>ea7a2290-7b49-4944-951d-f9c8b9aa5dad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>455e6a7e-b63f-4514-87f7-44be05fb50b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Click to Change' or . = ' Click to Change')]</value>
+      <webElementGuid>a8463b33-7f65-45aa-a663-1e78a69db98a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

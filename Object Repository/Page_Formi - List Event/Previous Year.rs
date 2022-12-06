@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Previous Year</name>
+   <tag></tag>
+   <elementGuidId>7db446fa-73a3-4409-91a0-5272187cc1c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-picker-header-super-prev-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[27]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d0e9f0be-d707-4093-9c39-b688053f1f4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6864d6af-94a0-42c5-b605-09f73f152f63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>085aaccb-f1b3-40af-9219-10dff1e89b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-picker-header-super-prev-btn</value>
+      <webElementGuid>e8d70303-1628-4509-ae92-f72e71deb658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[1]/div[@class=&quot;ant-picker-dropdown ant-picker-dropdown-placement-topLeft&quot;]/div[@class=&quot;ant-picker-panel-container&quot;]/div[@class=&quot;ant-picker-panel&quot;]/div[@class=&quot;ant-picker-date-panel&quot;]/div[@class=&quot;ant-picker-header&quot;]/button[@class=&quot;ant-picker-header-super-prev-btn&quot;]</value>
+      <webElementGuid>11247acc-87f8-4fb2-90e2-44a2e5cac71e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[27]</value>
+      <webElementGuid>77b68a31-e2cc-433c-b2c3-823f3aa11eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::button[1]</value>
+      <webElementGuid>3a749be3-5528-45b2-b852-172f7a433a23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[2]/following::button[1]</value>
+      <webElementGuid>c63f26de-ce9b-4878-aef1-307f5f26cccb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov'])[1]/preceding::button[2]</value>
+      <webElementGuid>659d2d4b-7a6d-4615-8e4e-a381b0b67f86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Su'])[1]/preceding::button[6]</value>
+      <webElementGuid>2e4750e2-af0f-48cc-8872-71ed4d2d3d44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/div/div/button</value>
+      <webElementGuid>d8a3313e-86be-408e-aea9-32aee04470e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>e836fe1d-6d73-4b13-927a-2cb0a7dd4826</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

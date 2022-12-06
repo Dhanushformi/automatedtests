@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Copy Link_sutra_reloaded</name>
+   <tag></tag>
+   <elementGuidId>6e3c67be-62df-47cb-9e56-57bc3d63159d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[3]/div[5]/div[2]/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3d14dcf-734e-43ed-9df4-37ad6eb3ad39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>events_copylink__4bO7Y</value>
+      <webElementGuid>aa4f6377-0da1-4acb-9d28-4482a69f4c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy Link</value>
+      <webElementGuid>d871b51d-66e8-48a5-b862-86bd66e20f6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;ant-row events_table__T_e2y&quot;]/div[@class=&quot;ant-row ant-row-space-between events_eventcard__2kvyw&quot;]/div[@class=&quot;ant-col ant-col-16 events_content__bjjOy&quot;]/div[@class=&quot;events_copylink__4bO7Y&quot;]</value>
+      <webElementGuid>1faf2e1c-61fd-4b41-a459-96297ca097bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[3]/div[5]/div[2]/div[4]</value>
+      <webElementGuid>ca6471d8-2a89-4bda-86ac-a8d4f88a1e4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sutra'])[1]/following::div[1]</value>
+      <webElementGuid>31cca864-4fa7-4874-9c08-0d001bfcb227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go To Dashboard'])[5]/preceding::div[1]</value>
+      <webElementGuid>c4962882-7892-4b9a-9638-48029a888485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[4]</value>
+      <webElementGuid>5df054c8-a78e-4e6f-98a3-97b9cb942d08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Copy Link' or . = 'Copy Link')]</value>
+      <webElementGuid>ae96fd0f-e8e4-4a85-b66b-048270f06a56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit (2)</name>
+   <tag></tag>
+   <elementGuidId>c735510f-b95e-40a1-9996-606e0af87738</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.button_lightpink_shadow__O2z19.login_pinksubmitbutton__3Ny7O.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bf46ca51-3ddc-442e-b399-fe2a7d406d7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e3567aba-0b8c-4f11-ac19-e6bb66f3948f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default button_lightpink_shadow__O2z19 login_pinksubmitbutton__3Ny7O undefined</value>
+      <webElementGuid>ad3dbae8-e3ae-4c69-b158-bfd5e35af483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>2cf1d5da-7b8a-4378-be25-3195cd1b0bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;login_wrapper__GYPsU&quot;]/div[@class=&quot;login_modal__lNFbn&quot;]/div[@class=&quot;login_main_wrapper__6oBhw&quot;]/div[@class=&quot;login_bottom__4h7jy&quot;]/div[2]/button[@class=&quot;ant-btn ant-btn-default button_lightpink_shadow__O2z19 login_pinksubmitbutton__3Ny7O undefined&quot;]</value>
+      <webElementGuid>77b13567-b9bf-447d-8163-742825d5b754</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>0441f992-cf4a-4e10-91ff-cc35e1b40556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div/div[3]/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>9f742ad5-73e3-4bbf-950b-2858a2d9a934</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/following::button[1]</value>
+      <webElementGuid>f8a5d7f8-9e0c-4dff-aa0d-feb6e2a790a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Password'])[1]/following::button[1]</value>
+      <webElementGuid>6b1b0a1d-3b4e-4600-9700-97181d1aa625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>2ab04f68-380f-4e31-b789-097746a3289f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>9e4ff0e7-52ad-423e-8407-b896dbd2437e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

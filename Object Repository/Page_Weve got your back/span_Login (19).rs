@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login (19)</name>
+   <tag></tag>
+   <elementGuidId>88950869-93fb-4445-9649-7fcf349ed901</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div/a/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.public-navbar_login__r2Jdv > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e59494a2-77f2-41ec-9262-9cc2c60f8902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>fccf4b2c-28f3-4b96-9445-0407530005a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;home-page_maincontainer__beomm&quot;]/div[@class=&quot;ant-row public-navbar_navbar__eJzUB&quot;]/div[@class=&quot;public-navbar_right__RulW5&quot;]/div[@class=&quot;public-navbar_expanded__UhJ8Y&quot;]/a[1]/button[@class=&quot;ant-btn ant-btn-default public-navbar_login__r2Jdv&quot;]/span[1]</value>
+      <webElementGuid>226b4bfc-512b-435b-b0c8-13716abf5ca0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div/a/button/span</value>
+      <webElementGuid>8462c855-2371-4fa8-818b-0c2a1c83a941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/preceding::span[1]</value>
+      <webElementGuid>c9b2fec6-1430-4319-b249-bfa8750b369a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales infrastructure for all your events'])[1]/preceding::span[2]</value>
+      <webElementGuid>9aef274a-0c07-47d5-b5d4-04ba96d21ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>f0aea927-c9a4-475a-9a74-8888f09e9f2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>48ae3329-59e5-412e-b7db-10218d70a323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>87d46c6c-7eda-48b3-bf0b-21d35b3c6fe7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

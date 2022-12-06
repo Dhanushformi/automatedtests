@@ -3,18 +3,18 @@
    <description></description>
    <name>section_</name>
    <tag></tag>
-   <elementGuidId>5e5ffe85-7725-440c-a418-7f9a974c8376</elementGuidId>
+   <elementGuidId>1a783336-325e-47aa-a61a-fa456be314bc</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit image'])[1]/following::section[1]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>section.img-crop-control.img-crop-control-zoom</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit image'])[1]/following::section[1]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>section</value>
-      <webElementGuid>c58f6442-f8af-4ace-85ca-59eb97062d22</webElementGuid>
+      <webElementGuid>ec429098-aa4e-4c71-96ec-3f90a90e2b67</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>img-crop-control img-crop-control-zoom</value>
-      <webElementGuid>01b3fb61-4b01-4187-a558-7296bde25e3c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>－＋</value>
-      <webElementGuid>36946147-9f0c-4100-84b6-6876426fdda3</webElementGuid>
+      <webElementGuid>c12f034f-1876-481d-8141-9e7ff7ce43ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>－＋</value>
+      <webElementGuid>33ccd4ec-0837-435f-93f6-4dbde20ff32e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[6]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap img-crop-modal&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/section[@class=&quot;img-crop-control img-crop-control-zoom&quot;]</value>
-      <webElementGuid>68cd15bb-435e-4149-ab46-f84bbed1f9ef</webElementGuid>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[7]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap img-crop-modal&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/section[@class=&quot;img-crop-control img-crop-control-zoom&quot;]</value>
+      <webElementGuid>54f803ce-d82b-4120-b4ad-ebb43a74b5fc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit image'])[1]/following::section[1]</value>
-      <webElementGuid>70650300-b6fb-4c6b-9f7e-4864ae1dfb66</webElementGuid>
+      <webElementGuid>22c125bd-0319-4aa3-a65a-2b01d66ff3bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save &amp; Continue'])[1]/following::section[1]</value>
-      <webElementGuid>f31ba995-f0ab-47de-94ee-fbc626a7a6a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/following::section[1]</value>
+      <webElementGuid>a702f268-f2b7-466b-b35e-fa1bf6e58fdc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section</value>
-      <webElementGuid>1bb727f5-fe7b-40ce-b66b-2eaf8171c890</webElementGuid>
+      <webElementGuid>1a211483-683d-4f1b-a9ef-ca0fa3f5417f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//section[(text() = '－＋' or . = '－＋')]</value>
-      <webElementGuid>a802cc64-9dd3-447a-b32b-e79c4e5fe0d5</webElementGuid>
+      <webElementGuid>90ad2169-ceaa-4215-97d5-5c8d01122efe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

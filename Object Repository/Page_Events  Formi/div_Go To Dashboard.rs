@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Go To Dashboard</name>
+   <tag></tag>
+   <elementGuidId>89024d8c-0724-4b5e-989a-de5f8dd3285a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[3]/div[5]/div[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;ant-row events_table__T_e2y&quot;]/div[@class=&quot;ant-row ant-row-space-between events_eventcard__2kvyw&quot;]/div[@class=&quot;ant-col ant-col-5 events_right__POtqM&quot;]/a[1]/div[@class=&quot;events_details__u6KoJ&quot;][count(. | //*[@class = 'events_details__u6KoJ']) = count(//*[@class = 'events_details__u6KoJ'])]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1d92313a-8a23-40a6-bebc-a2a918766431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>events_details__u6KoJ</value>
+      <webElementGuid>8632f15b-5e00-4c03-b7f4-c93e5694a825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go To Dashboard</value>
+      <webElementGuid>9f3b5912-8705-42d6-98b0-8edc884d4656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;ant-row events_table__T_e2y&quot;]/div[@class=&quot;ant-row ant-row-space-between events_eventcard__2kvyw&quot;]/div[@class=&quot;ant-col ant-col-5 events_right__POtqM&quot;]/a[1]/div[@class=&quot;events_details__u6KoJ&quot;]</value>
+      <webElementGuid>0e2a5189-2cfe-4312-b73c-bdc162911f4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[3]/div[5]/div[3]/a/div</value>
+      <webElementGuid>ef1384d6-32be-43a0-bd39-2c0243824776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy Link'])[5]/following::div[2]</value>
+      <webElementGuid>57de7303-14c9-4196-9760-1e3c7ed39ed3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sutra'])[1]/following::div[3]</value>
+      <webElementGuid>ac50f15e-90e8-49b1-864f-df6f0fa5718a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[3]/a/div</value>
+      <webElementGuid>cfd36261-67a1-44b4-8bb6-f01133833bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Go To Dashboard' or . = 'Go To Dashboard')]</value>
+      <webElementGuid>8f5571ad-8e6d-4b62-93e2-782d0e13931a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

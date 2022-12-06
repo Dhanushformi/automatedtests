@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_kalinga</name>
+   <tag></tag>
+   <elementGuidId>70a73d61-140f-4957-9bc0-778744b5cbc4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select-item.ant-select-item-option.ant-select-item-option-active > div.ant-select-item-option-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[7]/div[3]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b875f6a8-e6c8-4468-992a-b7c1118505fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-item-option-content</value>
+      <webElementGuid>a39c60e8-e415-43a6-9f6d-a14bdf622ac9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kalinga</value>
+      <webElementGuid>8c9c34fd-8076-4683-98b7-49faf704b78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;list-event_wrapper__mMi0A&quot;]/form[@class=&quot;ant-form ant-form-vertical list-event_form__WCfad&quot;]/div[@class=&quot;list-event_section__Oxtsr&quot;]/div[@class=&quot;ant-form-item list-event_item__1IcQa&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item list-event_select__ANIdw ant-select-focused ant-select-single ant-select-show-arrow ant-select-open ant-select-show-search&quot;]/div[2]/div[1]/div[@class=&quot;ant-select-dropdown ant-select-dropdown-placement-bottomLeft&quot;]/div[1]/div[@class=&quot;rc-virtual-list&quot;]/div[@class=&quot;rc-virtual-list-holder&quot;]/div[1]/div[@class=&quot;rc-virtual-list-holder-inner&quot;]/div[@class=&quot;ant-select-item ant-select-item-option ant-select-item-option-active&quot;]/div[@class=&quot;ant-select-item-option-content&quot;]</value>
+      <webElementGuid>8c342e99-17a0-4809-9054-f48289d46ddd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[7]/div[3]/div/div/div/div/div/div[2]/div/div/div/div[2]/div/div/div/div[4]/div</value>
+      <webElementGuid>05afcfd2-e217-4bc8-83cc-bcb32b5e63db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gylt'])[2]/following::div[2]</value>
+      <webElementGuid>ed372828-cd30-49eb-9cb0-281c30f5f786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XU - Fashion Bar Kitchen'])[1]/following::div[4]</value>
+      <webElementGuid>7962e290-832a-49ea-ba32-1a8a0acb980c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sutra'])[2]/preceding::div[1]</value>
+      <webElementGuid>47a82f4f-3a59-4a9a-a40f-929aa366c673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/preceding::div[3]</value>
+      <webElementGuid>7e2c4380-c1a0-4b5b-a74b-0ed7442d21ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div[4]/div</value>
+      <webElementGuid>96d4b85e-29da-4f47-a7b1-27f2fcef77e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'kalinga' or . = 'kalinga')]</value>
+      <webElementGuid>ae2537ae-8db2-4dbe-bf48-011df4f3c9f5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

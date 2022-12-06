@@ -3,18 +3,18 @@
    <description></description>
    <name>div_</name>
    <tag></tag>
-   <elementGuidId>1a7df030-79a2-4872-b000-a544a1efe2ed</elementGuidId>
+   <elementGuidId>0410fdd2-6b73-4cc9-a9b1-7dc5b86ba3ca</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.ant-select-selection-overflow-item.ant-select-selection-overflow-item-suffix</value>
+         <value>div.ant-select.ant-select-in-form-item.list-event_select__ANIdw.ant-select-multiple.ant-select-open.ant-select-show-search > div.ant-select-selector > div.ant-select-selection-overflow</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[5]/div[3]/div/div[2]/div/div/div/div/div/div</value>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[8]/div[3]/div/div[2]/div/div/div/div/div</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>4ce59016-ca5d-49b4-81ca-591125990f2c</webElementGuid>
+      <webElementGuid>6dcc04c8-5b26-43fa-be3a-94a6faba4e8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ant-select-selection-overflow</value>
-      <webElementGuid>56fd9a94-7ecc-4760-9b19-e85010fecb0f</webElementGuid>
+      <webElementGuid>0f45ea88-b6b8-411b-b820-8fc5c046e52c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>text</name>
       <type>Main</type>
       <value> </value>
-      <webElementGuid>6140ce27-8e43-4e2f-b646-8dbd35462d47</webElementGuid>
+      <webElementGuid>89979637-01d3-417c-b9d8-8f0409c3f444</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;list-event_wrapper__mMi0A&quot;]/form[@class=&quot;ant-form ant-form-vertical list-event_form__WCfad&quot;]/div[@class=&quot;list-event_section__Oxtsr&quot;]/div[@class=&quot;ant-form-item list-event_item__1IcQa&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item list-event_select__ANIdw ant-select-multiple ant-select-open ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]/div[@class=&quot;ant-select-selection-overflow&quot;]</value>
-      <webElementGuid>8d0ecfbe-6b0b-4319-a447-907f623d425e</webElementGuid>
+      <webElementGuid>9b5a6c30-f087-4ab0-be00-23c272f4df2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -181,48 +181,48 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[5]/div[3]/div/div[2]/div/div/div/div/div/div</value>
-      <webElementGuid>6f0f7950-000b-4742-a97d-740f6d32c4ce</webElementGuid>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[8]/div[3]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>ead4ec6d-f909-431c-a4f1-bbe82fc54844</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter to add a tag'])[1]/following::div[7]</value>
-      <webElementGuid>c492aba0-a7aa-4c52-9281-c6bfaf17fdc5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Artist'])[1]/following::div[6]</value>
+      <webElementGuid>696b3c01-8cd5-4765-8d90-422de4a92d99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Improve discoverability of your event by adding tags relevant to the subject matter.'])[1]/following::div[10]</value>
-      <webElementGuid>4f566db0-dbc5-4456-b036-079731e0587b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Artist'])[1]/following::div[10]</value>
+      <webElementGuid>b3076dfb-8864-4c97-84ea-967291fde365</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Search Keywords'])[1]/preceding::div[2]</value>
-      <webElementGuid>bb1d0fa3-6bec-41cf-b645-edafa5873059</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter the name of the artist'])[1]/preceding::div[3]</value>
+      <webElementGuid>f66364f2-0daf-4799-bf92-5229f1a81e7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDM'])[2]/preceding::div[2]</value>
-      <webElementGuid>31924ba0-2d89-448d-8975-86c347acb752</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A. Becker'])[1]/preceding::div[4]</value>
+      <webElementGuid>4f0681ed-68c7-49e3-bc85-ea1dce0bdb8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div/div/div/div</value>
-      <webElementGuid>62684fbd-4509-492e-99a6-500506731b11</webElementGuid>
+      <value>//div[8]/div[3]/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>1589fa34-af8b-4dde-9ee8-2fbe18436e39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -230,7 +230,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' ' or . = ' ')]</value>
-      <webElementGuid>59b75a8a-ed84-4915-8383-1096589a3435</webElementGuid>
+      <webElementGuid>90597286-4e9e-444f-a631-75717537bce5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

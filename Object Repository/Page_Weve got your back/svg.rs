@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg</name>
+   <tag></tag>
+   <elementGuidId>cba3fd0b-7657-4860-916f-2d06541231a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Password'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.anticon.anticon-eye-invisible.ant-input-password-icon > svg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>5af051a1-ac97-4854-8da8-5d15f20c381d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>64 64 896 896</value>
+      <webElementGuid>4ed19b23-73a1-408a-8b5e-7772d03eebd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2b5861be-5a8f-4c71-b594-8294ca90117d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-icon</name>
+      <type>Main</type>
+      <value>eye-invisible</value>
+      <webElementGuid>301919dd-658b-4a74-baa4-bfeeeb23fd30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>8d9e26c8-aabd-47dd-b66b-cd62e0e91a7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>9084ae80-4f97-4b4d-990c-88b54ac993e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>5b70b5a8-7e56-4f20-8ac9-60f39c0dfbc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6c8ebb50-fa5d-448c-8075-626b59f66b77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;login_wrapper__GYPsU&quot;]/div[@class=&quot;login_modal__lNFbn&quot;]/div[@class=&quot;login_main_wrapper__6oBhw&quot;]/div[@class=&quot;login_step1__wZL6p&quot;]/div[@class=&quot;login_signup_form__ulZTr&quot;]/div[1]/div[@class=&quot;ant-form-item ant-form-item-with-help login_item__ZYHBG ant-form-item-has-error&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/span[@class=&quot;ant-input-affix-wrapper ant-input-affix-wrapper-focused ant-input-password ant-input-affix-wrapper-status-error&quot;]/span[@class=&quot;ant-input-suffix&quot;]/span[@class=&quot;anticon anticon-eye-invisible ant-input-password-icon&quot;]/svg[1]</value>
+      <webElementGuid>da69b275-fbfc-426a-8337-72f840546aa2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Password'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>13a7e08b-42b8-4739-a1b7-11257e03d18d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>7a678eb0-550c-4d33-abda-8cdfed33f030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password must be at least 8 characters long!'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a9c0cd17-e862-43ce-a8e0-08bc5c625aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password must contain at least one uppercase letter, one lowercase letter, and one number!'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>a5230aca-9009-457e-ba8f-a42a69e12e39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select Venue</name>
+   <tag></tag>
+   <elementGuidId>8352e32f-e9dc-4816-833d-990a3317e27b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-select.ant-select-in-form-item.list-event_select__ANIdw.ant-select-single.ant-select-show-arrow.ant-select-disabled.ant-select-show-search > div.ant-select-selector</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[7]/div[3]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>937fecbf-fa5e-4fd4-a31e-9ae812ca5cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-selector</value>
+      <webElementGuid>c4dd02b8-3b0f-473f-bc39-6b4430911217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Venue</value>
+      <webElementGuid>13058203-69df-4130-a73d-65d0ad32c747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;list-event_wrapper__mMi0A&quot;]/form[@class=&quot;ant-form ant-form-vertical list-event_form__WCfad&quot;]/div[@class=&quot;list-event_section__Oxtsr&quot;]/div[@class=&quot;ant-form-item list-event_item__1IcQa&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item list-event_select__ANIdw ant-select-single ant-select-show-arrow ant-select-disabled ant-select-show-search&quot;]/div[@class=&quot;ant-select-selector&quot;]</value>
+      <webElementGuid>c72e88c1-5198-4e67-ad8e-c7891b31c56b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[7]/div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>cf676f76-0bc9-4a94-a28b-1fde49947a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help people in the area discover your event and let attendees know where to show up.'])[1]/following::div[7]</value>
+      <webElementGuid>59283e5c-0241-4cd8-8b4c-534ec15a7372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::div[8]</value>
+      <webElementGuid>4a629e4a-b1fa-454a-a823-801e9d9cab44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Venue Decided?'])[1]/preceding::div[2]</value>
+      <webElementGuid>c474acc9-9a54-4e06-bef6-c99d6806562d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>96d7f366-9968-4d33-90db-151912767b2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select Venue' or . = 'Select Venue')]</value>
+      <webElementGuid>2157a40b-90b9-4c3d-9a37-f9788710a094</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

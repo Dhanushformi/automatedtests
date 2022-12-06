@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CoverTime</name>
+   <tag></tag>
+   <elementGuidId>b743bee9-f166-434a-a082-59b171650e48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[10]/div[6]/div/div/div/div[2]/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>99afeccc-ba78-4cdf-8a0a-d00101b8ad57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-select-dropdown ant-select-dropdown-placement-bottomLeft </value>
+      <webElementGuid>750571fe-95f5-4e35-93b1-4e22fb8031cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sat Dec 03 2022 01:30:00 GMT+0530 (India Standard Time)Sat Dec 03 2022 01:45:00 GMT+0530 (India Standard Time)Sat Dec 03 2022 02:00:00 GMT+0530 (India Standard Time)12:00 AM12:15 AM12:30 AM12:45 AM1:00 AM1:15 AM1:30 AM1:45 AM2:00 AM2:15 AM</value>
+      <webElementGuid>eb7d365c-a294-45e1-8e6e-b0cd1053c014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;list-event_wrapper__mMi0A&quot;]/form[@class=&quot;ant-form ant-form-vertical list-event_form__WCfad&quot;]/div[@class=&quot;list-event_section__Oxtsr&quot;]/div[@class=&quot;ant-row&quot;]/div[@class=&quot;ant-col ant-col-12&quot;]/div[@class=&quot;ant-form-item list-event_item__1IcQa&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/div[@class=&quot;ant-select ant-select-in-form-item list-event_select__ANIdw ant-select-focused ant-select-single ant-select-show-arrow ant-select-open&quot;]/div[2]/div[1]/div[@class=&quot;ant-select-dropdown ant-select-dropdown-placement-bottomLeft&quot;]</value>
+      <webElementGuid>8d8a728f-02ec-476b-a712-fa74612d83a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[2]/form/div[10]/div[6]/div/div/div/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>ffdce784-a6c5-4e16-9e1b-d837f4652d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select time'])[1]/following::div[3]</value>
+      <webElementGuid>7e2a8dfa-a741-4788-9533-07f0426a7590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cover Charges'])[1]/following::div[8]</value>
+      <webElementGuid>effdc073-d716-4e86-b425-e9a33f359bc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>17ab3e06-ce26-4e51-afca-58687c2e5ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Sat Dec 03 2022 01:30:00 GMT+0530 (India Standard Time)Sat Dec 03 2022 01:45:00 GMT+0530 (India Standard Time)Sat Dec 03 2022 02:00:00 GMT+0530 (India Standard Time)12:00 AM12:15 AM12:30 AM12:45 AM1:00 AM1:15 AM1:30 AM1:45 AM2:00 AM2:15 AM' or . = 'Sat Dec 03 2022 01:30:00 GMT+0530 (India Standard Time)Sat Dec 03 2022 01:45:00 GMT+0530 (India Standard Time)Sat Dec 03 2022 02:00:00 GMT+0530 (India Standard Time)12:00 AM12:15 AM12:30 AM12:45 AM1:00 AM1:15 AM1:30 AM1:45 AM2:00 AM2:15 AM')]</value>
+      <webElementGuid>5f0a1b13-6877-487e-a9b0-b5fa0b72d722</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

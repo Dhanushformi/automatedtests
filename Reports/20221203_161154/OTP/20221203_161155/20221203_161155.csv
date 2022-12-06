@@ -1,0 +1,99 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+OTP,Chrome 108.0.0.0,,,2022-12-03 16:11:57,2022-12-03 16:15:27,3m - 30.021s,FAILED
+,,,,,,,
+Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry,Chrome 108.0.0.0,,,2022-12-03 16:12:00,2022-12-03 16:13:19,1m - 18.756s,FAILED
+"openBrowser("""")",Chrome 108.0.0.0,,,2022-12-03 16:12:01,2022-12-03 16:12:02,1.627s,PASSED
+"navigateToUrl(""https://organizer-testing.formi.co.in/"")",Chrome 108.0.0.0,,,2022-12-03 16:12:02,2022-12-03 16:12:03,0.629s,PASSED
+currentWindow = getWindowIndex(),Chrome 108.0.0.0,,,2022-12-03 16:12:03,2022-12-03 16:12:03,0.020s,PASSED
+"executeJavaScript(""window.open();"", [])",Chrome 108.0.0.0,,,2022-12-03 16:12:03,2022-12-03 16:12:03,0.127s,PASSED
+switchToWindowIndex(currentWindow + 1),Chrome 108.0.0.0,,,2022-12-03 16:12:03,2022-12-03 16:12:03,0.030s,PASSED
+"navigateToUrl(""https://temp-mail.io/en"")",Chrome 108.0.0.0,,,2022-12-03 16:12:03,2022-12-03 16:12:04,1.063s,PASSED
+delay(3),Chrome 108.0.0.0,,,2022-12-03 16:12:04,2022-12-03 16:12:07,3.025s,PASSED
+"click(findTestObject(""Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:12:07,2022-12-03 16:12:10,3.113s,PASSED
+username = getContents(null).getTransferData(stringFlavor),Chrome 108.0.0.0,,,2022-12-03 16:12:10,2022-12-03 16:12:10,0.092s,PASSED
+switchToWindowIndex(0),Chrome 108.0.0.0,,,2022-12-03 16:12:10,2022-12-03 16:12:10,0.035s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/button_Register (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:12:10,2022-12-03 16:12:16,5.667s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)""), username)",Chrome 108.0.0.0,,,2022-12-03 16:12:16,2022-12-03 16:12:20,4.103s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 108.0.0.0,,,2022-12-03 16:12:20,2022-12-03 16:12:22,1.974s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:12:22,2022-12-03 16:12:24,1.901s,PASSED
+switchToWindowIndex(1),Chrome 108.0.0.0,,,2022-12-03 16:12:24,2022-12-03 16:12:24,0.037s,PASSED
+delay(15),Chrome 108.0.0.0,,,2022-12-03 16:12:24,2022-12-03 16:12:39,15.006s,PASSED
+"click(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/cookies cross""))",Chrome 108.0.0.0,,,2022-12-03 16:12:39,2022-12-03 16:12:45,5.984s,PASSED
+"click(findTestObject(""Object Repository/Page_1 new message - Temp Mail/Mail open""))",Chrome 108.0.0.0,,,2022-12-03 16:12:45,2022-12-03 16:12:52,6.946s,PASSED
+"otp1 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp1""))",Chrome 108.0.0.0,,,2022-12-03 16:12:52,2022-12-03 16:13:19,27.146s,FAILED
+,,,,,,,
+Test Cases/Organizer/OTP - REFER/Valid OTP - Resend,Chrome 108.0.0.0,,,2022-12-03 16:13:19,2022-12-03 16:14:11,51.644s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,2022-12-03 16:13:19,2022-12-03 16:13:21,1.673s,PASSED
+"navigateToUrl(""https://organizer-testing.formi.co.in/"")",Chrome 108.0.0.0,,,2022-12-03 16:13:21,2022-12-03 16:13:21,0.321s,PASSED
+currentWindow = getWindowIndex(),Chrome 108.0.0.0,,,2022-12-03 16:13:21,2022-12-03 16:13:21,0.007s,PASSED
+"executeJavaScript(""window.open();"", [])",Chrome 108.0.0.0,,,2022-12-03 16:13:21,2022-12-03 16:13:21,0.054s,PASSED
+switchToWindowIndex(currentWindow + 1),Chrome 108.0.0.0,,,2022-12-03 16:13:21,2022-12-03 16:13:21,0.075s,PASSED
+"navigateToUrl(""https://temp-mail.io/en"")",Chrome 108.0.0.0,,,2022-12-03 16:13:21,2022-12-03 16:13:23,1.099s,PASSED
+delay(5),Chrome 108.0.0.0,,,2022-12-03 16:13:23,2022-12-03 16:13:28,5.016s,PASSED
+"click(findTestObject(""Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:13:28,2022-12-03 16:13:28,0.458s,PASSED
+username = getContents(null).getTransferData(stringFlavor),Chrome 108.0.0.0,,,2022-12-03 16:13:28,2022-12-03 16:13:28,0.003s,PASSED
+switchToWindowIndex(0),Chrome 108.0.0.0,,,2022-12-03 16:13:28,2022-12-03 16:13:28,0.025s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/button_Register (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:13:28,2022-12-03 16:13:30,2.462s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)""), username)",Chrome 108.0.0.0,,,2022-12-03 16:13:30,2022-12-03 16:13:32,1.207s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 108.0.0.0,,,2022-12-03 16:13:32,2022-12-03 16:13:32,0.505s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:13:32,2022-12-03 16:13:33,0.458s,PASSED
+switchToWindowIndex(1),Chrome 108.0.0.0,,,2022-12-03 16:13:33,2022-12-03 16:13:33,0.027s,PASSED
+delay(15),Chrome 108.0.0.0,,,2022-12-03 16:13:33,2022-12-03 16:13:48,15.004s,PASSED
+"click(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/cookies cross""))",Chrome 108.0.0.0,,,2022-12-03 16:13:48,2022-12-03 16:13:51,2.990s,PASSED
+"click(findTestObject(""Object Repository/Page_1 new message - Temp Mail/Mail open""))",Chrome 108.0.0.0,,,2022-12-03 16:13:51,2022-12-03 16:13:53,2.538s,PASSED
+"otp1 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp1""))",Chrome 108.0.0.0,,,2022-12-03 16:13:53,2022-12-03 16:13:56,2.347s,PASSED
+"otp2 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp2""))",Chrome 108.0.0.0,,,2022-12-03 16:13:56,2022-12-03 16:13:58,2.566s,PASSED
+"otp3 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp3""))",Chrome 108.0.0.0,,,2022-12-03 16:13:58,2022-12-03 16:14:01,2.419s,PASSED
+"otp4 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp4""))",Chrome 108.0.0.0,,,2022-12-03 16:14:01,2022-12-03 16:14:03,2.474s,PASSED
+otp = otp1 + otp2 + otp3 + otp4,Chrome 108.0.0.0,,,2022-12-03 16:14:03,2022-12-03 16:14:03,0.000s,PASSED
+switchToWindowIndex(0),Chrome 108.0.0.0,,,2022-12-03 16:14:03,2022-12-03 16:14:03,0.022s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/otp enter""), otp)",Chrome 108.0.0.0,,,2022-12-03 16:14:03,2022-12-03 16:14:08,5.089s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:14:08,2022-12-03 16:14:11,2.605s,PASSED
+,,,,,,,
+Test Cases/Organizer/OTP - REFER/Valid OTP - Wrong Number,Chrome 108.0.0.0,,,2022-12-03 16:14:11,2022-12-03 16:14:38,27.248s,FAILED
+"openBrowser("""")",Chrome 108.0.0.0,,,2022-12-03 16:14:11,2022-12-03 16:14:13,1.688s,PASSED
+"navigateToUrl(""https://organizer-testing.formi.co.in/"")",Chrome 108.0.0.0,,,2022-12-03 16:14:13,2022-12-03 16:14:14,1.101s,PASSED
+currentWindow = getWindowIndex(),Chrome 108.0.0.0,,,2022-12-03 16:14:14,2022-12-03 16:14:14,0.006s,PASSED
+"executeJavaScript(""window.open();"", [])",Chrome 108.0.0.0,,,2022-12-03 16:14:14,2022-12-03 16:14:14,0.121s,PASSED
+switchToWindowIndex(currentWindow + 1),Chrome 108.0.0.0,,,2022-12-03 16:14:14,2022-12-03 16:14:14,0.025s,PASSED
+"navigateToUrl(""https://temp-mail.io/en"")",Chrome 108.0.0.0,,,2022-12-03 16:14:14,2022-12-03 16:14:15,1.272s,PASSED
+delay(2),Chrome 108.0.0.0,,,2022-12-03 16:14:15,2022-12-03 16:14:17,2.017s,PASSED
+"click(findTestObject(""Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:14:17,2022-12-03 16:14:18,0.363s,PASSED
+username = getContents(null).getTransferData(stringFlavor),Chrome 108.0.0.0,,,2022-12-03 16:14:18,2022-12-03 16:14:18,0.001s,PASSED
+switchToWindowIndex(0),Chrome 108.0.0.0,,,2022-12-03 16:14:18,2022-12-03 16:14:18,0.028s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/button_Register (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:14:18,2022-12-03 16:14:20,2.609s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)""), username)",Chrome 108.0.0.0,,,2022-12-03 16:14:20,2022-12-03 16:14:21,1.320s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 108.0.0.0,,,2022-12-03 16:14:21,2022-12-03 16:14:22,0.505s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:14:22,2022-12-03 16:14:22,0.448s,PASSED
+"otp = ""0000""",Chrome 108.0.0.0,,,2022-12-03 16:14:22,2022-12-03 16:14:22,0.000s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/otp enter""), otp)",Chrome 108.0.0.0,,,2022-12-03 16:14:22,2022-12-03 16:14:29,6.926s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:14:29,2022-12-03 16:14:32,2.603s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/error message""))",Chrome 108.0.0.0,,,2022-12-03 16:14:32,2022-12-03 16:14:38,5.999s,FAILED
+,,,,,,,
+Test Cases/Organizer/OTP - REFER/Valid OTP,Chrome 108.0.0.0,,,2022-12-03 16:14:38,2022-12-03 16:15:27,49.232s,PASSED
+"openBrowser("""")",Chrome 108.0.0.0,,,2022-12-03 16:14:38,2022-12-03 16:14:40,1.675s,PASSED
+"navigateToUrl(""https://organizer-testing.formi.co.in/"")",Chrome 108.0.0.0,,,2022-12-03 16:14:40,2022-12-03 16:14:40,0.345s,PASSED
+currentWindow = getWindowIndex(),Chrome 108.0.0.0,,,2022-12-03 16:14:40,2022-12-03 16:14:40,0.006s,PASSED
+"executeJavaScript(""window.open();"", [])",Chrome 108.0.0.0,,,2022-12-03 16:14:40,2022-12-03 16:14:40,0.109s,PASSED
+switchToWindowIndex(currentWindow + 1),Chrome 108.0.0.0,,,2022-12-03 16:14:40,2022-12-03 16:14:40,0.015s,PASSED
+"navigateToUrl(""https://temp-mail.io/en"")",Chrome 108.0.0.0,,,2022-12-03 16:14:40,2022-12-03 16:14:42,1.267s,PASSED
+delay(3),Chrome 108.0.0.0,,,2022-12-03 16:14:42,2022-12-03 16:14:45,3.013s,PASSED
+"click(findTestObject(""Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:14:45,2022-12-03 16:14:45,0.364s,PASSED
+username = getContents(null).getTransferData(stringFlavor),Chrome 108.0.0.0,,,2022-12-03 16:14:45,2022-12-03 16:14:45,0.003s,PASSED
+switchToWindowIndex(0),Chrome 108.0.0.0,,,2022-12-03 16:14:45,2022-12-03 16:14:45,0.026s,PASSED
+"click(findTestObject(""Object Repository/Page_Weve got your back/button_Register (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:14:45,2022-12-03 16:14:47,2.459s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)""), username)",Chrome 108.0.0.0,,,2022-12-03 16:14:47,2022-12-03 16:14:49,1.294s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)""), ""cvW8qx4B2o3F4VwP/kNsqA=="")",Chrome 108.0.0.0,,,2022-12-03 16:14:49,2022-12-03 16:14:49,0.499s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:14:49,2022-12-03 16:14:50,0.451s,PASSED
+switchToWindowIndex(1),Chrome 108.0.0.0,,,2022-12-03 16:14:50,2022-12-03 16:14:50,0.030s,PASSED
+delay(15),Chrome 108.0.0.0,,,2022-12-03 16:14:50,2022-12-03 16:15:05,15.012s,PASSED
+"click(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/cookies cross""))",Chrome 108.0.0.0,,,2022-12-03 16:15:05,2022-12-03 16:15:07,2.388s,PASSED
+"click(findTestObject(""Object Repository/Page_1 new message - Temp Mail/Mail open""))",Chrome 108.0.0.0,,,2022-12-03 16:15:07,2022-12-03 16:15:10,2.503s,PASSED
+"otp1 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp1""))",Chrome 108.0.0.0,,,2022-12-03 16:15:10,2022-12-03 16:15:12,2.348s,PASSED
+"otp2 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp2""))",Chrome 108.0.0.0,,,2022-12-03 16:15:12,2022-12-03 16:15:14,2.471s,PASSED
+"otp3 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp3""))",Chrome 108.0.0.0,,,2022-12-03 16:15:14,2022-12-03 16:15:17,2.569s,PASSED
+"otp4 = getText(findTestObject(""Object Repository/Page_Verify your account - Temp Mail/otp4""))",Chrome 108.0.0.0,,,2022-12-03 16:15:17,2022-12-03 16:15:20,2.573s,PASSED
+otp = otp1 + otp2 + otp3 + otp4,Chrome 108.0.0.0,,,2022-12-03 16:15:20,2022-12-03 16:15:20,0.000s,PASSED
+switchToWindowIndex(0),Chrome 108.0.0.0,,,2022-12-03 16:15:20,2022-12-03 16:15:20,0.026s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/otp enter""), otp)",Chrome 108.0.0.0,,,2022-12-03 16:15:20,2022-12-03 16:15:25,5.070s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)""))",Chrome 108.0.0.0,,,2022-12-03 16:15:25,2022-12-03 16:15:27,2.505s,PASSED

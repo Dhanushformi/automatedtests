@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>delete</name>
+   <tag></tag>
+   <elementGuidId>2540c230-c9dd-4b87-a496-e40512881e81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.message-actions__item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>423f81ce-46aa-4296-9785-4e912234d4b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/en/source/e2b9addd-d242-4504-bbbe-2e818ebb77ad</value>
+      <webElementGuid>5f21b8c6-d03c-4521-923e-ee319387a30d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message-actions__item</value>
+      <webElementGuid>957d342e-72a3-49d5-a70f-0b5eb9d45c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Show message original</value>
+      <webElementGuid>2e63829c-0783-4e54-aa23-0d3e0be44743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>de46bc66-9ee3-4f83-bd54-674321ead742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1718e826-ffd9-4794-bb19-a5a15c499462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Show original
+        </value>
+      <webElementGuid>bf318068-a690-45e1-b69b-571994a75121</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content active with-advert&quot;]/div[@class=&quot;scrollview __vuescroll hasVBar vBarVisible mouseEnter&quot;]/div[@class=&quot;__panel&quot;]/div[@class=&quot;__view&quot;]/div[@class=&quot;content__wrapper&quot;]/article[@class=&quot;message&quot;]/div[1]/div[@class=&quot;message__head&quot;]/div[@class=&quot;message-actions&quot;]/a[@class=&quot;message-actions__item&quot;]</value>
+      <webElementGuid>e74a7807-fdbe-46a9-94fb-4bffd9f0d981</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@type='button']</value>
+      <webElementGuid>7d4161c2-5eb1-4c28-8b1b-868bfb7f0723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/div/div/div/article/div/div/div[3]/a</value>
+      <webElementGuid>0c855b43-e8a7-4949-80b7-cad79f8ab441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Show original')]</value>
+      <webElementGuid>2f818a65-9022-4096-80a9-e23c03673c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download message'])[1]/following::a[1]</value>
+      <webElementGuid>2c8c2630-5202-456c-bad2-8022b2882ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify your account'])[2]/following::a[1]</value>
+      <webElementGuid>4b7ea514-91c8-407c-b6a7-4eb2e79d632b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Print'])[1]/preceding::a[1]</value>
+      <webElementGuid>b8e7d41b-8ad0-4aa4-b218-13889218d980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::a[1]</value>
+      <webElementGuid>da73bc1a-609f-4a38-bd18-60f888cd36a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show original']/parent::*</value>
+      <webElementGuid>6b59cbf5-c906-45cb-8ae6-c0d3248339d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/en/source/e2b9addd-d242-4504-bbbe-2e818ebb77ad')]</value>
+      <webElementGuid>fb492a86-fcf4-4c40-85ca-1843045ec4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/a</value>
+      <webElementGuid>b35bc11f-e73a-4401-a67b-832e2b5f4273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/en/source/e2b9addd-d242-4504-bbbe-2e818ebb77ad' and @title = 'Show message original' and @type = 'button' and (text() = '
+          Show original
+        ' or . = '
+          Show original
+        ')]</value>
+      <webElementGuid>000a215d-1faf-4f82-b80d-f7bf91f0ca6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

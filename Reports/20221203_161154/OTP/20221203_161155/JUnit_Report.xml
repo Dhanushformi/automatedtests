@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="OTP" time="210.021" tests="4" failures="2" errors="0">
+   <testsuite name="OTP" tests="4" failures="2" errors="0" time="210.021" skipped="0" timestamp="2022-12-03 16:11:57" hostname="gauth - DIANA" id="Test Suites/OTP">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="F:\\Formi\\Automated Testing\\automatedtests\\Reports\\20221203_161154\\OTP\\20221203_161155"/>
+         <property name="logFiles" value="F:\\Formi\\Automated Testing\\automatedtests\\Reports\\20221203_161154\\OTP\\20221203_161155\\execution0.log"/>
+         <property name="attachments" value="F:\\Formi\\Automated Testing\\automatedtests\\Reports\\20221203_161154\\OTP\\20221203_161155\\1670064199387.png, F:\\Formi\\Automated Testing\\automatedtests\\Reports\\20221203_161154\\OTP\\20221203_161155\\1670064278389.png"/>
+         <property name="hostName" value="gauth - DIANA"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="browser" value="Chrome 108.0.0.0"/>
+         <property name="hostAddress" value="192.168.0.192"/>
+         <property name="sessionId" value="cbe289d79c180b9643926d26a16eadea"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry" time="78.756" classname="Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Valid OTP - Expiry.run(Valid OTP - Expiry:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Verify your account - Temp Mail/otp1' located by 'id(&quot;__layout&quot;)/div[@class=&quot;wrapper&quot;]/main[@class=&quot;content active with-advert&quot;]/div[@class=&quot;scrollview __vuescroll hasVBar mouseEnter&quot;]/div[@class=&quot;__panel&quot;]/div[@class=&quot;__view&quot;]/div[@class=&quot;content__wrapper&quot;]/article[@class=&quot;message&quot;]/div[1]/div[@class=&quot;message__content&quot;]/span[1]/table[@class=&quot;nl-container&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row row-2&quot;]/tbody[1]/tr[1]/td[1]/table[@class=&quot;row-content&quot;]/tbody[1]/tr[1]/td[@class=&quot;column column-2&quot;]/table[@class=&quot;heading_block block-2&quot;]/tbody[1]/tr[1]/td[@class=&quot;pad&quot;]/h1[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.doCall(GetTextKeyword.groovy:78)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.call(GetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2022-12-03 16:12:00 - [TEST_CASE][FAILED] - Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry: Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Valid OTP - Expiry.run(Valid OTP - Expiry:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Verify your account - Temp Mail/otp1' located by 'id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.doCall(GetTextKeyword.groovy:78)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.call(GetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2022-12-03 16:12:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-03 16:12:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-03 16:12:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-03 16:12:02 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-03 16:12:02 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer-testing.formi.co.in/"): Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-03 16:12:03 - [MESSAGE][PASSED] - Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-03 16:12:03 - [TEST_STEP][PASSED] - currentWindow = getWindowIndex(): Current window's index is: 0
+
+2022-12-03 16:12:03 - [MESSAGE][PASSED] - Current window's index is: 0
+
+2022-12-03 16:12:03 - [TEST_STEP][PASSED] - executeJavaScript("window.open();", []): Execute JavaScript 'window.open();' successfully
+
+2022-12-03 16:12:03 - [MESSAGE][PASSED] - Execute JavaScript 'window.open();' successfully
+
+2022-12-03 16:12:03 - [TEST_STEP][PASSED] - switchToWindowIndex(currentWindow + 1): Switched to window with index: '1'
+
+2022-12-03 16:12:03 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-03 16:12:03 - [TEST_STEP][PASSED] - navigateToUrl("https://temp-mail.io/en"): Navigate to 'https://temp-mail.io/en' successfully
+
+2022-12-03 16:12:04 - [MESSAGE][PASSED] - Navigate to 'https://temp-mail.io/en' successfully
+
+2022-12-03 16:12:04 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-12-03 16:12:07 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-12-03 16:12:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)")): Object: 'Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)' is clicked on
+
+2022-12-03 16:12:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)' is clicked on
+
+2022-12-03 16:12:10 - [TEST_STEP][PASSED] - username = getContents(null).getTransferData(stringFlavor): null
+
+2022-12-03 16:12:10 - [TEST_STEP][PASSED] - switchToWindowIndex(0): Switched to window with index: '0'
+
+2022-12-03 16:12:10 - [MESSAGE][PASSED] - Switched to window with index: '0'
+
+2022-12-03 16:12:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/button_Register (1)")): Object: 'Object Repository/Page_Weve got your back/button_Register (1)' is clicked on
+
+2022-12-03 16:12:14 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__next")/form[@class="ant-form ant-form-horizontal"]/div[@class="login_register__9PVhU"]/div[@class="ant-row public-navbar_navbar__eJzUB"]/div[@class="public-navbar_right__RulW5"]/div[@class="public-navbar_expanded__UhJ8Y"]/a[2]/button[@class="ant-btn ant-btn-default public-navbar_register__D1PDZ"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:12:14 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/button_Register (1)'. Try using Self-healing.
+
+2022-12-03 16:12:16 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/button_Register (1)' was broken. Propose an alternative one: '(//button[@type='button'])[2]'.
+
+2022-12-03 16:12:16 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/button_Register (1)' is clicked on
+
+2022-12-03 16:12:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)"), username): Text 'e57zwphmsm@popcornfly.com' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)'
+
+2022-12-03 16:12:20 - [MESSAGE][PASSED] - Text 'e57zwphmsm@popcornfly.com' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)'
+
+2022-12-03 16:12:20 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)'
+
+2022-12-03 16:12:22 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)'
+
+2022-12-03 16:12:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)")): Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)' is clicked on
+
+2022-12-03 16:12:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)' is clicked on
+
+2022-12-03 16:12:24 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-03 16:12:24 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-03 16:12:24 - [TEST_STEP][PASSED] - delay(15): Delayed 15 second(s)
+
+2022-12-03 16:12:39 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+2022-12-03 16:12:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Verify your account - Temp Mail/cookies cross")): Object: 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' is clicked on
+
+2022-12-03 16:12:43 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/div[1]/div[@class="cookie-warning active"]/button[@class="cookie-warning__close"]/svg[@class="cookie-warning__close-icon icon sprite-icons"]/use[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:12:43 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/cookies cross'. Try using Self-healing.
+
+2022-12-03 16:12:45 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' was broken. Propose an alternative one: 'svg.cookie-warning__close-icon.icon.sprite-icons > use'.
+
+2022-12-03 16:12:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' is clicked on
+
+2022-12-03 16:12:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_1 new message - Temp Mail/Mail open")): Object: 'Object Repository/Page_1 new message - Temp Mail/Mail open' is clicked on
+
+2022-12-03 16:12:49 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/aside[@class="sidebar with-advert"]/div[@class="sidebar__wrapper"]/div[@class="scrollview __vuescroll mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/ul[@class="email-list"]/li[@class="message list-complete-item"]/div[@class="message__body"]/span[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:12:49 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_1 new message - Temp Mail/Mail open'. Try using Self-healing.
+
+2022-12-03 16:12:52 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_1 new message - Temp Mail/Mail open' was broken. Propose an alternative one: '//div[@id='__layout']/div/aside/div/div[2]/div/div/ul/li/div[5]/span'.
+
+2022-12-03 16:12:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_1 new message - Temp Mail/Mail open' is clicked on
+
+2022-12-03 16:12:52 - [TEST_STEP][FAILED] - otp1 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp1")): Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Valid OTP - Expiry.run(Valid OTP - Expiry:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Verify your account - Temp Mail/otp1' located by 'id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.doCall(GetTextKeyword.groovy:78)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.call(GetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Script1670064058690.run(Script1670064058690.groovy:61)
+	... 13 more
+)
+
+2022-12-03 16:12:56 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:12:56 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp1'. Try using Self-healing.
+
+2022-12-03 16:12:58 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: td.column.column-2 > table.heading_block.block-2 > tbody > tr > td.pad > h1'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:13:01 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/h1'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:13:03 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr/td/h1'.
+
+2022-12-03 16:13:05 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Mark as unread'])[1]/following::h1[2]'.
+
+2022-12-03 16:13:07 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::h1[2]'.
+
+2022-12-03 16:13:10 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/preceding::h1[5]'.
+
+2022-12-03 16:13:12 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '(.//*[normalize-space(text()) and normalize-space(.)='Choose language'])[1]/preceding::h1[5]'.
+
+2022-12-03 16:13:14 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//td[2]/table/tbody/tr/td/h1'.
+
+2022-12-03 16:13:16 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//h1[(text() = '8' or . = '8')]'.
+
+2022-12-03 16:13:19 - [MESSAGE][INFO] - Unable to find the element located by 'By.cssSelector: td.column.column-2 > table.heading_block.block-2 > tbody > tr > td.pad > h1'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:13:19 - [MESSAGE][FAILED] - Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Valid OTP - Expiry.run(Valid OTP - Expiry:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Verify your account - Temp Mail/otp1' located by 'id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.doCall(GetTextKeyword.groovy:78)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.call(GetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Script1670064058690.run(Script1670064058690.groovy:61)
+	... 13 more
+)
+[[ATTACHMENT|F:\\Formi\\Automated Testing\\automatedtests\\Reports\\20221203_161154\\OTP\\20221203_161155\\1670064199387.png]]]]></system-out>
+         <system-err><![CDATA[2022-12-03 16:12:00 - [TEST_CASE][FAILED] - Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry: Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Valid OTP - Expiry.run(Valid OTP - Expiry:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Verify your account - Temp Mail/otp1' located by 'id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.doCall(GetTextKeyword.groovy:78)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.call(GetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Organizer/OTP - REFER/Valid OTP - Resend" time="51.644" classname="Test Cases/Organizer/OTP - REFER/Valid OTP - Resend" status="PASSED">
+         <system-out><![CDATA[2022-12-03 16:13:19 - [TEST_CASE][PASSED] - Test Cases/Organizer/OTP - REFER/Valid OTP - Resend: Test Cases/Organizer/OTP - REFER/Valid OTP - Resend
+
+2022-12-03 16:13:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-03 16:13:19 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-03 16:13:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-03 16:13:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-03 16:13:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-03 16:13:21 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer-testing.formi.co.in/"): Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-03 16:13:21 - [MESSAGE][PASSED] - Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-03 16:13:21 - [TEST_STEP][PASSED] - currentWindow = getWindowIndex(): Current window's index is: 0
+
+2022-12-03 16:13:21 - [MESSAGE][PASSED] - Current window's index is: 0
+
+2022-12-03 16:13:21 - [TEST_STEP][PASSED] - executeJavaScript("window.open();", []): Execute JavaScript 'window.open();' successfully
+
+2022-12-03 16:13:21 - [MESSAGE][PASSED] - Execute JavaScript 'window.open();' successfully
+
+2022-12-03 16:13:21 - [TEST_STEP][PASSED] - switchToWindowIndex(currentWindow + 1): Switched to window with index: '1'
+
+2022-12-03 16:13:21 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-03 16:13:21 - [TEST_STEP][PASSED] - navigateToUrl("https://temp-mail.io/en"): Navigate to 'https://temp-mail.io/en' successfully
+
+2022-12-03 16:13:23 - [MESSAGE][PASSED] - Navigate to 'https://temp-mail.io/en' successfully
+
+2022-12-03 16:13:23 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2022-12-03 16:13:28 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2022-12-03 16:13:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)")): Object: 'Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)' is clicked on
+
+2022-12-03 16:13:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)' is clicked on
+
+2022-12-03 16:13:28 - [TEST_STEP][PASSED] - username = getContents(null).getTransferData(stringFlavor): null
+
+2022-12-03 16:13:28 - [TEST_STEP][PASSED] - switchToWindowIndex(0): Switched to window with index: '0'
+
+2022-12-03 16:13:28 - [MESSAGE][PASSED] - Switched to window with index: '0'
+
+2022-12-03 16:13:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/button_Register (1)")): Object: 'Object Repository/Page_Weve got your back/button_Register (1)' is clicked on
+
+2022-12-03 16:13:30 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__next")/form[@class="ant-form ant-form-horizontal"]/div[@class="login_register__9PVhU"]/div[@class="ant-row public-navbar_navbar__eJzUB"]/div[@class="public-navbar_right__RulW5"]/div[@class="public-navbar_expanded__UhJ8Y"]/a[2]/button[@class="ant-btn ant-btn-default public-navbar_register__D1PDZ"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:13:30 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/button_Register (1)'. Try using Self-healing.
+
+2022-12-03 16:13:30 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/button_Register (1)' was broken. Propose an alternative one: '(//button[@type='button'])[2]'.
+
+2022-12-03 16:13:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/button_Register (1)' is clicked on
+
+2022-12-03 16:13:30 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)"), username): Text 'swzhdy0pws@dishcatfish.com' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)'
+
+2022-12-03 16:13:32 - [MESSAGE][PASSED] - Text 'swzhdy0pws@dishcatfish.com' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)'
+
+2022-12-03 16:13:32 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)'
+
+2022-12-03 16:13:32 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)'
+
+2022-12-03 16:13:32 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)")): Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)' is clicked on
+
+2022-12-03 16:13:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)' is clicked on
+
+2022-12-03 16:13:33 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-03 16:13:33 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-03 16:13:33 - [TEST_STEP][PASSED] - delay(15): Delayed 15 second(s)
+
+2022-12-03 16:13:48 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+2022-12-03 16:13:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Verify your account - Temp Mail/cookies cross")): Object: 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' is clicked on
+
+2022-12-03 16:13:50 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/div[1]/div[@class="cookie-warning active"]/button[@class="cookie-warning__close"]/svg[@class="cookie-warning__close-icon icon sprite-icons"]/use[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:13:50 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/cookies cross'. Try using Self-healing.
+
+2022-12-03 16:13:51 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' was broken. Propose an alternative one: 'svg.cookie-warning__close-icon.icon.sprite-icons > use'.
+
+2022-12-03 16:13:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' is clicked on
+
+2022-12-03 16:13:51 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_1 new message - Temp Mail/Mail open")): Object: 'Object Repository/Page_1 new message - Temp Mail/Mail open' is clicked on
+
+2022-12-03 16:13:53 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/aside[@class="sidebar with-advert"]/div[@class="sidebar__wrapper"]/div[@class="scrollview __vuescroll mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/ul[@class="email-list"]/li[@class="message list-complete-item"]/div[@class="message__body"]/span[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:13:53 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_1 new message - Temp Mail/Mail open'. Try using Self-healing.
+
+2022-12-03 16:13:53 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_1 new message - Temp Mail/Mail open' was broken. Propose an alternative one: '//div[@id='__layout']/div/aside/div/div[2]/div/div/ul/li/div[5]/span'.
+
+2022-12-03 16:13:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_1 new message - Temp Mail/Mail open' is clicked on
+
+2022-12-03 16:13:53 - [TEST_STEP][PASSED] - otp1 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp1")): Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1' is: '4'
+
+2022-12-03 16:13:55 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:13:55 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp1'. Try using Self-healing.
+
+2022-12-03 16:13:56 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/otp1' was broken. Propose an alternative one: 'td.column.column-2 > table.heading_block.block-2 > tbody > tr > td.pad > h1'.
+
+2022-12-03 16:13:56 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1' is: '4'
+
+2022-12-03 16:13:56 - [TEST_STEP][PASSED] - otp2 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp2")): Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp2' is: '9'
+
+2022-12-03 16:13:58 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar vBarVisible mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-3"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:13:58 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp2'. Try using Self-healing.
+
+2022-12-03 16:13:58 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/otp2' was broken. Propose an alternative one: '//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr/td/h1'.
+
+2022-12-03 16:13:58 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp2' is: '9'
+
+2022-12-03 16:13:58 - [TEST_STEP][PASSED] - otp3 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp3")): Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp3' is: '5'
+
+2022-12-03 16:14:00 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar vBarVisible mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-4"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:00 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp3'. Try using Self-healing.
+
+2022-12-03 16:14:01 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/otp3' was broken. Propose an alternative one: '//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[4]/table/tbody/tr/td/h1'.
+
+2022-12-03 16:14:01 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp3' is: '5'
+
+2022-12-03 16:14:01 - [TEST_STEP][PASSED] - otp4 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp4")): Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp4' is: '9'
+
+2022-12-03 16:14:03 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar vBarVisible mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-5"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:03 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp4'. Try using Self-healing.
+
+2022-12-03 16:14:03 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/otp4' was broken. Propose an alternative one: '//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[5]/table/tbody/tr/td/h1'.
+
+2022-12-03 16:14:03 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp4' is: '9'
+
+2022-12-03 16:14:03 - [TEST_STEP][PASSED] - otp = otp1 + otp2 + otp3 + otp4: null
+
+2022-12-03 16:14:03 - [TEST_STEP][PASSED] - switchToWindowIndex(0): Switched to window with index: '0'
+
+2022-12-03 16:14:03 - [MESSAGE][PASSED] - Switched to window with index: '0'
+
+2022-12-03 16:14:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/otp enter"), otp): Text '4959' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'
+
+2022-12-03 16:14:05 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_input__eWd2d"]/div[1]/div[1]/input[@class="register_input_box__lggUI"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:05 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'. Try using Self-healing.
+
+2022-12-03 16:14:06 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter' was broken. Propose an alternative one: '//input[@value='']'.
+
+2022-12-03 16:14:08 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_input__eWd2d"]/div[1]/div[1]/input[@class="register_input_box__lggUI"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:08 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'. Try using Self-healing.
+
+2022-12-03 16:14:08 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter' was broken. Propose an alternative one: '//input[@value='']'.
+
+2022-12-03 16:14:08 - [MESSAGE][PASSED] - Text '4959' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'
+
+2022-12-03 16:14:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)")): Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' is clicked on
+
+2022-12-03 16:14:10 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_footer__aUzSI"]/button[@class="ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:10 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)'. Try using Self-healing.
+
+2022-12-03 16:14:11 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' was broken. Propose an alternative one: '(//button[@type='button'])[4]'.
+
+2022-12-03 16:14:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Organizer/OTP - REFER/Valid OTP - Wrong Number" time="27.248" classname="Test Cases/Organizer/OTP - REFER/Valid OTP - Wrong Number" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Organizer/OTP - REFER/Valid OTP - Wrong Number FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign-up to get the Formi dashboard/error message'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Valid OTP - Wrong Number.run(Valid OTP - Wrong Number:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;div class=&quot;ant-modal-mask&quot;>&lt;/div> is not clickable at point (519, 310). Other element would receive the click: &lt;div style=&quot;display: flex; align-items: center;&quot;>...&lt;/div>
+  (Session info: chrome=108.0.5359.94)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DIANA', ip: '192.168.0.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\gauth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20f91f5eb061485cd8ef6ace3f64786c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy16.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+"/>
+         <system-out><![CDATA[2022-12-03 16:14:11 - [TEST_CASE][FAILED] - Test Cases/Organizer/OTP - REFER/Valid OTP - Wrong Number: Test Cases/Organizer/OTP - REFER/Valid OTP - Wrong Number FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign-up to get the Formi dashboard/error message'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Valid OTP - Wrong Number.run(Valid OTP - Wrong Number:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="ant-modal-mask"></div> is not clickable at point (519, 310). Other element would receive the click: <div style="display: flex; align-items: center;">...</div>
+  (Session info: chrome=108.0.5359.94)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DIANA', ip: '192.168.0.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\gauth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20f91f5eb061485cd8ef6ace3f64786c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy16.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more
+
+
+2022-12-03 16:14:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-03 16:14:11 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-03 16:14:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-03 16:14:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-03 16:14:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-03 16:14:13 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer-testing.formi.co.in/"): Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-03 16:14:14 - [MESSAGE][PASSED] - Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-03 16:14:14 - [TEST_STEP][PASSED] - currentWindow = getWindowIndex(): Current window's index is: 0
+
+2022-12-03 16:14:14 - [MESSAGE][PASSED] - Current window's index is: 0
+
+2022-12-03 16:14:14 - [TEST_STEP][PASSED] - executeJavaScript("window.open();", []): Execute JavaScript 'window.open();' successfully
+
+2022-12-03 16:14:14 - [MESSAGE][PASSED] - Execute JavaScript 'window.open();' successfully
+
+2022-12-03 16:14:14 - [TEST_STEP][PASSED] - switchToWindowIndex(currentWindow + 1): Switched to window with index: '1'
+
+2022-12-03 16:14:14 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-03 16:14:14 - [TEST_STEP][PASSED] - navigateToUrl("https://temp-mail.io/en"): Navigate to 'https://temp-mail.io/en' successfully
+
+2022-12-03 16:14:15 - [MESSAGE][PASSED] - Navigate to 'https://temp-mail.io/en' successfully
+
+2022-12-03 16:14:15 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+2022-12-03 16:14:17 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+2022-12-03 16:14:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)")): Object: 'Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)' is clicked on
+
+2022-12-03 16:14:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)' is clicked on
+
+2022-12-03 16:14:18 - [TEST_STEP][PASSED] - username = getContents(null).getTransferData(stringFlavor): null
+
+2022-12-03 16:14:18 - [TEST_STEP][PASSED] - switchToWindowIndex(0): Switched to window with index: '0'
+
+2022-12-03 16:14:18 - [MESSAGE][PASSED] - Switched to window with index: '0'
+
+2022-12-03 16:14:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/button_Register (1)")): Object: 'Object Repository/Page_Weve got your back/button_Register (1)' is clicked on
+
+2022-12-03 16:14:20 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__next")/form[@class="ant-form ant-form-horizontal"]/div[@class="login_register__9PVhU"]/div[@class="ant-row public-navbar_navbar__eJzUB"]/div[@class="public-navbar_right__RulW5"]/div[@class="public-navbar_expanded__UhJ8Y"]/a[2]/button[@class="ant-btn ant-btn-default public-navbar_register__D1PDZ"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:20 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/button_Register (1)'. Try using Self-healing.
+
+2022-12-03 16:14:20 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/button_Register (1)' was broken. Propose an alternative one: '(//button[@type='button'])[2]'.
+
+2022-12-03 16:14:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/button_Register (1)' is clicked on
+
+2022-12-03 16:14:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)"), username): Text 'fhk3cvdal1@waterisgone.com' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)'
+
+2022-12-03 16:14:21 - [MESSAGE][PASSED] - Text 'fhk3cvdal1@waterisgone.com' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)'
+
+2022-12-03 16:14:21 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)'
+
+2022-12-03 16:14:22 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)'
+
+2022-12-03 16:14:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)")): Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)' is clicked on
+
+2022-12-03 16:14:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)' is clicked on
+
+2022-12-03 16:14:22 - [TEST_STEP][PASSED] - otp = "0000": null
+
+2022-12-03 16:14:22 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/otp enter"), otp): Text '0000' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'
+
+2022-12-03 16:14:27 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_input__eWd2d"]/div[1]/div[1]/input[@class="register_input_box__lggUI"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:27 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'. Try using Self-healing.
+
+2022-12-03 16:14:27 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter' was broken. Propose an alternative one: '//input[@value='']'.
+
+2022-12-03 16:14:29 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_input__eWd2d"]/div[1]/div[1]/input[@class="register_input_box__lggUI"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:29 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'. Try using Self-healing.
+
+2022-12-03 16:14:29 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter' was broken. Propose an alternative one: '//input[@value='']'.
+
+2022-12-03 16:14:29 - [MESSAGE][PASSED] - Text '0000' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'
+
+2022-12-03 16:14:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)")): Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' is clicked on
+
+2022-12-03 16:14:32 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_footer__aUzSI"]/button[@class="ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:32 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)'. Try using Self-healing.
+
+2022-12-03 16:14:32 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' was broken. Propose an alternative one: '(//button[@type='button'])[4]'.
+
+2022-12-03 16:14:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' is clicked on
+
+2022-12-03 16:14:32 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/error message")): Unable to click on object 'Object Repository/Page_Sign-up to get the Formi dashboard/error message' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign-up to get the Formi dashboard/error message'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Valid OTP - Wrong Number.run(Valid OTP - Wrong Number:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="ant-modal-mask"></div> is not clickable at point (519, 310). Other element would receive the click: <div style="display: flex; align-items: center;">...</div>
+  (Session info: chrome=108.0.5359.94)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DIANA', ip: '192.168.0.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\gauth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20f91f5eb061485cd8ef6ace3f64786c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy16.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Script1670064058694.run(Script1670064058694.groovy:71)
+	... 13 more
+)
+
+2022-12-03 16:14:34 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[3]/div[@class="ant-notification ant-notification-bottomLeft"]/div[1]/div[@class="ant-notification-notice notification ant-notification-notice-error ant-notification-notice-closable"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:34 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/error message'. Try using Self-healing.
+
+2022-12-03 16:14:35 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/error message' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::div[6]'.
+
+2022-12-03 16:14:38 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Sign-up to get the Formi dashboard/error message' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign-up to get the Formi dashboard/error message'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Valid OTP - Wrong Number.run(Valid OTP - Wrong Number:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="ant-modal-mask"></div> is not clickable at point (519, 310). Other element would receive the click: <div style="display: flex; align-items: center;">...</div>
+  (Session info: chrome=108.0.5359.94)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DIANA', ip: '192.168.0.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\gauth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20f91f5eb061485cd8ef6ace3f64786c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy16.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Script1670064058694.run(Script1670064058694.groovy:71)
+	... 13 more
+)
+[[ATTACHMENT|F:\\Formi\\Automated Testing\\automatedtests\\Reports\\20221203_161154\\OTP\\20221203_161155\\1670064278389.png]]]]></system-out>
+         <system-err><![CDATA[2022-12-03 16:14:11 - [TEST_CASE][FAILED] - Test Cases/Organizer/OTP - REFER/Valid OTP - Wrong Number: Test Cases/Organizer/OTP - REFER/Valid OTP - Wrong Number FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Sign-up to get the Formi dashboard/error message'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:74)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:620)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$click$4.call(Unknown Source)
+	at Valid OTP - Wrong Number.run(Valid OTP - Wrong Number:71)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="ant-modal-mask"></div> is not clickable at point (519, 310). Other element would receive the click: <div style="display: flex; align-items: center;">...</div>
+  (Session info: chrome=108.0.5359.94)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:53'
+System info: host: 'DIANA', ip: '192.168.0.192', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_282'
+Driver info: com.kms.katalon.selenium.driver.CChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.94, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\gauth\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20f91f5eb061485cd8ef6ace3f64786c
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at com.kms.katalon.selenium.driver.CChromeDriver.execute(CChromeDriver.java:19)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:404)
+	at com.sun.proxy.$Proxy16.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:417)
+	at org.openqa.selenium.WebElement$click.call(Unknown Source)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy:81)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.clickUntilSuccessWithTimeout(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:67)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Organizer/OTP - REFER/Valid OTP" time="49.232" classname="Test Cases/Organizer/OTP - REFER/Valid OTP" status="PASSED">
+         <system-out><![CDATA[2022-12-03 16:14:38 - [TEST_CASE][PASSED] - Test Cases/Organizer/OTP - REFER/Valid OTP: Test Cases/Organizer/OTP - REFER/Valid OTP
+
+2022-12-03 16:14:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-12-03 16:14:38 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-12-03 16:14:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-12-03 16:14:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-12-03 16:14:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-12-03 16:14:40 - [TEST_STEP][PASSED] - navigateToUrl("https://organizer-testing.formi.co.in/"): Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-03 16:14:40 - [MESSAGE][PASSED] - Navigate to 'https://organizer-testing.formi.co.in/' successfully
+
+2022-12-03 16:14:40 - [TEST_STEP][PASSED] - currentWindow = getWindowIndex(): Current window's index is: 0
+
+2022-12-03 16:14:40 - [MESSAGE][PASSED] - Current window's index is: 0
+
+2022-12-03 16:14:40 - [TEST_STEP][PASSED] - executeJavaScript("window.open();", []): Execute JavaScript 'window.open();' successfully
+
+2022-12-03 16:14:40 - [MESSAGE][PASSED] - Execute JavaScript 'window.open();' successfully
+
+2022-12-03 16:14:40 - [TEST_STEP][PASSED] - switchToWindowIndex(currentWindow + 1): Switched to window with index: '1'
+
+2022-12-03 16:14:40 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-03 16:14:40 - [TEST_STEP][PASSED] - navigateToUrl("https://temp-mail.io/en"): Navigate to 'https://temp-mail.io/en' successfully
+
+2022-12-03 16:14:42 - [MESSAGE][PASSED] - Navigate to 'https://temp-mail.io/en' successfully
+
+2022-12-03 16:14:42 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+2022-12-03 16:14:45 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+2022-12-03 16:14:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)")): Object: 'Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)' is clicked on
+
+2022-12-03 16:14:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Disposable temporary email - Temp Mail/mail_id (1)' is clicked on
+
+2022-12-03 16:14:45 - [TEST_STEP][PASSED] - username = getContents(null).getTransferData(stringFlavor): null
+
+2022-12-03 16:14:45 - [TEST_STEP][PASSED] - switchToWindowIndex(0): Switched to window with index: '0'
+
+2022-12-03 16:14:45 - [MESSAGE][PASSED] - Switched to window with index: '0'
+
+2022-12-03 16:14:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Weve got your back/button_Register (1)")): Object: 'Object Repository/Page_Weve got your back/button_Register (1)' is clicked on
+
+2022-12-03 16:14:47 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__next")/form[@class="ant-form ant-form-horizontal"]/div[@class="login_register__9PVhU"]/div[@class="ant-row public-navbar_navbar__eJzUB"]/div[@class="public-navbar_right__RulW5"]/div[@class="public-navbar_expanded__UhJ8Y"]/a[2]/button[@class="ant-btn ant-btn-default public-navbar_register__D1PDZ"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:14:47 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Weve got your back/button_Register (1)'. Try using Self-healing.
+
+2022-12-03 16:14:47 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Weve got your back/button_Register (1)' was broken. Propose an alternative one: '(//button[@type='button'])[2]'.
+
+2022-12-03 16:14:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Weve got your back/button_Register (1)' is clicked on
+
+2022-12-03 16:14:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)"), username): Text 'mqr16kfsov@coooooool.com' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)'
+
+2022-12-03 16:14:49 - [MESSAGE][PASSED] - Text 'mqr16kfsov@coooooool.com' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Email Address_email (3)'
+
+2022-12-03 16:14:49 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)"), "cvW8qx4B2o3F4VwP/kNsqA=="): Text ****** has been set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)'
+
+2022-12-03 16:14:49 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/input_Create Password_password (3)'
+
+2022-12-03 16:14:49 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)")): Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)' is clicked on
+
+2022-12-03 16:14:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Next (1)' is clicked on
+
+2022-12-03 16:14:50 - [TEST_STEP][PASSED] - switchToWindowIndex(1): Switched to window with index: '1'
+
+2022-12-03 16:14:50 - [MESSAGE][PASSED] - Switched to window with index: '1'
+
+2022-12-03 16:14:50 - [TEST_STEP][PASSED] - delay(15): Delayed 15 second(s)
+
+2022-12-03 16:15:05 - [MESSAGE][PASSED] - Delayed 15 second(s)
+
+2022-12-03 16:15:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Verify your account - Temp Mail/cookies cross")): Object: 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' is clicked on
+
+2022-12-03 16:15:07 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/div[1]/div[@class="cookie-warning active"]/button[@class="cookie-warning__close"]/svg[@class="cookie-warning__close-icon icon sprite-icons"]/use[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:07 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/cookies cross'. Try using Self-healing.
+
+2022-12-03 16:15:07 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' was broken. Propose an alternative one: 'svg.cookie-warning__close-icon.icon.sprite-icons > use'.
+
+2022-12-03 16:15:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Verify your account - Temp Mail/cookies cross' is clicked on
+
+2022-12-03 16:15:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_1 new message - Temp Mail/Mail open")): Object: 'Object Repository/Page_1 new message - Temp Mail/Mail open' is clicked on
+
+2022-12-03 16:15:09 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/aside[@class="sidebar with-advert"]/div[@class="sidebar__wrapper"]/div[@class="scrollview __vuescroll mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/ul[@class="email-list"]/li[@class="message list-complete-item"]/div[@class="message__body"]/span[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:09 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_1 new message - Temp Mail/Mail open'. Try using Self-healing.
+
+2022-12-03 16:15:10 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_1 new message - Temp Mail/Mail open' was broken. Propose an alternative one: '//div[@id='__layout']/div/aside/div/div[2]/div/div/ul/li/div[5]/span'.
+
+2022-12-03 16:15:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_1 new message - Temp Mail/Mail open' is clicked on
+
+2022-12-03 16:15:10 - [TEST_STEP][PASSED] - otp1 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp1")): Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1' is: '7'
+
+2022-12-03 16:15:12 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:12 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp1'. Try using Self-healing.
+
+2022-12-03 16:15:12 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/otp1' was broken. Propose an alternative one: 'td.column.column-2 > table.heading_block.block-2 > tbody > tr > td.pad > h1'.
+
+2022-12-03 16:15:12 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1' is: '7'
+
+2022-12-03 16:15:12 - [TEST_STEP][PASSED] - otp2 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp2")): Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp2' is: '8'
+
+2022-12-03 16:15:14 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar vBarVisible mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-3"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:14 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp2'. Try using Self-healing.
+
+2022-12-03 16:15:14 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/otp2' was broken. Propose an alternative one: '//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr/td/h1'.
+
+2022-12-03 16:15:14 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp2' is: '8'
+
+2022-12-03 16:15:14 - [TEST_STEP][PASSED] - otp3 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp3")): Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp3' is: '7'
+
+2022-12-03 16:15:17 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar vBarVisible mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-4"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:17 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp3'. Try using Self-healing.
+
+2022-12-03 16:15:17 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/otp3' was broken. Propose an alternative one: '//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[4]/table/tbody/tr/td/h1'.
+
+2022-12-03 16:15:17 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp3' is: '7'
+
+2022-12-03 16:15:17 - [TEST_STEP][PASSED] - otp4 = getText(findTestObject("Object Repository/Page_Verify your account - Temp Mail/otp4")): Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp4' is: '0'
+
+2022-12-03 16:15:19 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar vBarVisible mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-5"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:19 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Verify your account - Temp Mail/otp4'. Try using Self-healing.
+
+2022-12-03 16:15:20 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Verify your account - Temp Mail/otp4' was broken. Propose an alternative one: '//div[@id='__layout']/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[5]/table/tbody/tr/td/h1'.
+
+2022-12-03 16:15:20 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Verify your account - Temp Mail/otp4' is: '0'
+
+2022-12-03 16:15:20 - [TEST_STEP][PASSED] - otp = otp1 + otp2 + otp3 + otp4: null
+
+2022-12-03 16:15:20 - [TEST_STEP][PASSED] - switchToWindowIndex(0): Switched to window with index: '0'
+
+2022-12-03 16:15:20 - [MESSAGE][PASSED] - Switched to window with index: '0'
+
+2022-12-03 16:15:20 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/otp enter"), otp): Text '7870' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'
+
+2022-12-03 16:15:22 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_input__eWd2d"]/div[1]/div[1]/input[@class="register_input_box__lggUI"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:22 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'. Try using Self-healing.
+
+2022-12-03 16:15:22 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter' was broken. Propose an alternative one: '//input[@value='']'.
+
+2022-12-03 16:15:24 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_input__eWd2d"]/div[1]/div[1]/input[@class="register_input_box__lggUI"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:24 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'. Try using Self-healing.
+
+2022-12-03 16:15:25 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter' was broken. Propose an alternative one: '//input[@value='']'.
+
+2022-12-03 16:15:25 - [MESSAGE][PASSED] - Text '7870' is set on object 'Object Repository/Page_Sign-up to get the Formi dashboard/otp enter'
+
+2022-12-03 16:15:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)")): Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' is clicked on
+
+2022-12-03 16:15:27 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: /html[1]/body[@class="ant-scrolling-effect"]/div[4]/div[@class="ant-modal-root"]/div[@class="ant-modal-wrap"]/div[@class="ant-modal white-modal_modalcontainer__rk6Ls"]/div[@class="ant-modal-content"]/div[@class="ant-modal-body"]/div[@class="register_modal_content__EjMf_"]/div[@class="register_footer__aUzSI"]/button[@class="ant-btn ant-btn-default button_pink__Yhdb2 button_m__0eMVJ undefined shadow-wrapper_xs__OySnx"]'. Please recheck the objects properties to make sure the desired element is located. 
+
+2022-12-03 16:15:27 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)'. Try using Self-healing.
+
+2022-12-03 16:15:27 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' was broken. Propose an alternative one: '(//button[@type='button'])[4]'.
+
+2022-12-03 16:15:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-12-03 16:11:57 - [TEST_SUITE][FAILED] - OTP: Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Valid OTP - Expiry.run(Valid OTP - Expiry:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Verify your account - Temp Mail/otp1' located by 'id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.doCall(GetTextKeyword.groovy:78)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.call(GetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-out>
+      <system-err><![CDATA[2022-12-03 16:11:57 - [TEST_SUITE][FAILED] - OTP: Test Cases/Organizer/OTP - REFER/Valid OTP - Expiry FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to get text of object 'Object Repository/Page_Verify your account - Temp Mail/otp1'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.getText(GetTextKeyword.groovy:88)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword.execute(GetTextKeyword.groovy:67)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(WebUiBuiltInKeywords.groovy:918)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords$getText$7.call(Unknown Source)
+	at Valid OTP - Expiry.run(Valid OTP - Expiry:61)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:151)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:185)
+	at com.kms.katalon.core.main.TestCaseMain$startTestSuite$0.call(Unknown Source)
+	at TempTestSuite1670064115993.run(TempTestSuite1670064115993.groovy:36)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Verify your account - Temp Mail/otp1' located by 'id("__layout")/div[@class="wrapper"]/main[@class="content active with-advert"]/div[@class="scrollview __vuescroll hasVBar mouseEnter"]/div[@class="__panel"]/div[@class="__view"]/div[@class="content__wrapper"]/article[@class="message"]/div[1]/div[@class="message__content"]/span[1]/table[@class="nl-container"]/tbody[1]/tr[1]/td[1]/table[@class="row row-2"]/tbody[1]/tr[1]/td[1]/table[@class="row-content"]/tbody[1]/tr[1]/td[@class="column column-2"]/table[@class="heading_block block-2"]/tbody[1]/tr[1]/td[@class="pad"]/h1[1]' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1370)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.doCall(GetTextKeyword.groovy:78)
+	at com.kms.katalon.core.webui.keyword.builtin.GetTextKeyword$_getText_closure1.call(GetTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 19 more]]></system-err>
+   </testsuite>
+</testsuites>

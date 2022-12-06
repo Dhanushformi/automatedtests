@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DatePicker</name>
+   <tag></tag>
+   <elementGuidId>4d6ed6db-25d3-4364-bced-3c710ff19f0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[26]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d10287f0-8bde-4da4-813a-9941f3dfc23b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>2022-12-22</value>
+      <webElementGuid>d8efced5-3efc-427d-8f5f-6d7ffbe5d969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-picker-cell ant-picker-cell-in-view</value>
+      <webElementGuid>af54da69-e10a-41d6-bd0d-4b17409b2f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>22</value>
+      <webElementGuid>5b18c869-9388-4af1-8a32-bd958b734104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[1]/div[@class=&quot;ant-picker-dropdown ant-picker-dropdown-placement-bottomLeft&quot;]/div[@class=&quot;ant-picker-panel-container&quot;]/div[@class=&quot;ant-picker-panel&quot;]/div[@class=&quot;ant-picker-date-panel&quot;]/div[@class=&quot;ant-picker-body&quot;]/table[@class=&quot;ant-picker-content&quot;]/tbody[1]/tr[4]/td[@class=&quot;ant-picker-cell ant-picker-cell-in-view&quot;]</value>
+      <webElementGuid>92ea3f49-9af2-4634-9072-a76e526ffa49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::td[26]</value>
+      <webElementGuid>29a05840-ced6-44a0-9d75-69ca9d7b0c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::td[26]</value>
+      <webElementGuid>e8ea1b3e-f54b-4449-a661-14be28032cd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::td[17]</value>
+      <webElementGuid>f2aae24d-94e3-4410-8223-956b2332b81c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[5]</value>
+      <webElementGuid>b971a09d-53fa-4222-b984-427cccc4c975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@title = '2022-12-22' and (text() = '22' or . = '22')]</value>
+      <webElementGuid>0e9af129-9dac-4680-ab26-10c5847d2bfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

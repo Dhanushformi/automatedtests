@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancel</name>
+   <tag></tag>
+   <elementGuidId>32abd81e-1a8a-4f9a-864d-aa463583a68f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-modal-footer > button.ant-btn.ant-btn-default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[30]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67971913-b796-4b2d-8972-5a65c25c1517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>63f06d47-1d09-4332-b493-082d795198a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default</value>
+      <webElementGuid>c7ad2bcf-3d08-457a-a45a-caca2870ba0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>fe485346-1047-41e1-8ce1-c3621c2105b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[7]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap img-crop-modal&quot;]/div[@class=&quot;ant-modal&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-footer&quot;]/button[@class=&quot;ant-btn ant-btn-default&quot;]</value>
+      <webElementGuid>765bde68-a8c2-4d79-b09d-148994bc4900</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[30]</value>
+      <webElementGuid>e3a89325-93c1-4a16-8397-0b2781132c27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='＋'])[1]/following::button[1]</value>
+      <webElementGuid>2aac7d59-9d3d-495d-be3d-c8e201c2bcf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='－'])[1]/following::button[2]</value>
+      <webElementGuid>9a96d349-9413-4b18-a221-dd6149608e70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::button[1]</value>
+      <webElementGuid>c6542e82-26b7-40f9-8872-05b339f4cbdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button</value>
+      <webElementGuid>06defeaf-31e0-4a26-afe0-73adfb130f0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>2c96f1c4-ca01-42bc-b4e1-56be0c621362</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

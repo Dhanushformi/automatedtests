@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Register (1)</name>
+   <tag></tag>
+   <elementGuidId>076f51e5-327a-4c28-b467-c5e388251e9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default.public-navbar_register__D1PDZ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>65b48ef1-1105-4ceb-bdb3-597ae25b0865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1fa2fff8-b202-4d9a-9cba-d82808afd54b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn ant-btn-default public-navbar_register__D1PDZ</value>
+      <webElementGuid>cf7620fa-934c-4847-be05-68d4be4e5d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register</value>
+      <webElementGuid>662fa98f-4470-45c0-83f1-3f074e303446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;ant-row public-navbar_navbar__eJzUB&quot;]/div[@class=&quot;public-navbar_right__RulW5&quot;]/div[@class=&quot;public-navbar_expanded__UhJ8Y&quot;]/a[2]/button[@class=&quot;ant-btn ant-btn-default public-navbar_register__D1PDZ&quot;]</value>
+      <webElementGuid>249f2e09-21d2-4a81-92d8-bb50cc6d71e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>f2b21216-2e2d-4af6-96d9-2ba222a4c645</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div/div[2]/div[2]/div/a[2]/button</value>
+      <webElementGuid>b5939504-3208-4f6d-afc8-b25d06b38539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::button[1]</value>
+      <webElementGuid>b2613399-a6c1-443b-a977-0c6a533d230a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='login'])[1]/preceding::button[1]</value>
+      <webElementGuid>33df709c-528a-4853-944e-a480a752de95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/button</value>
+      <webElementGuid>f3f0a025-ccc6-4cdd-bf98-bd45e7306680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Register' or . = 'Register')]</value>
+      <webElementGuid>c3e04880-4be4-4f54-a264-c0476b2c38f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

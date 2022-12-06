@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>date-class</name>
+   <tag></tag>
+   <elementGuidId>d12fcd98-930f-4678-82ba-50c6adcd5c76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html[1]/body[1]/div[6]/div[1]/div[@class=&quot;ant-picker-dropdown ant-picker-dropdown-placement-topLeft&quot;]/div[@class=&quot;ant-picker-panel-container&quot;]/div[@class=&quot;ant-picker-panel&quot;]/div[@class=&quot;ant-picker-date-panel&quot;]/div[@class=&quot;ant-picker-body&quot;]/table[@class=&quot;ant-picker-content&quot;]/tbody[1]/tr[4]/td[@class=&quot;ant-picker-cell ant-picker-cell-in-view&quot;]/div[@class=&quot;ant-picker-cell-inner&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[25]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf467cb7-b403-4fdf-b0d3-1f2a7250773f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-picker-cell-inner</value>
+      <webElementGuid>1748a8aa-ed8c-4b94-9add-3ec24f1dd2ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21</value>
+      <webElementGuid>2f5ab21b-af6b-4f48-a4ce-becadb01fd39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[1]/div[@class=&quot;ant-picker-dropdown ant-picker-dropdown-placement-topLeft&quot;]/div[@class=&quot;ant-picker-panel-container&quot;]/div[@class=&quot;ant-picker-panel&quot;]/div[@class=&quot;ant-picker-date-panel&quot;]/div[@class=&quot;ant-picker-body&quot;]/table[@class=&quot;ant-picker-content&quot;]/tbody[1]/tr[4]/td[@class=&quot;ant-picker-cell ant-picker-cell-in-view&quot;]/div[@class=&quot;ant-picker-cell-inner&quot;]</value>
+      <webElementGuid>9c795524-6bd5-4d50-ae37-7e5f758e5f8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sa'])[1]/following::div[25]</value>
+      <webElementGuid>f2604d11-ee36-42c7-b8f0-0cf04b6b6a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fr'])[1]/following::div[25]</value>
+      <webElementGuid>cdecea12-f9ee-4814-8fab-2f8c0c68397a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/preceding::div[18]</value>
+      <webElementGuid>433a48af-b608-443a-827c-6d53548c83a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='21']/parent::*</value>
+      <webElementGuid>3778a8c0-b483-4c35-bf3c-d33e1caa0720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[4]/div</value>
+      <webElementGuid>7286b1e8-79cd-4884-a3c0-4e7ff3889430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '21' or . = '21')]</value>
+      <webElementGuid>d1e69904-dcf9-4704-9090-d8e762f2bd53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
