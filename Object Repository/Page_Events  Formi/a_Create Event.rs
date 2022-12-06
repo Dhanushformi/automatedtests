@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Create Event</name>
    <tag></tag>
-   <elementGuidId>9e1ba72a-5261-403b-9130-069ebe6b7469</elementGuidId>
+   <elementGuidId>853015a6-b41e-406b-b677-8b64776a9c8e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>699d1225-f349-406f-807a-69a15693d1a8</webElementGuid>
+      <webElementGuid>a3294392-519a-4285-afc7-f334d96cf77a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/dashboard/list-event</value>
-      <webElementGuid>8bc0f1c4-b9cc-4bcb-88f6-f289e381443a</webElementGuid>
+      <webElementGuid>7382a49a-18a5-4504-9d52-988448d0fefa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Create Event</value>
-      <webElementGuid>0f2e68a0-58e4-456a-933a-a2b712720a1a</webElementGuid>
+      <webElementGuid>08704098-7403-40a9-adfa-12cc6e7dcfae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,935 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
-      <webElementGuid>8fe27fd4-b267-42ae-9789-29f61132066d</webElementGuid>
+      <webElementGuid>a862998b-4f80-400c-9270-d604d85b2954</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a9e45ddb-0324-42f2-9217-70ca8a14c08d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>4138138b-a4e1-4e62-b8aa-fe50c1db8cb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>52c5b03b-7449-4b4d-8ac2-35e231248c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>0359fce1-2148-4509-a6c5-404ce3db9ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>88906f5b-4897-4ac7-b75a-9f9e94b4e6ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>5308cca0-0a6d-4eed-985e-d8fb82ce0499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>67ea293a-91c6-4608-9d26-b1ae0f9db773</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>b60b5ba3-f798-4724-897f-362f5d55b3da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b1aa53a2-ef9d-4c9a-a40d-d6e3e0e9a493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>23791011-bc4f-41e8-abcc-b3628495326c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>577ad93a-42fa-494d-9d5b-140ee9429527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>252ed805-ade9-4ea0-bd2f-0e5c6a33d128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>92c171ab-3131-4dfc-b13b-10bb1647411a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>4e6fbc62-be03-475d-a7e0-0010865d8e2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>9e39688a-3645-44d9-a20c-68a577274197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>3a508d9a-70c4-49cd-8abb-aac5fc8b3504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6efa5ef7-6698-4933-b66b-cea065a82e13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>4bb6a282-4ffb-4f7e-baad-0a9df3cf60c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>17bd2567-e039-4fe5-8c17-a8899ed9b20f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>fce65a7a-57aa-4c46-9f42-cba98dfd8de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0b1b2287-d477-4f86-93ed-533aea108f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>7c6d4729-2174-4cfb-a55d-c31ad67f1958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>22788530-e08a-4d56-b95d-9a6f0fd04429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>f02f4f81-5735-473f-a9d1-344e314615d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9c480193-ca93-4238-bd71-ebaf0cccd39c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>cae7556d-7ca5-4324-821a-ced38a94086c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>6303da9b-c75d-4592-b01d-b83bfb71cd3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>756e6f13-d95a-43a7-b9f4-efa27b7dc2f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>538cb3b3-5ee5-465c-9344-7319b06b930e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>6699ea0a-175a-4d28-ad26-1471e7a63bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>d084ccb1-494e-4b6c-94d0-abd37460bad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>e8a0958f-ca90-49e0-b449-25a4a83a9603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5781081e-719b-4af2-9e71-cb09db291413</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>7a63341a-0459-4d11-b4f2-9563ad7006f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>ff743882-4d4d-4902-977c-2070907114c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>6aceefa7-6495-4c12-a29d-7c8bdc866a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ac4fe8d4-a1b3-447e-b75c-6975dd0a5244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>23d219a3-54d2-41ce-8a73-5c856ad46884</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>706d8769-2378-4ac0-af2d-1159eaaabed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>aa9ee5f3-3f76-4fc4-9960-8b4748b1897d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ea116eb0-047f-4604-964b-41eebf39c592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>3954696d-2b9c-4bff-a373-421649b0dec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>4143d8b2-6abb-46fd-8b7b-dcb2a6e7f57f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>27d73610-e224-4fba-9786-c9b0460347a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7a9388c4-36e3-4af5-9932-4d41e30da5ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>1e0db9b8-32c2-4196-b78a-5541f519d6d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>36f5906b-3867-4650-b519-e4e358b5fa8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>e785f097-0412-4119-bc24-f1259a5141ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27f3623e-a12e-4712-92c4-beb4f5fb9f7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>e3cb438e-8701-46bc-a0fc-41e868521da5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>17938f80-e5fd-4bba-b601-b5a8108c3873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>10cd4281-2f14-4452-abc1-466e604aba65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9db37d80-2d48-42a3-8da1-78fb08a91c92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>f2beb24f-9303-47e5-b435-f30664dee580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>1ba4b806-cd0f-4f2b-89ec-55bfb7dbacd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>86a287e9-7b1f-4352-ade9-13620b59839d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ed8723e2-61d2-4e12-9e48-2ed965327bf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>0f609b8a-e550-4684-a8cf-e04e398449af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>e31fbb27-c11e-4661-ad22-0ce189f1aadd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>1f28cc7e-ecd7-4834-a6ec-653b2312e2cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1390183d-a8f0-423a-ad3b-f3ad2ac354e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>3bd1e8e8-4f0d-4508-bac0-5bda259a88df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>4ad1e0c1-d4c1-4077-bad7-c8d4851063cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>f3498dcf-4708-4b84-ac72-1bb4d4e75eb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fcf91324-cdde-4c18-954d-60498d5f726f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>b4eb69b5-cd37-47b0-ba94-cb5fcef5e5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>017915e0-b571-4240-8c07-42d0a3ec98cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>90561c13-0505-4e0f-abae-bfb69b5f4f6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>206f5dd0-b80b-4ea6-8413-435a4e799a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>e2ca8902-72f7-4f3a-ac92-886513a096e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>eca8581e-a676-4138-927b-a73a1c330334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>37952f58-c1bc-4c3b-8999-8f9442ccae37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75d09ed2-fe28-4855-a73d-447eff983c6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>649969e4-f46c-443b-98fa-5b09adb0ec3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>ca8916e3-0f3b-4c52-91ce-048c16340ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>cc76cbc8-f077-4a0e-9dea-4da760f60281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0c7db159-314d-4561-b1f6-7438fadf2679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>93dd6438-f437-46ee-b45c-8bffde81a4d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>b3f8cc71-d0f9-4e79-bca7-5898b717b83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>f2b26a4b-ae92-4c24-9225-0726e8746798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b707b4da-9f63-4099-a73f-7039661e4ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>51d33ab8-f506-45d1-a4a7-0bb0dc02ff65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>5056cf1c-cc42-4c92-8bf9-9397160ebacf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>243fb8d9-5c07-42f0-ba33-bd149158697c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>e1153c01-a2cf-4733-9cc1-3acdc8c48a27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>eee22ce1-065f-4a2f-938a-1086dda7120e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>a10ce780-6af7-409f-b1e8-904ec5f9bf60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>34cdf01b-cf45-498a-b7fc-f58843f007ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f80f3dd1-da50-41b7-9a53-834385e583e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>6189e454-5910-4652-80de-bcd99fe0d775</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>b0e0ade4-68f7-40b4-8b74-90bc224738ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>d9ef9ea5-bb82-4110-ab77-897e94fa9b05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>573cc49b-410e-49b2-8273-a56f95a3c162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>f0f3fc86-437e-4500-babe-bd649bce7dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>c053742c-9476-4ae9-bc7f-216a6a2f5da3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>a1874351-e39c-46e8-8e50-a437602f0f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8cf5236e-2900-4a58-b644-824e96ecd91e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>c5ab8d91-a0fc-4f8f-bfe4-3883cc47b17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>ee3add5e-c578-40fb-a295-6561ff9e4d5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>f9a27869-cccd-4fa7-b734-bbdf06ea7302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ea24029e-b94f-47ea-9d3a-e698539483a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>3b6c98b1-e29e-4a40-a1ac-6add5ba9a24b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>a4020923-e7ea-4efa-b779-5a2174542479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>e5f2dfb9-9461-4808-9e03-0235215bfb39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dcd33143-f116-4171-b4cf-f6c3fa2f1323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>604d476b-96cd-4789-98f0-d5724220938f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>a9427809-1606-43bc-ada0-a947e748a701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>adc489e9-7046-4be6-bc13-bb1f1b4ec929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3da7d55d-b1e7-4beb-8261-d52eac0315d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>28fc3b9f-074f-45ab-b9c2-f8d08d8cc4b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>6fccb6c4-ab8b-4353-91d5-ddbda4f9692c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>d89e18ac-d754-46a2-99fd-33ef71062e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4e9668ad-cda1-4c70-b041-1b6580780b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/dashboard/list-event</value>
+      <webElementGuid>8ebe4e8a-81f9-4915-944d-3f6bc8d8fb23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Event</value>
+      <webElementGuid>f5f2d2e5-4724-4519-a1cb-3af7cc564d5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[2]/div[@class=&quot;ant-row&quot;]/button[@class=&quot;ant-btn ant-btn-default button_pink__Yhdb2 button_xs__11cYZ events_button__eFpE7 shadow-wrapper_xs__OySnx&quot;]/a[1]</value>
+      <webElementGuid>64632bd1-084c-4909-b44c-5ac9867d14f5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +982,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div[3]/div/div[2]/div/button/a</value>
-      <webElementGuid>d948e6e5-654a-480c-a156-f229ddfae66a</webElementGuid>
+      <webElementGuid>6d8a1bf1-b61a-46a9-946e-37a46bc9f8d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +990,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Create Event')]</value>
-      <webElementGuid>7d78fcb2-85e6-4bda-bfab-996a1ab762d6</webElementGuid>
+      <webElementGuid>62892ee5-9201-475f-b328-f6e1640b8ad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +998,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Track, manage and automate payments of your team members.'])[1]/following::a[1]</value>
-      <webElementGuid>2c1559e8-00d0-4cec-9ba9-7648a91ebff7</webElementGuid>
+      <webElementGuid>c411a9d9-b42d-4d9b-a6e5-99912ea5b421</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +1006,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to Organizer Dashboard'])[1]/following::a[1]</value>
-      <webElementGuid>9239d555-a545-4f7e-8f9a-1865a2931093</webElementGuid>
+      <webElementGuid>11307abf-7085-4dba-8795-de4ab3d03b0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +1014,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify Code'])[1]/preceding::a[1]</value>
-      <webElementGuid>3bca2f5c-396c-421e-bebe-93ff263004f1</webElementGuid>
+      <webElementGuid>5b59597a-709c-479f-9795-5d276e7426d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +1022,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Invite Member'])[1]/preceding::a[1]</value>
-      <webElementGuid>69e34564-9246-42f2-ad06-82a4336a44fc</webElementGuid>
+      <webElementGuid>850b302e-b1d5-44d9-be47-cf3ae154822a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +1030,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Create Event']/parent::*</value>
-      <webElementGuid>631dd5ff-3a9a-4986-ab34-b1170da1f7ce</webElementGuid>
+      <webElementGuid>3bf8c49b-fb62-4f08-a7af-4eacb8a4acf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +1038,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/dashboard/list-event')]</value>
-      <webElementGuid>73dc603e-2247-4193-9ebe-c9ef7e2cc367</webElementGuid>
+      <webElementGuid>a661bdc0-2c7f-4993-bae7-fe5d42930ea2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +1046,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/a</value>
-      <webElementGuid>0ef60463-b500-4904-8b76-8f7b4af4f0d7</webElementGuid>
+      <webElementGuid>20c090ac-de42-4579-84fc-86a17d98d0c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +1054,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/dashboard/list-event' and (text() = ' Create Event' or . = ' Create Event')]</value>
-      <webElementGuid>c704a6b2-9e92-40c2-9f3c-d04336f846df</webElementGuid>
+      <webElementGuid>6d521f0c-1492-47be-8c1a-9f91a8d3efa9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

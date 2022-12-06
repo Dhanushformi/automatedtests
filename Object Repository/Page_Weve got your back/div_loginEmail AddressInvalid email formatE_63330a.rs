@@ -3,15 +3,15 @@
    <description></description>
    <name>div_loginEmail AddressInvalid email formatE_63330a</name>
    <tag></tag>
-   <elementGuidId>90a9cf10-035c-44fc-9018-37cc017cac9b</elementGuidId>
+   <elementGuidId>329154b1-336f-496e-aac3-209b7e6df51e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>div.login_step1__wZL6p</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='__next']/form/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login_step1__wZL6p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>03fe34f3-8e94-480e-b4dc-d3d731bb3e55</webElementGuid>
+      <webElementGuid>5d8283f7-c920-447b-8a54-1c2db9353e48</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>login_step1__wZL6p</value>
-      <webElementGuid>04b19416-8923-44e4-bc57-694aea8db347</webElementGuid>
+      <webElementGuid>f2649d08-9573-4e09-8e91-44b82d0d4ce9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>loginEmail AddressInvalid email format!Enter PasswordOR</value>
-      <webElementGuid>9c5d231e-2aa5-45ee-a773-16b7d5c3afd3</webElementGuid>
+      <webElementGuid>1bcaee2d-2e81-4e39-b5c0-b5745fcbefc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;login_wrapper__GYPsU&quot;]/div[@class=&quot;login_modal__lNFbn&quot;]/div[@class=&quot;login_main_wrapper__6oBhw&quot;]/div[@class=&quot;login_step1__wZL6p&quot;]</value>
-      <webElementGuid>fb158f6a-1222-4729-8c4a-6d24517b6eda</webElementGuid>
+      <webElementGuid>f913833b-73f3-4386-aaf0-142669f551c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/form/div/div[3]/div/div/div</value>
-      <webElementGuid>66178111-7108-4b89-a92a-2d4457862b54</webElementGuid>
+      <webElementGuid>64201c90-957b-4f98-982f-a7724f157708</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::div[5]</value>
-      <webElementGuid>19acb446-e37d-45a5-b216-b419214da2fc</webElementGuid>
+      <webElementGuid>99e2e476-b74d-4796-a5f4-79f5ab0c9ef5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[5]</value>
-      <webElementGuid>9732d7f8-2e26-4e83-a173-6c198e5cd72c</webElementGuid>
+      <webElementGuid>d62b3dfc-7137-4d63-ab63-fc8873b99bad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div</value>
-      <webElementGuid>52c5bf2c-c46f-4de1-932e-d4de8016c16e</webElementGuid>
+      <webElementGuid>d94de5db-c1d2-42cd-b581-1ab1f9df1017</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'loginEmail AddressInvalid email format!Enter PasswordOR' or . = 'loginEmail AddressInvalid email format!Enter PasswordOR')]</value>
-      <webElementGuid>4ea9cb63-17f2-42e0-a4db-f19d4a440a85</webElementGuid>
+      <webElementGuid>a6bc8009-cb92-4823-a4f7-0f34dbcc65c4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

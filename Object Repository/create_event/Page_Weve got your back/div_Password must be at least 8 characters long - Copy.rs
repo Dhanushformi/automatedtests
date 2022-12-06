@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password must be at least 8 characters long - Copy</name>
+   <tag></tag>
+   <elementGuidId>30c896d3-8e19-4749-b060-29961f85f048</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-form-item-explain-error</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div/div[3]/div/div/div/div[3]/div/div[4]/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3b9fafda-e774-4469-b961-ef6bcf3ff036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>03732d94-90e7-49f9-9bd5-18f9e5f4654c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-form-item-explain-error</value>
+      <webElementGuid>4cec3fc0-8595-446d-bd09-3e58826e6e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password must be at least 8 characters long!</value>
+      <webElementGuid>fcf86bfb-93eb-4a99-92f4-30142c8993c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]/div[@class=&quot;login_wrapper__GYPsU&quot;]/div[@class=&quot;login_modal__lNFbn&quot;]/div[@class=&quot;login_main_wrapper__6oBhw&quot;]/div[@class=&quot;login_step1__wZL6p&quot;]/div[@class=&quot;login_signup_form__ulZTr&quot;]/div[1]/div[@class=&quot;ant-form-item ant-form-item-with-help login_item__ZYHBG ant-form-item-has-error&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[2]/div[@class=&quot;ant-form-item-explain ant-form-item-explain-connected&quot;]/div[@class=&quot;ant-form-item-explain-error&quot;]</value>
+      <webElementGuid>a64ee5d2-ef99-45a7-b0d7-97a87e65ea13</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div/div[3]/div/div/div/div[3]/div/div[4]/div/div/div[2]/div/div</value>
+      <webElementGuid>32db093f-cf71-41ec-9dbe-7c26fae8d08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter Password'])[1]/following::div[8]</value>
+      <webElementGuid>70f90962-c29d-4a74-9dc6-a502f9a371b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address'])[1]/following::div[14]</value>
+      <webElementGuid>4199fbff-e6c7-46d8-bd6c-e96c3f8d7648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password must contain at least one uppercase letter, one lowercase letter, and one number!'])[1]/preceding::div[1]</value>
+      <webElementGuid>c3784fc9-f50f-40ac-a37c-693e40839d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OR'])[1]/preceding::div[5]</value>
+      <webElementGuid>43f0f8b6-300f-41a7-a4e2-b969e6dff43f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password must be at least 8 characters long!']/parent::*</value>
+      <webElementGuid>124a5cde-d648-48e3-9955-d301003f8c94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div</value>
+      <webElementGuid>78052618-b161-4715-8e47-187ae68513a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Password must be at least 8 characters long!' or . = 'Password must be at least 8 characters long!')]</value>
+      <webElementGuid>709f026f-0e8f-4161-87b9-47b2a6cb024d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

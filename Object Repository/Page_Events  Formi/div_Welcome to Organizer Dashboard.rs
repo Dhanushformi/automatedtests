@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Welcome to Organizer Dashboard</name>
+   <tag></tag>
+   <elementGuidId>7d1dd7c1-d3bf-48fa-b976-59975ccf139d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.organizer-dashboard_heading__Se9HM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b1cf00e-6dcf-4d3e-beef-f155200a2cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>organizer-dashboard_heading__Se9HM</value>
+      <webElementGuid>6b5699e9-84b0-4daf-99fa-a2a7165e7bb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to Organizer Dashboard</value>
+      <webElementGuid>80b54572-a0d0-40fb-beac-d79e70b3efb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[@class=&quot;organizer-dashboard_top__3CfWU&quot;]/div[1]/div[@class=&quot;organizer-dashboard_heading__Se9HM&quot;]</value>
+      <webElementGuid>663f1f2e-059c-4a81-912e-3ab05ebf23a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div/div/div</value>
+      <webElementGuid>059e9a0b-5f0f-46e2-bc83-f846c79ecba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blogs'])[1]/following::div[4]</value>
+      <webElementGuid>ec2c22d3-0276-435a-b0b0-854f8c73759f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Events'])[1]/following::div[5]</value>
+      <webElementGuid>3dafc326-ca3e-403e-b63a-7137c7c27388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Track, manage and automate payments of your team members.'])[1]/preceding::div[1]</value>
+      <webElementGuid>cf05f936-853f-46cb-a04e-35882aeec831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Event'])[1]/preceding::div[2]</value>
+      <webElementGuid>77eed1e4-0468-4e8b-b411-df6feeac13f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to Organizer Dashboard']/parent::*</value>
+      <webElementGuid>dc0825e3-2ba6-4bcb-a9d7-cac9548c3c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>ac520c3e-29f6-4436-b80b-e18ba9b143e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Welcome to Organizer Dashboard' or . = 'Welcome to Organizer Dashboard')]</value>
+      <webElementGuid>8a2a31aa-b208-41f1-83dd-57017200b27f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
