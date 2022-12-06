@@ -6,12 +6,11 @@
    <elementGuidId>ad1f5f9e-59c4-4c89-96bb-f8efcc978baf</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//iframe[@id='google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>cf74a3ed-37b7-45d8-8cee-e87a6623e831</webElementGuid>
+      <webElementGuid>7975fa27-2608-4d39-8cdb-5ea7c93200e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +29,15 @@
       <name>frameborder</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>66d61e2d-f4f6-4bcd-bf5b-378a05882f64</webElementGuid>
+      <webElementGuid>715346ad-f167-4775-b7ab-d712e98635c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://bb9d51d4fc400cc975aa9073816e8288.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html</value>
-      <webElementGuid>9f944892-a597-46e1-9c7f-5fbed3d06ee2</webElementGuid>
+      <value>https://981e191895445e6ae360bb656f76fe73.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html</value>
+      <webElementGuid>425d7b11-5c8c-4be8-b471-90a9bcd6583f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0</value>
-      <webElementGuid>1708a5f6-e019-4d67-8959-ff573015c825</webElementGuid>
+      <webElementGuid>df355977-f72f-4a2c-bab4-ce4848745e0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>title</name>
       <type>Main</type>
       <value>3rd party ad content</value>
-      <webElementGuid>e606e135-3412-4c48-a602-6822bc1f8c61</webElementGuid>
+      <webElementGuid>1eaa5490-4cdf-45b3-96ce-a5be7e0e3e8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>scrolling</name>
       <type>Main</type>
       <value>no</value>
-      <webElementGuid>ebeb8fd2-af64-43ce-8ead-ca6b79ff67ab</webElementGuid>
+      <webElementGuid>24692335-9b17-4231-8843-022b37f8a62e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>marginwidth</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c5d2d574-ef4a-4afa-881a-f7600a58aefc</webElementGuid>
+      <webElementGuid>4a919e7e-f735-45e8-8d85-42ecf83fcadf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>marginheight</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c4982baf-1f8f-4ca3-a031-939d2e1e9823</webElementGuid>
+      <webElementGuid>0315d427-e38a-45bb-82ec-7de72f9eb428</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>data-is-safeframe</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0ebbf0d5-daf9-447f-9832-3d2ae3acf1f9</webElementGuid>
+      <webElementGuid>c6fc80f5-7aa1-4167-b361-2497278a08d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>sandbox</name>
       <type>Main</type>
       <value>allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation</value>
-      <webElementGuid>645b6b38-919c-444a-8a6e-dfc801701730</webElementGuid>
+      <webElementGuid>321b57ec-db70-4084-8701-16806cfe55ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>allow</name>
       <type>Main</type>
       <value>autoplay</value>
-      <webElementGuid>fd37f887-b7a6-47d5-a61b-ea9ca51dc2e2</webElementGuid>
+      <webElementGuid>e75a45bc-cd5d-4e76-a0ff-21b8fcaf807b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>role</name>
       <type>Main</type>
       <value>region</value>
-      <webElementGuid>4c361d5c-612b-4097-82b0-d518911243fc</webElementGuid>
+      <webElementGuid>7d4758be-0a2d-4d8b-a5d5-9d2a16bb06c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,7 +117,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Advertisement</value>
-      <webElementGuid>2bbdc7ab-0848-4a0b-af61-58819c16429f</webElementGuid>
+      <webElementGuid>a702d367-82ff-4cbd-a5b7-7c8a47a7bd54</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -126,7 +125,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>40da796c-350f-49e7-9d6c-59b8105eb936</webElementGuid>
+      <webElementGuid>7d0e1520-cb6f-4db1-82eb-a05e3a984c5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +133,7 @@
       <name>data-google-container-id</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>d78c5521-d2a4-4698-995f-fd188cdcaa3a</webElementGuid>
+      <webElementGuid>23246af6-56e4-47e7-8cfe-c149b29ef00c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -142,7 +141,7 @@
       <name>data-load-complete</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>74132912-1f18-41af-8052-2720673a6b53</webElementGuid>
+      <webElementGuid>c40a10ba-821c-4e34-903f-c3a11cb25167</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -150,143 +149,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0&quot;)</value>
-      <webElementGuid>73992bd5-9d57-4f0d-b4ec-123f6bfa3da4</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tag</name>
-      <type>Main</type>
-      <value>iframe</value>
-      <webElementGuid>78582f48-233b-46f2-b9a9-78d9def2df90</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>frameborder</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>8e064a64-f406-4747-b942-e5292294c34c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>src</name>
-      <type>Main</type>
-      <value>https://4ecaa7ce56e049af08389b9ff9b25647.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html</value>
-      <webElementGuid>9ebd15e1-e1ce-4ba1-a75a-69d18bc0f0ef</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0</value>
-      <webElementGuid>a724f5b6-21f9-49cb-b841-84941918acce</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>title</name>
-      <type>Main</type>
-      <value>3rd party ad content</value>
-      <webElementGuid>3818a06d-06b6-47d4-a794-cce961557daf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>scrolling</name>
-      <type>Main</type>
-      <value>no</value>
-      <webElementGuid>129ee7a9-7547-4637-bff6-31a6be6c0f28</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>marginwidth</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>4817a93d-4454-45ec-abb7-0b250cccf2bb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>marginheight</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>34cda25f-1f12-4a94-8aeb-22172b8c8c88</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-is-safeframe</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>658bd8fb-57f8-4a0b-b999-d21f52605c69</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>sandbox</name>
-      <type>Main</type>
-      <value>allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation</value>
-      <webElementGuid>506b6896-a056-4f7c-9806-2db8beafdb95</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>allow</name>
-      <type>Main</type>
-      <value>autoplay</value>
-      <webElementGuid>5081fcab-cf35-40f3-bf0a-3f4f91d269d1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>role</name>
-      <type>Main</type>
-      <value>region</value>
-      <webElementGuid>153ce612-ff65-451e-bc27-9ae388eb9c3e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-label</name>
-      <type>Main</type>
-      <value>Advertisement</value>
-      <webElementGuid>e1f126a2-eb87-490c-82f7-a66fa5f03e19</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>adcf1e53-cb03-4448-92e1-1f643505c6b7</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-google-container-id</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>84fec581-2710-4137-8925-8a5089ef6ebc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-load-complete</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>3a9db35f-68f4-42fb-a28a-1d5b3d04f850</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath</name>
-      <type>Main</type>
-      <value>id(&quot;google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0&quot;)</value>
-      <webElementGuid>e2a36a51-f237-4ca1-a6ed-37c73b9265c3</webElementGuid>
+      <webElementGuid>70b13c7f-822f-4e65-b4ba-4bc671f74f1b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -294,7 +157,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0']</value>
-      <webElementGuid>1e5ce8c3-81aa-4b08-a9f8-57e1a6fbd9e0</webElementGuid>
+      <webElementGuid>9eec9694-e827-4f5e-a041-d6b093e6ed84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -302,7 +165,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0__container__']/iframe</value>
-      <webElementGuid>b4586286-0869-450c-976e-496f2ae74a57</webElementGuid>
+      <webElementGuid>7e12e2d1-67f3-45a5-98cb-e866e88a0175</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -310,22 +173,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//ins/div/iframe</value>
-      <webElementGuid>130e2532-cbbb-49f6-a281-c3c7aee8ef39</webElementGuid>
+      <webElementGuid>c58338db-dce4-4e07-b26a-f4785056bc20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//iframe[@src = 'https://bb9d51d4fc400cc975aa9073816e8288.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html' and @id = 'google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0' and @title = '3rd party ad content']</value>
-      <webElementGuid>d060f59c-8e2e-4f27-a22a-1e9e1298ef58</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//iframe[@src = 'https://4ecaa7ce56e049af08389b9ff9b25647.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html' and @id = 'google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0' and @title = '3rd party ad content']</value>
-      <webElementGuid>526cee4d-2671-4285-9a5c-ab9b78d5a7bb</webElementGuid>
+      <value>//iframe[@src = 'https://981e191895445e6ae360bb656f76fe73.safeframe.googlesyndication.com/safeframe/1-0-40/html/container.html' and @id = 'google_ads_iframe_/15184186,22758166583/mail.tm_interstitial_0' and @title = '3rd party ad content']</value>
+      <webElementGuid>d842b823-807d-436d-8ad6-02486a290c14</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
