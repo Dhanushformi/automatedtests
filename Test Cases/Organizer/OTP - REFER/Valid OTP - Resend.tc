@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Valid OTP - Resend</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>01565492-abe3-443c-939a-a16f6dd6c073</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Artist Name_name</name>
+   <tag></tag>
+   <elementGuidId>1d182982-21ac-48b9-8627-69988086ba34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.ant-form.ant-form-vertical.modal-form_form__C7Kyx > div.ant-form-item.list-event_item__1IcQa > div.ant-row.ant-form-item-row > div.ant-col.ant-form-item-control > div.ant-form-item-control-input > div.ant-form-item-control-input-content > #name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='name'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>d7286216-44af-4097-8515-5679c03cf5ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter artist name</value>
+      <webElementGuid>ada7da94-fa4d-41d1-97c3-f4e11c0a4712</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>e2a10216-65a6-4a3c-a443-f01e38952546</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input</value>
+      <webElementGuid>e4d23e04-e132-4328-97d1-ccd391a66128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c8650e78-3b93-42fc-82b8-14b88862d332</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[6]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal white-modal_modalcontainer__rk6Ls&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;modal-form_modal__66Zog&quot;]/form[@class=&quot;ant-form ant-form-vertical modal-form_form__C7Kyx&quot;]/div[@class=&quot;ant-form-item list-event_item__1IcQa&quot;]/div[@class=&quot;ant-row ant-form-item-row&quot;]/div[@class=&quot;ant-col ant-form-item-control&quot;]/div[@class=&quot;ant-form-item-control-input&quot;]/div[@class=&quot;ant-form-item-control-input-content&quot;]/input[@id=&quot;name&quot;]</value>
+      <webElementGuid>0cf3041f-c2aa-46fc-84d8-71c409373dde</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='name'])[2]</value>
+      <webElementGuid>d55f26cc-d357-4dbf-98b7-0fe835584007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]/div/div/input</value>
+      <webElementGuid>2cd61033-e0c4-4097-ad11-9acd64d0aea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Enter artist name' and @id = 'name' and @type = 'text']</value>
+      <webElementGuid>3986c4b3-770c-4a67-85e4-94f12af97f85</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Copy Link (3)</name>
+   <tag></tag>
+   <elementGuidId>294844cb-9698-4ac0-b298-a60293275c30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div[2]/div[3]/div[5]/div[2]/div[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b51839be-5e09-4294-8225-be84e9d5b699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>events_partner__G9U2w</value>
+      <webElementGuid>ef233078-6caf-48ff-a913-7d1278853a95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy Link</value>
+      <webElementGuid>07288a7c-8b26-4446-96a3-c106eedc432c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;ant-row organizer-dashboard_dashboard__zwPV_&quot;]/div[@class=&quot;ant-col ant-col-24 organizer-dashboard_rightside__9SYiZ&quot;]/div[@class=&quot;organizer-dashboard_mainSection__y7Jve&quot;]/div[2]/div[@class=&quot;ant-row events_table__T_e2y&quot;]/div[@class=&quot;ant-row ant-row-space-between events_eventcard__2kvyw&quot;]/div[@class=&quot;ant-col ant-col-16 events_content__bjjOy&quot;]/div[@class=&quot;events_copylink__4bO7Y&quot;]/span[@class=&quot;events_partner__G9U2w&quot;]</value>
+      <webElementGuid>f8297dbd-38b1-42e2-b0b0-7eb6ccd7e431</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div[2]/div[3]/div[5]/div[2]/div[4]/span</value>
+      <webElementGuid>91eb86c0-196d-4a4f-8bbd-d43dc65f2db9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sutra'])[1]/following::span[1]</value>
+      <webElementGuid>e7684ab5-6ac0-4167-85d9-be9a1415ab69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go To Dashboard'])[5]/preceding::span[1]</value>
+      <webElementGuid>a54e7cbf-d08a-4a5d-a8c8-463314a74c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div[4]/span</value>
+      <webElementGuid>a863a084-cb35-43ad-913b-93c899f103e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Copy Link' or . = 'Copy Link')]</value>
+      <webElementGuid>64bf30f8-7d36-431d-b1f7-d6132a0fb68b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginRegisterloginEmail AddressInvalid _def061</name>
+   <tag></tag>
+   <elementGuidId>b0360cf4-51e9-4d2c-8000-9f559839c621</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.login_register__9PVhU</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5cf02dd2-074f-4be8-818d-902650581f41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>login_register__9PVhU</value>
+      <webElementGuid>0559262a-7342-41a6-b8fe-2ab55664b8db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginRegisterloginEmail AddressInvalid email format!Enter PasswordORSubmit</value>
+      <webElementGuid>af1d652e-e893-4b4f-9e4c-25947b8b188d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;login_register__9PVhU&quot;]</value>
+      <webElementGuid>779141f5-8e88-4254-b10f-b574744fff7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div</value>
+      <webElementGuid>658171bd-e6ea-4614-8a44-b14d8fbb4f1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>f10a7f7d-61b9-4edf-bd7e-199cb9f763e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'LoginRegisterloginEmail AddressInvalid email format!Enter PasswordORSubmit' or . = 'LoginRegisterloginEmail AddressInvalid email format!Enter PasswordORSubmit')]</value>
+      <webElementGuid>23686a8e-c349-412e-8be2-fdfaf84e2459</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

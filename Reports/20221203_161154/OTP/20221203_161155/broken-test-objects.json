@@ -1,0 +1,94 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Weve got your back/button_Register (1)",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Weve got your back/button_Register (1)_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Verify your account - Temp Mail/cookies cross",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "svg.cookie-warning__close-icon.icon.sprite-icons \u003e use",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Verify your account - Temp Mail/cookies cross_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_1 new message - Temp Mail/Mail open",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027__layout\u0027]/div/aside/div/div[2]/div/div/ul/li/div[5]/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_1 new message - Temp Mail/Mail open_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Verify your account - Temp Mail/otp1",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "td.column.column-2 \u003e table.heading_block.block-2 \u003e tbody \u003e tr \u003e td.pad \u003e h1",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Verify your account - Temp Mail/otp1_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Verify your account - Temp Mail/otp2",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027__layout\u0027]/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[3]/table/tbody/tr/td/h1",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Verify your account - Temp Mail/otp2_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Verify your account - Temp Mail/otp3",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027__layout\u0027]/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[4]/table/tbody/tr/td/h1",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Verify your account - Temp Mail/otp3_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Verify your account - Temp Mail/otp4",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027__layout\u0027]/div/main/div/div/div/div/article/div/div[3]/span/table/tbody/tr/td/table[2]/tbody/tr/td/table/tbody/tr/td[5]/table/tbody/tr/td/h1",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Verify your account - Temp Mail/otp4_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sign-up to get the Formi dashboard/otp enter",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//input[@value\u003d\u0027\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Sign-up to get the Formi dashboard/otp enter_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(//button[@type\u003d\u0027button\u0027])[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Sign-up to get the Formi dashboard/button_Verify (1)_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Sign-up to get the Formi dashboard/error message",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Next\u0027])[1]/following::div[6]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20221203_161154/OTP/20221203_161155/Object Repository/Page_Sign-up to get the Formi dashboard/error message_XPATH.png"
+    }
+  ]
+}

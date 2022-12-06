@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>T and C</name>
+   <tag></tag>
+   <elementGuidId>f4e3856b-dd71-44ef-81c6-42982ef2dbf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.register_content2__N9UD1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/form/div[2]/div/div/div/div[3]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f5e12b79-4cce-4f72-92d2-dbe1d7a1e699</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>register_content2__N9UD1</value>
+      <webElementGuid>2bedd3b0-4134-4a2f-98ae-1a08509fde54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Formi.co.in website ('Website') is an internet based entertainment ticketing portal owned and operated by Qultured media Private Ltd ('Formi'), a company incorporated under the laws of India, with its registered office</value>
+      <webElementGuid>a6735e21-7db1-4de3-82e9-aff5ed2542d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/form[@class=&quot;ant-form ant-form-horizontal&quot;]/div[@class=&quot;register_maincontainer__W6PYh&quot;]/div[@class=&quot;register_parent__t4evr&quot;]/div[@class=&quot;register_main_wrapper__MM_VK&quot;]/div[@class=&quot;register_step2__kjUHD&quot;]/div[@class=&quot;register_text_wrapper__NXSiJ&quot;]/div[@class=&quot;ant-col&quot;]/p[@class=&quot;register_content2__N9UD1&quot;]</value>
+      <webElementGuid>2219a9d8-2584-4f44-af2f-9e9aa48c8453</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/form/div[2]/div/div/div/div[3]/div/p</value>
+      <webElementGuid>3df63a31-834e-43e7-a131-4bcc2225a69d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acceptance of terms'])[1]/following::p[1]</value>
+      <webElementGuid>caee4c31-41e7-4d39-ab57-0969ad895993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Review terms &amp; Conditions'])[1]/following::p[1]</value>
+      <webElementGuid>daf36037-a72b-44a1-a245-3e0fbb317cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modification of Terms'])[1]/preceding::p[5]</value>
+      <webElementGuid>1a20b574-0a3f-4d3b-8d26-1c2392a2ec45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy policy'])[1]/preceding::p[6]</value>
+      <webElementGuid>6632a24e-ebdb-4c36-9026-0f2b5043a044</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>998f0967-9a73-483f-a5a8-4533f15682db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;The Formi.co.in website (&quot; , &quot;'&quot; , &quot;Website&quot; , &quot;'&quot; , &quot;) is an internet based entertainment ticketing portal owned and operated by Qultured media Private Ltd (&quot; , &quot;'&quot; , &quot;Formi&quot; , &quot;'&quot; , &quot;), a company incorporated under the laws of India, with its registered office&quot;) or . = concat(&quot;The Formi.co.in website (&quot; , &quot;'&quot; , &quot;Website&quot; , &quot;'&quot; , &quot;) is an internet based entertainment ticketing portal owned and operated by Qultured media Private Ltd (&quot; , &quot;'&quot; , &quot;Formi&quot; , &quot;'&quot; , &quot;), a company incorporated under the laws of India, with its registered office&quot;))]</value>
+      <webElementGuid>8c254373-590d-4812-8161-05e5f33a0399</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

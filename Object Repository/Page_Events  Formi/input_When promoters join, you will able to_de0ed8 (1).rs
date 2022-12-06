@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_When promoters join, you will able to_de0ed8 (1)</name>
+   <tag></tag>
+   <elementGuidId>794d21c7-0f45-41b1-abd9-4265abd85f14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='https://organizer-testing.formi.co.in/register?teamID=63664d91e80cb2e946d99c26']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.ant-input.ant-input-disabled.invite-modal_input__7nYxi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>dec5c876-dea9-410a-a16a-ef75f02407a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input ant-input-disabled invite-modal_input__7nYxi</value>
+      <webElementGuid>e098eb25-28c4-43ef-befe-bfd65f5028ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a19fd790-7edb-4aee-b626-1116261df72d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>https://organizer-testing.formi.co.in/register?teamID=63664d91e80cb2e946d99c26</value>
+      <webElementGuid>b1bb904a-c04d-4ed2-baf3-7ecf018a3616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ant-scrolling-effect&quot;]/div[4]/div[@class=&quot;ant-modal-root&quot;]/div[@class=&quot;ant-modal-wrap&quot;]/div[@class=&quot;ant-modal white-modal_modalcontainer__rk6Ls&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[@class=&quot;invite-modal_maincontainer__M7vMj&quot;]/div[@class=&quot;invite-modal_inputrow__paKAp&quot;]/input[@class=&quot;ant-input ant-input-disabled invite-modal_input__7nYxi&quot;]</value>
+      <webElementGuid>36e87392-a167-4df6-b3aa-7fdb2bd2e9db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='https://organizer-testing.formi.co.in/register?teamID=63664d91e80cb2e946d99c26']</value>
+      <webElementGuid>7e74a585-9a8f-44d9-984b-56926d5db24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>fdbc20d5-3f4b-489e-ae2c-7afef0eaee70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>2515eb7c-b03b-45e6-b362-f5d6965b61b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
